@@ -62,6 +62,11 @@ def race_progression_plot_interactive(df, gender, region):
         },
     )
 
+    fig.update_layout(
+        width=1200,  # Set the width
+        height=600,  # Set the height
+    )
+
     # Customize the layout
     fig.update_yaxes(autorange="reversed")  # Invert y-axis to show 1st rank at the top
     # Move legend to overlay the plot
@@ -69,7 +74,7 @@ def race_progression_plot_interactive(df, gender, region):
         legend=dict(
             title="Athlete (sorted by finish place)",
             orientation="v",  # Vertical orientation
-            font=dict(size=6),  # Set legend font size
+            font=dict(size=14),  # Set legend font size
         )
     )
 
