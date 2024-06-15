@@ -68,7 +68,8 @@ def add_victory_margin(df):
     ).round(6)
     df.loc[:, "victory_margin_s"] = df.loc[:, "time_in_seconds"] - df.loc[
         :, "time_in_seconds"
-    ].shift(1).round(2)
+    ].shift(1)
+    df.loc[:, "victory_margin_s"] = df.loc[:, "victory_margin_s"].round(2)
     return df
 
 
