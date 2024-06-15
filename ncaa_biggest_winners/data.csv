@@ -1,25 +1,25 @@
 Event,1st place name,2nd place name,1st place time,2nd place time,Margin of victory (s),Margin of victory (%),8th place name,8th place time,All American Spread (s),All American Spread (%)
-Women 10000 M (Final),Parker Valby,Hilda Olemomoi,31:46.09,31:51.89,5.8,0.0,Grace Hartmann,32:54.98,68.89,0.04
-Men 10000 M (Final),Habtom Samuel,Victor Kiprop,28:07.82,28:08.59,0.77,0.0,Patrick Kiprop,28:13.99,6.17,0.0
-Men 4x100 M Relay (Final),Auburn,LSU,38.03,38.21,0.18,0.0,Texas,38.99,0.96,0.03
-Men 1500 M (Final),Joe Waskom,Elliott Cook,3:39.48,3:39.57,0.09,0.0,Anass Essayi,3:40.81,1.33,0.01
-Men 3000 M Steeple (Final),Parker Stokes,Nathan Mountain,8:24.58,8:25.71,1.13,0.0,Alexander Korczynski,8:29.42,4.84,0.01
-Men 110 M Hurdles (Final),Darius Luff,Jakobe Tharp,13.19,13.20,0.01,0.0,Matthew Sophia,13.53,0.34,0.03
-Men 100 M (Final),Louie Hinchliffe,Favour Ashe,9.95,9.99,0.04,0.0,Zachaeus Beard,10.10,0.15,0.02
-Men 400 M (Final),Christopher Morale,Samuel Ogazi,44.47,44.52,0.05,0.0,Justin Robinson,45.92,1.45,0.03
-Men 800 M (Final),Shane Cohen,Sam Whitmarsh,1:44.97,1:45.10,0.13,0.0,Nicholas Plant,1:47.00,2.03,0.02
-Men 400 M Hurdles (Final),Caleb Dean,Chris Robinson,47.23,47.98,0.75,0.02,Sean Burrell,51.17,3.94,0.08
-Men 200 M (Final),Cheickna Traore,Robert Gregory,19.95,20.08,0.13,0.01,Lance Lang,20.67,0.72,0.04
-Men 5000 M (Final),Parker Wolfe,Nico Young,13:54.43,13:54.65,0.22,0.0,Jesse Hamlin,13:59.11,4.68,0.01
-Men 4x400 M Relay (Final),Texas ,Arkansas,2:58.37,2:58.83,0.46,0.0,USC,3:02.68,4.31,0.02
-Women 4x100 M Relay (Final),Ole Miss,LSU,42.34,42.57,0.23,0.01,Oregon,43.11,0.77,0.02
-Women 1500 M (Final),Maia Ramsden,Kimberley May,4:06.62,4:08.07,1.45,0.01,Olivia Howell,4:10.05,3.43,0.01
-Women 3000 M Steeple (Final),Doris Lemngole,Olivia Markezich,9:15.24,9:17.36,2.12,0.0,Karrie Baloga,9:42.22,26.98,0.05
-Women 100 M Hurdles (Final),Grace Stark,Maribel Caicedo,12.47,12.56,0.09,0.01,Jalaysiya Smith,12.96,0.49,0.04
-Women 100 M (Final),Mckenzie Long,Brianna Lyston,10.82,10.89,0.07,0.01,Tima Godbless,11.10,0.28,0.03
-Women 400 M (Final),Nickisha Pryce,Kaylyn Brown,48.89,49.13,0.24,0.0,Brianna White,50.79,1.9,0.04
-Women 800 M (Final),Juliette Whittaker,Roisin Willis,1:59.61,2:00.17,0.56,0.0,Lauren Tolbert,2:01.95,2.34,0.02
-Women 400 M Hurdles (Final),Jasmine Jones,Savannah Sutherland,53.15,53.26,0.11,0.0,Abbey Glynn,55.75,2.6,0.05
-Women 200 M (Final),Mckenzie Long,Jameesia Ford,21.83,22.08,0.25,0.01,Tima Godbless,22.87,1.04,0.05
-Women 5000 M (Final),Parker Valby,Hilda Olemomoi,14:52.18,15:10.04,17.86,0.02,Sadie Sargentby,15:30.63,38.45,0.04
-Women 4x400 M Relay (Final),Arkansas,Tennessee,3:17.96,3:23.32,5.36,0.03,Texas ,3:25.89,7.93,0.04
+Women 10000 M (Final),Parker Valby,Hilda Olemomoi,31:46.09,31:51.89,5.800000000000182,0.003043,Grace Hartmann,32:54.98,68.8900000000001,0.036142
+Men 10000 M (Final),Habtom Samuel,Victor Kiprop,28:07.82,28:08.59,0.7699999999999818,0.000456,Patrick Kiprop,28:13.99,6.170000000000073,0.003656
+Men 4x100 M Relay (Final),Auburn,LSU,38.03,38.21,0.17999999999999972,0.004733,Texas,38.99,0.9600000000000009,0.025243
+Men 1500 M (Final),Joe Waskom,Elliott Cook,3:39.48,3:39.57,0.09000000000000341,0.00041,Anass Essayi,3:40.81,1.3300000000000125,0.00606
+Men 3000 M Steeple (Final),Parker Stokes,Nathan Mountain,8:24.58,8:25.71,1.1299999999999955,0.002239,Alexander Korczynski,8:29.42,4.840000000000032,0.009592
+Men 110 M Hurdles (Final),Darius Luff,Jakobe Tharp,13.19,13.20,0.009999999999999787,0.000758,Matthew Sophia,13.53,0.33999999999999986,0.025777
+Men 100 M (Final),Louie Hinchliffe,Favour Ashe,9.95,9.99,0.040000000000000924,0.00402,Zachaeus Beard,10.10,0.15000000000000036,0.015075
+Men 400 M (Final),Christopher Morale,Samuel Ogazi,44.47,44.52,0.05000000000000426,0.001124,Justin Robinson,45.92,1.4500000000000028,0.032606
+Men 800 M (Final),Shane Cohen,Sam Whitmarsh,1:44.97,1:45.10,0.12999999999999545,0.001238,Nicholas Plant,1:47.00,2.030000000000001,0.019339
+Men 400 M Hurdles (Final),Caleb Dean,Chris Robinson,47.23,47.98,0.75,0.01588,Sean Burrell,51.17,3.940000000000005,0.083422
+Men 200 M (Final),Cheickna Traore,Robert Gregory,19.95,20.08,0.129999999999999,0.006516,Lance Lang,20.67,0.7200000000000024,0.03609
+Men 5000 M (Final),Parker Wolfe,Nico Young,13:54.43,13:54.65,0.22000000000002728,0.000264,Jesse Hamlin,13:59.11,4.680000000000064,0.005609
+Men 4x400 M Relay (Final),Texas ,Arkansas,2:58.37,2:58.83,0.45999999999997954,0.002579,USC,3:02.68,4.310000000000002,0.024163
+Women 4x100 M Relay (Final),Ole Miss,LSU,42.34,42.57,0.22999999999999687,0.005432,Oregon,43.11,0.769999999999996,0.018186
+Women 1500 M (Final),Maia Ramsden,Kimberley May,4:06.62,4:08.07,1.4499999999999886,0.005879,Olivia Howell,4:10.05,3.430000000000007,0.013908
+Women 3000 M Steeple (Final),Doris Lemngole,Olivia Markezich,9:15.24,9:17.36,2.1200000000000045,0.003818,Karrie Baloga,9:42.22,26.980000000000018,0.048592
+Women 100 M Hurdles (Final),Grace Stark,Maribel Caicedo,12.47,12.56,0.08999999999999986,0.007217,Jalaysiya Smith,12.96,0.4900000000000002,0.039294
+Women 100 M (Final),Mckenzie Long,Brianna Lyston,10.82,10.89,0.07000000000000028,0.00647,Tima Godbless,11.10,0.27999999999999936,0.025878
+Women 400 M (Final),Nickisha Pryce,Kaylyn Brown,48.89,49.13,0.240000000000002,0.004909,Brianna White,50.79,1.8999999999999986,0.038863
+Women 800 M (Final),Juliette Whittaker,Roisin Willis,1:59.61,2:00.17,0.5600000000000023,0.004682,Lauren Tolbert,2:01.95,2.3400000000000034,0.019564
+Women 400 M Hurdles (Final),Jasmine Jones,Savannah Sutherland,53.15,53.26,0.10999999999999943,0.00207,Abbey Glynn,55.75,2.6000000000000014,0.048918
+Women 200 M (Final),Mckenzie Long,Jameesia Ford,21.83,22.08,0.25,0.011452,Tima Godbless,22.87,1.0400000000000027,0.047641
+Women 5000 M (Final),Parker Valby,Hilda Olemomoi,14:52.18,15:10.04,17.860000000000014,0.020018,Sadie Sargentby,15:30.63,38.450000000000045,0.043097
+Women 4x400 M Relay (Final),Arkansas,Tennessee,3:17.96,3:23.32,5.359999999999985,0.027076,Texas ,3:25.89,7.929999999999978,0.040059
