@@ -64,11 +64,11 @@ def add_time_in_seconds(df):
 
 def add_victory_margin(df):
     df.loc[:, "victory_margin_perc"] = (
-        df.loc[:, "time_in_seconds"].pct_change() * 100
+        df.loc[:, "time_in_seconds"].pct_change()
     ).round(2)
     df.loc[:, "victory_margin_s"] = (
         df.loc[:, "time_in_seconds"] - df.loc[:, "time_in_seconds"].shift(1)
-    ).round(2)
+    ).round(4)
     return df
 
 
