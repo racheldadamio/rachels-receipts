@@ -3,6 +3,24 @@ import requests
 from bs4 import BeautifulSoup
 
 
+def get_event_name(url):
+    # Step 1: Fetch the web page
+    response = requests.get(url)
+    html_content = response.text
+
+    # Step 2: Parse the HTML
+    soup = BeautifulSoup(html_content, "html.parser")
+
+    li_tag = soup.find("li", class_="breadcrumb-item active")
+
+    if li_tag:
+        text_content = li_tag.get_text().strip()
+        return text_content
+    else:
+        print("No <li> tag with class 'breadcrumb-item active' found.")
+        return None
+
+
 def scrape_results(url):
     # Step 1: Fetch the web page
     response = requests.get(url)
