@@ -46,6 +46,11 @@ def clean_results_df(df, event_name):
 
 
 def filter_results_df(df, places):
+    # recreate Pl column in case of ties
+    df = df.dropna()
+    df["Pl"] = range(len(df))
+    df["Pl"] = df["Pl"].astype(str)
+    # df = df.drop_duplicates(subset="Pl", keep="first")
     return df[df["Pl"].isin(places)]
 
 
@@ -62,14 +67,33 @@ def add_time_in_seconds(df):
     return df
 
 
-def add_victory_margin(df):
-    df.loc[:, "victory_margin_perc"] = (
-        df.loc[:, "time_in_seconds"].pct_change()
-    ).round(6)
-    df.loc[:, "victory_margin_s"] = df.loc[:, "time_in_seconds"] - df.loc[
-        :, "time_in_seconds"
-    ].shift(1)
-    df.loc[:, "victory_margin_s"] = df.loc[:, "victory_margin_s"].round(2)
+def get_meters(df):
+    df["Mark"] = df["Best"].str.split("m").str[0]
+    df["Mark"] = df["Mark"].astype(float)
+    return df
+
+
+def get_points(df):
+    df["Mark"] = df["Points"].str.split("\\n").str[0]
+    df["Mark"] = df["Mark"].astype(float)
+    return df
+
+
+def add_victory_margin(df, col_name="time_in_seconds"):
+    if col_name == "time_in_seconds":
+        df.loc[:, "victory_margin_perc"] = (df.loc[:, col_name].pct_change()).round(6)
+        df.loc[:, "victory_margin_s"] = df.loc[:, col_name] - df.loc[:, col_name].shift(
+            1
+        )
+        df.loc[:, "victory_margin_s"] = df.loc[:, "victory_margin_s"].round(2)
+    else:
+        df = df.sort_values(by="Pl", ascending=False)
+        df.loc[:, "victory_margin_perc"] = (df.loc[:, col_name].pct_change()).round(6)
+        df.loc[:, "victory_margin_s"] = df.loc[:, col_name] - df.loc[:, col_name].shift(
+            1
+        )
+        df.loc[:, "victory_margin_s"] = df.loc[:, "victory_margin_s"].round(2)
+        df = df.bfill()
     return df
 
 
@@ -82,12 +106,16 @@ def pivot_to_one_row(df):
     return pivot_df
 
 
-def final_format_top_two(df):
+def final_format_top_two(df, col_name="Time"):
+    if col_name == "Time":
+        unit = "s"
+    elif col_name == "Mark":
+        unit = "m"
     df["1st place name"] = df["Name_1"]
     df["2nd place name"] = df["Name_2"]
-    df["1st place time"] = df["Time_1"]
-    df["2nd place time"] = df["Time_2"]
-    df["Margin of victory (s)"] = df["victory_margin_s_2"]
+    df[f"1st place {col_name.lower()}"] = df[f"{col_name}_1"]
+    df[f"2nd place {col_name.lower()}"] = df[f"{col_name}_2"]
+    df[f"Margin of victory ({unit})"] = df["victory_margin_s_2"]
     df["Margin of victory (%)"] = df["victory_margin_perc_2"]
     df["Event"] = df.index
 
@@ -96,20 +124,24 @@ def final_format_top_two(df):
             "Event",
             "1st place name",
             "2nd place name",
-            "1st place time",
-            "2nd place time",
-            "Margin of victory (s)",
+            f"1st place {col_name.lower()}",
+            f"2nd place {col_name.lower()}",
+            f"Margin of victory ({unit})",
             "Margin of victory (%)",
         ]
     ].reset_index(drop=True)
 
 
-def final_format_all_am(df):
+def final_format_all_am(df, col_name="Time"):
+    if col_name == "Time":
+        unit = "s"
+    elif col_name == "Mark":
+        unit = "m"
     df["1st place name"] = df["Name_1"]
     df["8th place name"] = df["Name_8"]
-    df["1st place time"] = df["Time_1"]
-    df["8th place time"] = df["Time_8"]
-    df["All American Spread (s)"] = df["victory_margin_s_8"]
+    df[f"1st place {col_name.lower()}"] = df[f"{col_name}_1"]
+    df[f"8th place {col_name.lower()}"] = df[f"{col_name}_8"]
+    df[f"All American Spread ({unit})"] = df["victory_margin_s_8"]
     df["All American Spread (%)"] = df["victory_margin_perc_8"]
     df["Event"] = df.index
 
@@ -118,9 +150,9 @@ def final_format_all_am(df):
             "Event",
             "1st place name",
             "8th place name",
-            "1st place time",
-            "8th place time",
-            "All American Spread (s)",
+            f"1st place {col_name.lower()}",
+            f"8th place {col_name.lower()}",
+            f"All American Spread ({unit})",
             "All American Spread (%)",
         ]
     ].reset_index(drop=True)

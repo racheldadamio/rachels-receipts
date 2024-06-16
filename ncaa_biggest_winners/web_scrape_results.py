@@ -31,9 +31,9 @@ def scrape_results(url):
 
     # Step 3: Find the table
     # You can find the table by looking for the <table> tag, or by its id or class if it's specified
-    table = soup.find(
-        "table", {"id": "events"}
-    )  # Adjust this to be more specific if needed, e.g., soup.find('table', {'id': 'table_id'})
+    table = soup.find("table", {"id": "events"})
+    if table is None:
+        table = soup.find("table", {"id": "multitotalscores"})
 
     # Step 4: Extract rows and columns
     rows = table.find_all("tr")
