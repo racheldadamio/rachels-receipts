@@ -25,6 +25,7 @@ def clean_names(df, event_name):
         df["Athlete"] = df["Athlete"].str.replace(r"'", "", regex=True)
         df["Athlete"] = df["Athlete"].str.replace("USC", "U", regex=True)
         df["Athlete"] = df["Athlete"].str.replace("LSU", "L", regex=True)
+        df["Athlete"] = df["Athlete"].str.replace("BYU", "B", regex=True)
         # Extract the first name and last name
         df["Name"] = (
             df["Athlete"]
@@ -48,7 +49,7 @@ def clean_results_df(df, event_name):
 def filter_results_df(df, places):
     # recreate Pl column in case of ties
     df = df.dropna()
-    df["Pl"] = range(len(df))
+    df["Pl"] = range(1, len(df) + 1)
     df["Pl"] = df["Pl"].astype(str)
     # df = df.drop_duplicates(subset="Pl", keep="first")
     return df[df["Pl"].isin(places)]
