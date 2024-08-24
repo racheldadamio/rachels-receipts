@@ -1,0 +1,614 @@
+Event,Athlete,Country,Finish Place,World Ranking,World Ranking Rank,Event type,Medal,No World Rank
+100m Men,Noah LYLES,USA,1,1.0,1,Sprints,True,False
+100m Men,Kishane THOMPSON,JAM,2,6.0,4,Sprints,True,False
+100m Men,Fred KERLEY,USA,3,13.0,7,Sprints,True,False
+100m Men,Akani SIMBINE,RSA,4,7.0,5,Sprints,False,False
+100m Men,Lamont Marcell JACOBS,ITA,5,12.0,6,Sprints,False,False
+100m Men,Letsile TEBOGO,BOT,6,3.0,2,Sprints,False,False
+100m Men,Kenneth BEDNAREK,USA,7,22.0,8,Sprints,False,False
+100m Men,Oblique SEVILLE,JAM,8,5.0,3,Sprints,False,False
+100m Women,Julien ALFRED,LCA,1,3.0,2,Sprints,True,False
+100m Women,Sha'Carri RICHARDSON,USA,2,1.0,1,Sprints,True,False
+100m Women,Melissa JEFFERSON,USA,3,20.0,7,Sprints,True,False
+100m Women,Daryll NEITA,GBR,4,15.0,4,Sprints,False,False
+100m Women,Twanisha TERRY,USA,5,17.0,5,Sprints,False,False
+100m Women,Mujinga KAMBUNDJI,SUI,6,19.0,6,Sprints,False,False
+100m Women,Tia CLAYTON,JAM,7,29.0,8,Sprints,False,False
+100m Women,Marie-Josée TA LOU-SMITH,CIV,8,4.0,3,Sprints,False,False
+200m Men,Letsile TEBOGO,BOT,1,4.0,4,Sprints,True,False
+200m Men,Kenneth BEDNAREK,USA,2,2.0,2,Sprints,True,False
+200m Men,Noah LYLES,USA,3,1.0,1,Sprints,True,False
+200m Men,Erriyon KNIGHTON,USA,4,3.0,3,Sprints,False,False
+200m Men,Alexander OGANDO,DOM,5,7.0,5,Sprints,False,False
+200m Men,Tapiwanashe MAKARAWU,ZIM,6,24.0,7,Sprints,False,False
+200m Men,Joseph FAHNBULLEH,LBR,7,11.0,6,Sprints,False,False
+200m Men,Makanakaishe CHARAMBA,ZIM,8,30.0,8,Sprints,False,False
+200m Women,Gabrielle THOMAS,USA,1,2.0,1,Sprints,True,False
+200m Women,Julien ALFRED,LCA,2,4.0,3,Sprints,True,False
+200m Women,Brittany BROWN,USA,3,9.0,5,Sprints,True,False
+200m Women,Dina ASHER-SMITH,GBR,4,7.0,4,Sprints,False,False
+200m Women,Daryll NEITA,GBR,5,3.0,2,Sprints,False,False
+200m Women,Favour OFILI,NGR,6,31.0,8,Sprints,False,False
+200m Women,Mckenzie LONG,USA,7,11.0,6,Sprints,False,False
+200m Women,Jessika GBAI,CIV,8,15.0,7,Sprints,False,False
+400m Men,Quincy HALL,USA,1,1.0,1,Sprints,True,False
+400m Men,Matthew HUDSON-SMITH,GBR,2,2.0,2,Sprints,True,False
+400m Men,Muzala SAMUKONGA,ZAM,3,33.0,7,Sprints,True,False
+400m Men,Jereem RICHARDS,TTO,4,17.0,4,Sprints,False,False
+400m Men,Kirani JAMES,GRN,5,4.0,3,Sprints,False,False
+400m Men,Christopher BAILEY,USA,6,21.0,5,Sprints,False,False
+400m Men,Samuel OGAZI,NGR,7,23.0,6,Sprints,False,False
+400m Men,Michael NORMAN,USA,8,36.0,8,Sprints,False,False
+400m Women,Marileidy PAULINO,DOM,1,1.0,1,Sprints,True,False
+400m Women,Salwa Eid NASER,BRN,2,13.0,6,Sprints,True,False
+400m Women,Natalia KACZMAREK,POL,3,2.0,2,Sprints,True,False
+400m Women,Rhasidat ADELEKE,IRL,4,3.0,3,Sprints,False,False
+400m Women,Amber ANNING,GBR,5,16.0,7,Sprints,False,False
+400m Women,Alexis HOLMES,USA,6,7.0,5,Sprints,False,False
+400m Women,Sada WILLIAMS,BAR,7,5.0,4,Sprints,False,False
+400m Women,Henriette JÆGER,NOR,8,18.0,8,Sprints,False,False
+800m Men,Emmanuel WANYONYI,KEN,1,1.0,1,Middle Distance,True,False
+800m Men,Marco AROP,CAN,2,2.0,2,Middle Distance,True,False
+800m Men,Djamel SEDJATI,ALG,3,3.0,3,Middle Distance,True,False
+800m Men,Bryce HOPPEL,USA,4,4.0,4,Middle Distance,False,False
+800m Men,Mohamed ATTAOUI,ESP,5,13.0,7,Middle Distance,False,False
+800m Men,Gabriel TUAL,FRA,6,7.0,5,Middle Distance,False,False
+800m Men,Tshepiso MASALELA,BOT,7,8.0,6,Middle Distance,False,False
+800m Men,Max BURGIN,GBR,8,,8,Middle Distance,False,True
+800m Women,Keely HODGKINSON,GBR,1,1.0,1,Middle Distance,True,False
+800m Women,Tsige DUGUMA,ETH,2,9.0,3,Middle Distance,True,False
+800m Women,Mary MORAA,KEN,3,2.0,2,Middle Distance,True,False
+800m Women,Shafiqua MALONEY,VIN,4,27.0,7,Middle Distance,False,False
+800m Women,Rénelle LAMOTE,FRA,5,16.0,5,Middle Distance,False,False
+800m Women,Worknesh MESELE,ETH,6,21.0,6,Middle Distance,False,False
+800m Women,Juliette WHITTAKER,USA,7,45.0,8,Middle Distance,False,False
+800m Women,Prudence SEKGODISO,RSA,8,11.0,4,Middle Distance,False,False
+1500m Men,Cole HOCKER,USA,1,8.0,5,Middle Distance,True,False
+1500m Men,Josh KERR,GBR,2,3.0,3,Middle Distance,True,False
+1500m Men,Yared NUGUSE,USA,3,2.0,2,Middle Distance,True,False
+1500m Men,Jakob INGEBRIGTSEN,NOR,4,1.0,1,Middle Distance,False,False
+1500m Men,Hobbs KESSLER,USA,5,12.0,7,Middle Distance,False,False
+1500m Men,Niels LAROS,NED,6,13.0,8,Middle Distance,False,False
+1500m Men,Narve Gilje NORDÅS,NOR,7,4.0,4,Middle Distance,False,False
+1500m Men,Pietro ARESE,ITA,8,26.0,11,Middle Distance,False,False
+1500m Men,Stefan NILLESSEN,NED,9,48.0,12,Middle Distance,False,False
+1500m Men,Neil GOURLEY,GBR,10,16.0,9,Middle Distance,False,False
+1500m Men,Timothy CHERUIYOT,KEN,11,18.0,10,Middle Distance,False,False
+1500m Men,Brian KOMEN,KEN,12,10.0,6,Middle Distance,False,False
+1500m Women,Faith KIPYEGON,KEN,1,1.0,1,Middle Distance,True,False
+1500m Women,Jessica HULL,AUS,2,3.0,3,Middle Distance,True,False
+1500m Women,Georgia BELL,GBR,3,13.0,5,Middle Distance,True,False
+1500m Women,Diribe WELTEJI,ETH,4,2.0,2,Middle Distance,False,False
+1500m Women,Laura MUIR,GBR,5,4.0,4,Middle Distance,False,False
+1500m Women,Susan Lokayo EJORE,KEN,6,20.0,7,Middle Distance,False,False
+1500m Women,Nikki HILTZ,USA,7,19.0,6,Middle Distance,False,False
+1500m Women,Elle ST. PIERRE,USA,8,26.0,9,Middle Distance,False,False
+1500m Women,Agathe GUILLEMOT,FRA,9,23.0,8,Middle Distance,False,False
+1500m Women,Klaudia KAZIMIERSKA,POL,10,48.0,10,Middle Distance,False,False
+1500m Women,Águeda MARQUÉS,ESP,11,52.0,11,Middle Distance,False,False
+1500m Women,Gudaf TSEGAY,ETH,12,,12,Middle Distance,False,True
+5000m Men,Jakob INGEBRIGTSEN,NOR,1,2.0,1,Distance,True,False
+5000m Men,Ronald KWEMOI,KEN,2,45.0,17,Distance,True,False
+5000m Men,Grant FISHER,USA,3,5.0,3,Distance,True,False
+5000m Men,Dominic Lokinyomo LOBALU,EOR,4,7.0,4,Distance,False,False
+5000m Men,Hagos GEBRHIWET,ETH,5,3.0,2,Distance,False,False
+5000m Men,Biniam MEHARY,ETH,6,9.0,5,Distance,False,False
+5000m Men,Edwin KURGAT,KEN,7,,20,Distance,False,True
+5000m Men,Isaac KIMELI,BEL,8,37.0,14,Distance,False,False
+5000m Men,Graham BLANKS,USA,9,61.0,19,Distance,False,False
+5000m Men,Jacob KROP,KEN,10,12.0,6,Distance,False,False
+5000m Men,John HEYMANS,BEL,11,52.0,18,Distance,False,False
+5000m Men,Yann SCHRUB,FRA,12,35.0,13,Distance,False,False
+5000m Men,Mike FOPPEN,NED,13,41.0,16,Distance,False,False
+5000m Men,Addisu YIHUNE,ETH,14,14.0,7,Distance,False,False
+5000m Men,Thierry NDIKUMWENAYO,ESP,15,18.0,8,Distance,False,False
+5000m Men,Hugo HAY,FRA,16,,20,Distance,False,True
+5000m Men,Narve Gilje NORDÅS,NOR,17,20.0,10,Distance,False,False
+5000m Men,Stewart MCSWEYN,AUS,18,19.0,9,Distance,False,False
+5000m Men,Dawit SEARE,ERI,19,40.0,15,Distance,False,False
+5000m Men,Oscar CHELIMO,UGA,20,33.0,11,Distance,False,False
+5000m Men,George MILLS,GBR,21,,20,Distance,False,True
+5000m Men,Thomas FAFARD,CAN,22,34.0,12,Distance,False,False
+5000m Women,Beatrice CHEBET,KEN,1,1.0,1,Distance,True,False
+5000m Women,Faith KIPYEGON,KEN,2,12.0,6,Distance,True,False
+5000m Women,Sifan HASSAN,NED,3,7.0,5,Distance,True,False
+5000m Women,Nadia BATTOCLETTI,ITA,4,13.0,7,Distance,False,False
+5000m Women,Margaret Chelimo KIPKEMBOI,KEN,5,22.0,9,Distance,False,False
+5000m Women,Ejgayehu TAYE,ETH,6,3.0,3,Distance,False,False
+5000m Women,Medina EISA,ETH,7,4.0,4,Distance,False,False
+5000m Women,Karoline Bjerkeli GRØVDAL,NOR,8,17.0,8,Distance,False,False
+5000m Women,Gudaf TSEGAY,ETH,9,2.0,2,Distance,False,False
+5000m Women,Karissa SCHWEIZER,USA,10,38.0,14,Distance,False,False
+5000m Women,Elise CRANNY,USA,11,31.0,12,Distance,False,False
+5000m Women,Rose DAVIES,AUS,12,29.0,10,Distance,False,False
+5000m Women,Nathalie BLOMQVIST,FIN,13,30.0,11,Distance,False,False
+5000m Women,Whittni MORGAN,USA,14,66.0,16,Distance,False,False
+5000m Women,Joselyn Daniely BREA,VEN,15,52.0,15,Distance,False,False
+5000m Women,Francine NIYOMUKUNZI,BDI,16,37.0,13,Distance,False,False
+10000m Men,Joshua CHEPTEGEI,UGA,1,2.0,1,Distance,True,False
+10000m Men,Berihu AREGAWI,ETH,2,4.0,3,Distance,True,False
+10000m Men,Grant FISHER,USA,3,11.0,10,Distance,True,False
+10000m Men,Mohammed AHMED,CAN,4,5.0,4,Distance,False,False
+10000m Men,Benard KIBET,KEN,5,6.0,5,Distance,False,False
+10000m Men,Yomif KEJELCHA,ETH,6,7.0,6,Distance,False,False
+10000m Men,Selemon BAREGA,ETH,7,3.0,2,Distance,False,False
+10000m Men,Jacob KIPLIMO,UGA,8,,22,Distance,False,True
+10000m Men,Thierry NDIKUMWENAYO,ESP,9,38.0,18,Distance,False,False
+10000m Men,Adriaan WILDSCHUTT,RSA,10,10.0,9,Distance,False,False
+10000m Men,Daniel MATEIKO,KEN,11,,22,Distance,False,True
+10000m Men,Nico YOUNG,USA,12,17.0,13,Distance,False,False
+10000m Men,Jimmy GRESSIER,FRA,13,20.0,14,Distance,False,False
+10000m Men,Nicholas KIPKORIR,KEN,14,9.0,8,Distance,False,False
+10000m Men,Merhawi MEBRAHTU,ERI,15,50.0,19,Distance,False,False
+10000m Men,William KINCAID,USA,16,8.0,7,Distance,False,False
+10000m Men,Birhanu BALEW,BRN,17,33.0,17,Distance,False,False
+10000m Men,Jamal Abdelmaji EISA MOHAMMED,EOR,18,,22,Distance,False,True
+10000m Men,Isaac KIMELI,BEL,19,56.0,20,Distance,False,False
+10000m Men,Jun KASAI,JPN,20,23.0,15,Distance,False,False
+10000m Men,Yves NIMUBONA,RWA,21,,22,Distance,False,True
+10000m Men,Martin Magengo KIPROTICH,UGA,22,,22,Distance,False,True
+10000m Men,Abdessamad OUKHELFEN,ESP,23,73.0,21,Distance,False,False
+10000m Men,Tomoki OTA,JPN,24,13.0,12,Distance,False,False
+10000m Men,Yann SCHRUB,FRA,,31.0,16,Distance,False,False
+10000m Men,Rodrigue KWIZERA,BDI,,12.0,11,Distance,False,False
+10000m Men,Célestin NDIKUMANA,BDI,,,22,Distance,False,True
+10000m Women,Beatrice CHEBET,KEN,1,,22,Distance,True,True
+10000m Women,Nadia BATTOCLETTI,ITA,2,14.0,5,Distance,True,False
+10000m Women,Sifan HASSAN,NED,3,9.0,3,Distance,True,False
+10000m Women,Margaret Chelimo KIPKEMBOI,KEN,4,22.0,11,Distance,False,False
+10000m Women,Lilian Kasait RENGERUK,KEN,5,11.0,4,Distance,False,False
+10000m Women,Gudaf TSEGAY,ETH,6,1.0,1,Distance,False,False
+10000m Women,Fotyen TESFAY,ETH,7,16.0,7,Distance,False,False
+10000m Women,Weini KELATI FREZGHI,USA,8,18.0,9,Distance,False,False
+10000m Women,Karissa SCHWEIZER,USA,9,37.0,17,Distance,False,False
+10000m Women,Tsigie GEBRESELAMA,ETH,10,5.0,2,Distance,False,False
+10000m Women,Parker VALBY,USA,11,35.0,16,Distance,False,False
+10000m Women,Sarah CHELANGAT,UGA,12,25.0,13,Distance,False,False
+10000m Women,Lauren RYAN,AUS,13,39.0,19,Distance,False,False
+10000m Women,Francine NIYOMUKUNZI,BDI,14,38.0,18,Distance,False,False
+10000m Women,Eilish MCCOLGAN,GBR,15,28.0,14,Distance,False,False
+10000m Women,Diane VAN ES,NED,16,15.0,6,Distance,False,False
+10000m Women,Daisy JEPKEMEI,KAZ,17,62.0,21,Distance,False,False
+10000m Women,Rino GOSHIMA,JPN,18,21.0,10,Distance,False,False
+10000m Women,Haruka KOKAI,JPN,19,24.0,12,Distance,False,False
+10000m Women,Klara LUKAN,SLO,20,29.0,15,Distance,False,False
+10000m Women,Annet Chemengich CHELANGAT,UGA,21,,22,Distance,False,True
+10000m Women,Yuka TAKASHIMA,JPN,22,51.0,20,Distance,False,False
+10000m Women,Megan KEITH,GBR,23,17.0,8,Distance,False,False
+10000m Women,Rahel DANIEL,ERI,,,22,Distance,False,True
+10000m Women,Alessia ZARBO,FRA,,,22,Distance,False,True
+3000m Steeplechase Men,Soufiane EL BAKKALI,MAR,1,1.0,1,Distance,True,False
+3000m Steeplechase Men,Kenneth ROOKS,USA,2,24.0,15,Distance,True,False
+3000m Steeplechase Men,Abraham KIBIWOT,KEN,3,3.0,3,Distance,True,False
+3000m Steeplechase Men,Mohamed Amin JHINAOUI,TUN,4,11.0,9,Distance,False,False
+3000m Steeplechase Men,Ahmed JAZIRI,TUN,5,56.0,16,Distance,False,False
+3000m Steeplechase Men,Samuel FIREWU,ETH,6,4.0,4,Distance,False,False
+3000m Steeplechase Men,Simon Kiprop KOECH,KEN,7,8.0,7,Distance,False,False
+3000m Steeplechase Men,Ryuji MIURA,JPN,8,9.0,8,Distance,False,False
+3000m Steeplechase Men,Getnet WALE,ETH,9,7.0,6,Distance,False,False
+3000m Steeplechase Men,Daniel ARCE,ESP,10,14.0,11,Distance,False,False
+3000m Steeplechase Men,Avinash Mukund SABLE,IND,11,15.0,12,Distance,False,False
+3000m Steeplechase Men,Mohamed TINDOUFT,MAR,12,21.0,14,Distance,False,False
+3000m Steeplechase Men,Jean-Simon DESGAGNÉS,CAN,13,13.0,10,Distance,False,False
+3000m Steeplechase Men,Amos SEREM,KEN,14,5.0,5,Distance,False,False
+3000m Steeplechase Men,Leonard CHEMUTAI,UGA,15,20.0,13,Distance,False,False
+3000m Steeplechase Men,Lamecha GIRMA,ETH,,2.0,2,Distance,False,False
+3000m Steeplechase Women,Winfred Mutile YAVI,BRN,1,,14,Distance,True,True
+3000m Steeplechase Women,Peruth CHEMUTAI,UGA,2,4.0,3,Distance,True,False
+3000m Steeplechase Women,Faith CHEROTICH,KEN,3,3.0,2,Distance,True,False
+3000m Steeplechase Women,Alice FINOT,FRA,4,5.0,4,Distance,False,False
+3000m Steeplechase Women,Sembo ALMAYEW,ETH,5,9.0,5,Distance,False,False
+3000m Steeplechase Women,Beatrice CHEPKOECH,KEN,6,2.0,1,Distance,False,False
+3000m Steeplechase Women,Elizabeth BIRD,GBR,7,11.0,6,Distance,False,False
+3000m Steeplechase Women,Lomi MULETA,ETH,8,13.0,7,Distance,False,False
+3000m Steeplechase Women,Norah JERUTO,KAZ,9,,14,Distance,False,True
+3000m Steeplechase Women,Lea MEYER,GER,10,22.0,12,Distance,False,False
+3000m Steeplechase Women,Irene SÁNCHEZ-ESCRIBANO,ESP,11,31.0,13,Distance,False,False
+3000m Steeplechase Women,Courtney WAYMENT,USA,12,14.0,8,Distance,False,False
+3000m Steeplechase Women,Alicja KONIECZEK,POL,13,19.0,11,Distance,False,False
+3000m Steeplechase Women,Gesa Felicitas KRAUSE,GER,14,15.0,9,Distance,False,False
+3000m Steeplechase Women,Valerie CONSTIEN,USA,15,17.0,10,Distance,False,False
+Marathon Men,Tamirat TOLA,ETH,1,5.0,3,Distance,True,False
+Marathon Men,Bashir ABDI,BEL,2,12.0,6,Distance,True,False
+Marathon Men,Benson KIPRUTO,KEN,3,1.0,1,Distance,True,False
+Marathon Men,Emile CAIRESS,GBR,4,39.0,15,Distance,False,False
+Marathon Men,Deresa GELETA,ETH,5,35.0,12,Distance,False,False
+Marathon Men,Akira AKASAKI,JPN,6,,32,Distance,False,True
+Marathon Men,Tebello RAMAKONGOANA,LES,7,58.0,20,Distance,False,False
+Marathon Men,Conner MANTZ,USA,8,82.0,26,Distance,False,False
+Marathon Men,Clayton YOUNG,USA,9,,32,Distance,False,True
+Marathon Men,Samsom AMARE,ERI,10,,32,Distance,False,True
+Marathon Men,Elroy GELANT,RSA,11,,32,Distance,False,True
+Marathon Men,Richard RINGER,GER,12,,32,Distance,False,True
+Marathon Men,Suguru OSAKO,JPN,13,99.0,31,Distance,False,False
+Marathon Men,Ibrahim HASSAN,DJI,14,,32,Distance,False,True
+Marathon Men,Samuel FITWI SIBHATU,GER,15,,32,Distance,False,True
+Marathon Men,Nicolas NAVARRO,FRA,16,,32,Distance,False,True
+Marathon Men,Alphonce Felix SIMBU,TAN,17,25.0,10,Distance,False,False
+Marathon Men,Othmane EL GOUMRI,MAR,18,17.0,8,Distance,False,False
+Marathon Men,Isaac MPOFU,ZIM,19,,32,Distance,False,True
+Marathon Men,Hassan CHAHDI,FRA,20,45.0,17,Distance,False,False
+Marathon Men,Alexander MUNYAO,KEN,21,3.0,2,Distance,False,False
+Marathon Men,Michael SOMERS,BEL,22,,32,Distance,False,True
+Marathon Men,Naoki KOYAMA,JPN,23,84.0,28,Distance,False,False
+Marathon Men,Patrick TIERNAN,AUS,24,,32,Distance,False,True
+Marathon Men,Yemaneberhan CRIPPA,ITA,25,,32,Distance,False,True
+Marathon Men,Maru TEFERI,ISR,26,27.0,11,Distance,False,False
+Marathon Men,Stephen MOKOKA,RSA,27,,32,Distance,False,True
+Marathon Men,Suldan HASSAN,SWE,28,,32,Distance,False,True
+Marathon Men,Il Ryong HAN,PRK,29,,32,Distance,False,True
+Marathon Men,Matthias KYBURZ,SUI,30,,32,Distance,False,True
+Marathon Men,Gashau AYALE,ISR,31,55.0,19,Distance,False,False
+Marathon Men,Sondre Nordstad MOEN,NOR,32,,32,Distance,False,True
+Marathon Men,Yaseen ABDALLA,SUD,33,,32,Distance,False,True
+Marathon Men,Ibrahim CHAKIR,ESP,34,,32,Distance,False,True
+Marathon Men,Zouhair TALBI,MAR,35,60.0,21,Distance,False,False
+Marathon Men,Cameron LEVINS,CAN,36,79.0,25,Distance,False,False
+Marathon Men,Victor KIPLANGAT,UGA,37,6.0,4,Distance,False,False
+Marathon Men,Tadesse ABRAHAM,SUI,38,44.0,16,Distance,False,False
+Marathon Men,Kenenisa BEKELE,ETH,39,7.0,5,Distance,False,False
+Marathon Men,Xiangdong WU,CHN,40,,32,Distance,False,True
+Marathon Men,Yago ROJO,ESP,41,,32,Distance,False,True
+Marathon Men,Tachlowini GABRIYESOS,EOR,42,,32,Distance,False,True
+Marathon Men,Eyob FANIEL,ITA,43,,32,Distance,False,True
+Marathon Men,Girmaw AMARE,ISR,44,,32,Distance,False,True
+Marathon Men,Andrew BUCHANAN,AUS,45,,32,Distance,False,True
+Marathon Men,Philip SESEMANN,GBR,46,,32,Distance,False,True
+Marathon Men,Rory LINKLETTER,CAN,47,,32,Distance,False,True
+Marathon Men,Samuel BARATA,POR,48,,32,Distance,False,True
+Marathon Men,Liam ADAMS,AUS,49,,32,Distance,False,True
+Marathon Men,Felix BOUR,FRA,50,,32,Distance,False,True
+Marathon Men,Daniele MEUCCI,ITA,51,,32,Distance,False,True
+Marathon Men,Zerei Kbrom MEZNGI,NOR,52,,32,Distance,False,True
+Marathon Men,Carlos DÍAZ,CHI,53,,32,Distance,False,True
+Marathon Men,Henok TESFAY,ERI,54,92.0,29,Distance,False,False
+Marathon Men,Shaohui YANG,CHN,55,71.0,22,Distance,False,False
+Marathon Men,Samuel FREIRE,CPV,56,,32,Distance,False,True
+Marathon Men,Mahamed MAHAMED,GBR,57,83.0,27,Distance,False,False
+Marathon Men,Khalid CHOUKOUD,NED,58,,32,Distance,False,True
+Marathon Men,Hugo CATRILEO,CHI,59,,32,Distance,False,True
+Marathon Men,Héctor GARIBAY,BOL,60,,32,Distance,False,True
+Marathon Men,Koen NAERT,BEL,61,98.0,30,Distance,False,False
+Marathon Men,Andrew Rotich KWEMOI,UGA,62,,32,Distance,False,True
+Marathon Men,Leonard KORIR,USA,63,,32,Distance,False,True
+Marathon Men,Berhane TESFAY,ERI,64,,32,Distance,False,True
+Marathon Men,Moath ALKHAWALDEH,JOR,65,,32,Distance,False,True
+Marathon Men,Alberto GONZALEZ MINDEZ,GUA,66,,32,Distance,False,True
+Marathon Men,Jie HE,CHN,67,73.0,23,Distance,False,False
+Marathon Men,Tariku NOVALES,ESP,68,,32,Distance,False,True
+Marathon Men,Dario IVANOVSKI,MKD,69,,32,Distance,False,True
+Marathon Men,Valentin BETOUDJI,CHA,70,,32,Distance,False,True
+Marathon Men,Ser-Od BAT-OCHIR,MGL,71,,32,Distance,False,True
+Marathon Men,Abdi NAGEEYE,NED,,36.0,13,Distance,False,False
+Marathon Men,Mohcin OUTALHA,MAR,,,32,Distance,False,True
+Marathon Men,Gabriel Gerald GEAY,TAN,,19.0,9,Distance,False,False
+Marathon Men,Eliud KIPCHOGE,KEN,,13.0,7,Distance,False,False
+Marathon Men,Shokhrukh DAVLYATOV,UZB,,,32,Distance,False,True
+Marathon Men,Amanal PETROS,GER,,50.0,18,Distance,False,False
+Marathon Men,Stephen KISSA,UGA,,37.0,14,Distance,False,False
+Marathon Men,Kaan Kigen ÖZBILEN,TUR,,76.0,24,Distance,False,False
+Marathon Men,Christian PACHECO,PER,,,32,Distance,False,True
+Marathon Men,Eduardo Terrance GARCIA,ISV,,,32,Distance,False,True
+Marathon Women,Sifan HASSAN,NED,1,2.0,2,Distance,True,False
+Marathon Women,Tigst ASSEFA,ETH,2,1.0,1,Distance,True,False
+Marathon Women,Hellen OBIRI,KEN,3,11.0,6,Distance,True,False
+Marathon Women,Sharon LOKEDI,KEN,4,40.0,10,Distance,False,False
+Marathon Women,Amane Beriso SHANKULE,ETH,5,3.0,3,Distance,False,False
+Marathon Women,Yuka SUZUKI,JPN,6,78.0,19,Distance,False,False
+Marathon Women,Delvine Relin MERINGOR,ROU,7,55.0,14,Distance,False,False
+Marathon Women,Stella CHESANG,UGA,8,52.0,13,Distance,False,False
+Marathon Women,Lonah Chemtai SALPETER,ISR,9,20.0,9,Distance,False,False
+Marathon Women,Eunice Chebichii CHUMBA,BRN,10,18.0,8,Distance,False,False
+Marathon Women,Fatima Ezzahra GARDADI,MAR,11,13.0,7,Distance,False,False
+Marathon Women,Dakotah LINDWURM,USA,12,,23,Distance,False,True
+Marathon Women,Jessica STENSON,AUS,13,,23,Distance,False,True
+Marathon Women,Sardana TROFIMOVA,KGZ,14,,23,Distance,False,True
+Marathon Women,Peres JEPCHIRCHIR,KEN,15,4.0,4,Distance,False,False
+Marathon Women,Fabienne SCHLUMPF,SUI,16,,23,Distance,False,True
+Marathon Women,Majida MAAYOUF,ESP,17,,23,Distance,False,True
+Marathon Women,Thalia VALDIVIA,PER,18,,23,Distance,False,True
+Marathon Women,Hanne VERBRUGGEN,BEL,19,,23,Distance,False,True
+Marathon Women,Mekdes WOLDU,FRA,20,,23,Distance,False,True
+Marathon Women,Florencia BORELLI,ARG,21,,23,Distance,False,True
+Marathon Women,Helen BEKELE,SUI,22,45.0,12,Distance,False,False
+Marathon Women,Emily SISSON,USA,23,60.0,16,Distance,False,False
+Marathon Women,Genevieve GREGSON,AUS,24,86.0,21,Distance,False,False
+Marathon Women,Meritxell SOLER,ESP,25,,23,Distance,False,True
+Marathon Women,Tereza HROCHOVÁ,CZE,26,,23,Distance,False,True
+Marathon Women,Citlali CRISTIAN MOSCOTE,MEX,27,,23,Distance,False,True
+Marathon Women,Fionnuala MCCORMACK,IRL,28,,23,Distance,False,True
+Marathon Women,Domenika MAYER,GER,29,,23,Distance,False,True
+Marathon Women,Sofiia YAREMCHUK,ITA,30,79.0,20,Distance,False,False
+Marathon Women,Mokulubete Blandina MAKATISI,LES,31,,23,Distance,False,True
+Marathon Women,Cian OLDKNOW,RSA,32,,23,Distance,False,True
+Marathon Women,Zhanna MAMAZHANOVA,KAZ,33,,23,Distance,False,True
+Marathon Women,Tigist GASHAW,BRN,34,,23,Distance,False,True
+Marathon Women,Malindi ELMORE,CAN,35,,23,Distance,False,True
+Marathon Women,Aleksandra LISOWSKA,POL,36,,23,Distance,False,True
+Marathon Women,Irvette VAN ZYL,RSA,37,,23,Distance,False,True
+Marathon Women,Laura HOTTENROTT,GER,38,,23,Distance,False,True
+Marathon Women,Kaoutar FARKOUSSI,MAR,39,,23,Distance,False,True
+Marathon Women,Magdalena SHAURI,TAN,40,56.0,15,Distance,False,False
+Marathon Women,Daiana OCAMPO,ARG,41,,23,Distance,False,True
+Marathon Women,Esther NAVARRETE,ESP,42,,23,Distance,False,True
+Marathon Women,Rose CHELIMO,BRN,43,,23,Distance,False,True
+Marathon Women,Rebecca CHEPTEGEI,UGA,44,,23,Distance,False,True
+Marathon Women,Gerda STEYN,RSA,45,,23,Distance,False,True
+Marathon Women,Clara EVANS,GBR,46,,23,Distance,False,True
+Marathon Women,Khishigsaikhan GALBADRAKH,MGL,47,,23,Distance,False,True
+Marathon Women,Munkhzaya BAYARTSOGT,MGL,48,,23,Distance,False,True
+Marathon Women,Maor TIYOURI,ISR,49,,23,Distance,False,True
+Marathon Women,Anne LUIJTEN,NED,50,,23,Distance,False,True
+Marathon Women,Mao ICHIYAMA,JPN,51,,23,Distance,False,True
+Marathon Women,Carolina WIKSTRÖM,SWE,52,,23,Distance,False,True
+Marathon Women,Mary Zenaida GRANJA,ECU,53,,23,Distance,False,True
+Marathon Women,Marie PERRIER,MRI,54,,23,Distance,False,True
+Marathon Women,Julia MAYER,AUT,55,,23,Distance,False,True
+Marathon Women,Gladys TEJEDA,PER,56,,23,Distance,False,True
+Marathon Women,Susana SANTOS,POR,57,,23,Distance,False,True
+Marathon Women,Dolshi TESFU,ERI,58,75.0,18,Distance,False,False
+Marathon Women,Deshun ZHANG,CHN,59,44.0,11,Distance,False,False
+Marathon Women,Camille FRENCH,NZL,60,,23,Distance,False,True
+Marathon Women,Silvia Patricia ORTIZ MOROCHO,ECU,61,,23,Distance,False,True
+Marathon Women,Luz Mery ROJAS,PER,62,,23,Distance,False,True
+Marathon Women,Margarita HERNANDEZ FLORES,MEX,63,,23,Distance,False,True
+Marathon Women,Angelika MACH,POL,64,,23,Distance,False,True
+Marathon Women,Camilla RICHARDSSON,FIN,65,,23,Distance,False,True
+Marathon Women,Moira STEWARTOVÁ,CZE,66,,23,Distance,False,True
+Marathon Women,Giovanna EPIS,ITA,67,,23,Distance,False,True
+Marathon Women,Helalia JOHANNES,NAM,68,,23,Distance,False,True
+Marathon Women,Mercyline CHELANGAT,UGA,69,,23,Distance,False,True
+Marathon Women,Méline ROLLIN,FRA,70,,23,Distance,False,True
+Marathon Women,Bojana BJELJAC,CRO,71,,23,Distance,False,True
+Marathon Women,Yuyu XIA,CHN,72,95.0,22,Distance,False,False
+Marathon Women,Rosa Alva CHACHA,ECU,73,,23,Distance,False,True
+Marathon Women,Mélody JULIEN,FRA,74,,23,Distance,False,True
+Marathon Women,Angie ORJUELA,COL,75,,23,Distance,False,True
+Marathon Women,Li BAI,CHN,76,,23,Distance,False,True
+Marathon Women,Clementine MUKANDANGA,RWA,77,,23,Distance,False,True
+Marathon Women,Rose HARVEY,GBR,78,,23,Distance,False,True
+Marathon Women,Shantoshi SHRESTHA,NEP,79,,23,Distance,False,True
+Marathon Women,Kinzang LHAMO,BHU,80,,23,Distance,False,True
+Marathon Women,Matea PARLOV KOŠTRO,CRO,,,23,Distance,False,True
+Marathon Women,Rahma TAHIRI,MAR,,,23,Distance,False,True
+Marathon Women,Chloé HERBIET,BEL,,,23,Distance,False,True
+Marathon Women,Megertu ALEMU,ETH,,7.0,5,Distance,False,False
+Marathon Women,Calli HAUGER-THACKERY,GBR,,,23,Distance,False,True
+Marathon Women,Rutendo Joan NYAHORA,ZIM,,,23,Distance,False,True
+Marathon Women,Melat Yisak KEJETA,GER,,,23,Distance,False,True
+Marathon Women,Jackline SAKILU,TAN,,66.0,17,Distance,False,False
+Marathon Women,Joan Chelimo MELLY,ROU,,,23,Distance,False,True
+Marathon Women,Sinead DIVER,AUS,,,23,Distance,False,True
+Marathon Women,Fiona O'KEEFFE,USA,,,23,Distance,False,True
+110m Hurdles Men,Grant HOLLOWAY,USA,1,1.0,1,Sprints,True,False
+110m Hurdles Men,Daniel ROBERTS,USA,2,3.0,3,Sprints,True,False
+110m Hurdles Men,Rasheed BROADBELL,JAM,3,28.0,8,Sprints,True,False
+110m Hurdles Men,Enrique LLOPIS,ESP,4,11.0,5,Sprints,False,False
+110m Hurdles Men,Rachid MURATAKE,JPN,5,13.0,6,Sprints,False,False
+110m Hurdles Men,Freddie CRITTENDEN,USA,6,4.0,4,Sprints,False,False
+110m Hurdles Men,Orlando BENNETT,JAM,7,25.0,7,Sprints,False,False
+110m Hurdles Men,Hansle PARCHMENT,JAM,8,2.0,2,Sprints,False,False
+100m Hurdles Women,Masai RUSSELL,USA,1,15.0,7,Sprints,True,False
+100m Hurdles Women,Cyréna SAMBA-MAYELA,FRA,2,7.0,3,Sprints,True,False
+100m Hurdles Women,Jasmine CAMACHO-QUINN,PUR,3,1.0,1,Sprints,True,False
+100m Hurdles Women,Nadine VISSER,NED,4,12.0,6,Sprints,False,False
+100m Hurdles Women,Grace STARK,USA,5,20.0,8,Sprints,False,False
+100m Hurdles Women,Devynne CHARLTON,BAH,6,2.0,2,Sprints,False,False
+100m Hurdles Women,Alaysha JOHNSON,USA,7,8.0,4,Sprints,False,False
+100m Hurdles Women,Ackera NUGENT,JAM,,10.0,5,Sprints,False,False
+400m Hurdles Men,Rai BENJAMIN,USA,1,2.0,2,Sprints,True,False
+400m Hurdles Men,Karsten WARHOLM,NOR,2,1.0,1,Sprints,True,False
+400m Hurdles Men,Alison DOS SANTOS,BRA,3,3.0,3,Sprints,True,False
+400m Hurdles Men,Clement DUCOS,FRA,4,68.0,8,Sprints,False,False
+400m Hurdles Men,Kyron MCMASTER,IVB,5,4.0,4,Sprints,False,False
+400m Hurdles Men,Abderrahman SAMBA,QAT,6,17.0,7,Sprints,False,False
+400m Hurdles Men,Rasmus MÄGI,EST,7,6.0,6,Sprints,False,False
+400m Hurdles Men,Roshawn CLARKE,JAM,,5.0,5,Sprints,False,False
+400m Hurdles Women,Sydney MCLAUGHLIN-LEVRONE,USA,1,,8,Sprints,True,True
+400m Hurdles Women,Anna COCKRELL,USA,2,6.0,3,Sprints,True,False
+400m Hurdles Women,Femke BOL,NED,3,1.0,1,Sprints,True,False
+400m Hurdles Women,Jasmine JONES,USA,4,23.0,6,Sprints,False,False
+400m Hurdles Women,Rushell CLAYTON,JAM,5,2.0,2,Sprints,False,False
+400m Hurdles Women,Shiann SALMON,JAM,6,9.0,4,Sprints,False,False
+400m Hurdles Women,Savannah SUTHERLAND,CAN,7,29.0,7,Sprints,False,False
+400m Hurdles Women,Louise MARAVAL,FRA,8,12.0,5,Sprints,False,False
+Long Jump Men,Miltiadis TENTOGLOU,GRE,1,1.0,1,Jumps,True,False
+Long Jump Men,Wayne PINNOCK,JAM,2,4.0,3,Jumps,True,False
+Long Jump Men,Mattia FURLANI,ITA,3,7.0,6,Jumps,True,False
+Long Jump Men,Simon EHAMMER,SUI,4,5.0,4,Jumps,False,False
+Long Jump Men,Jacob FINCHAM-DUKES,GBR,5,20.0,12,Jumps,False,False
+Long Jump Men,Simon BATZ,GER,6,13.0,9,Jumps,False,False
+Long Jump Men,Mingkun ZHANG,CHN,7,15.0,10,Jumps,False,False
+Long Jump Men,Jianan WANG,CHN,8,6.0,5,Jumps,False,False
+Long Jump Men,Filip PRAVDICA,CRO,9,18.0,11,Jumps,False,False
+Long Jump Men,Radek JUŠKA,CZE,10,8.0,7,Jumps,False,False
+Long Jump Men,Arnovis DALMERO,COL,11,12.0,8,Jumps,False,False
+Long Jump Men,Carey MCLEOD,JAM,12,2.0,2,Jumps,False,False
+Long Jump Women,Tara DAVIS-WOODHALL,USA,1,1.0,1,Jumps,True,False
+Long Jump Women,Malaika MIHAMBO,GER,2,6.0,5,Jumps,True,False
+Long Jump Women,Jasmine MOORE,USA,3,14.0,8,Jumps,True,False
+Long Jump Women,Larissa IAPICHINO,ITA,4,4.0,3,Jumps,False,False
+Long Jump Women,Ese BRUME,NGR,5,3.0,2,Jumps,False,False
+Long Jump Women,Monae' NICHOLS,USA,6,12.0,7,Jumps,False,False
+Long Jump Women,Alina ROTARU-KOTTMANN,ROU,7,8.0,6,Jumps,False,False
+Long Jump Women,Ackelia SMITH,JAM,8,18.0,9,Jumps,False,False
+Long Jump Women,Marthe KOALA,BUR,9,5.0,4,Jumps,False,False
+Long Jump Women,Ruth USORO,NGR,10,26.0,11,Jumps,False,False
+Long Jump Women,Hilary KPATCHA,FRA,11,21.0,10,Jumps,False,False
+Long Jump Women,Prestina Oluchi OCHONOGOR,NGR,12,30.0,12,Jumps,False,False
+High Jump Men,Hamish KERR,NZL,1,1.0,1,Jumps,True,False
+High Jump Men,Shelby MCEWEN,USA,2,6.0,5,Jumps,True,False
+High Jump Men,Mutaz Essa BARSHIM,QAT,3,2.0,2,Jumps,True,False
+High Jump Men,Stefano SOTTILE,ITA,4,14.0,9,Jumps,False,False
+High Jump Men,Ryoichi AKAMATSU,JPN,5,12.0,7,Jumps,False,False
+High Jump Men,Oleh DOROSHCHUK,UKR,6,13.0,8,Jumps,False,False
+High Jump Men,Sanghyeok WOO,KOR,7,3.0,3,Jumps,False,False
+High Jump Men,Tihomir IVANOV,BUL,8,45.0,12,Jumps,False,False
+High Jump Men,Jan ŠTEFELA,CZE,9,11.0,6,Jumps,False,False
+High Jump Men,Romaine BECKFORD,JAM,10,33.0,11,Jumps,False,False
+High Jump Men,Gianmarco TAMBERI,ITA,11,4.0,4,Jumps,False,False
+High Jump Men,Brian RAATS,RSA,12,23.0,10,Jumps,False,False
+High Jump Women,Yaroslava MAHUCHIKH,UKR,1,1.0,1,Jumps,True,False
+High Jump Women,Nicola OLYSLAGERS,AUS,2,2.0,2,Jumps,True,False
+High Jump Women,Iryna GERASHCHENKO,UKR,3,5.0,5,Jumps,True,False
+High Jump Women,Eleanor PATTERSON,AUS,3,4.0,4,Jumps,True,False
+High Jump Women,Vashti CUNNINGHAM,USA,5,7.0,6,Jumps,False,False
+High Jump Women,Christina HONSEL,GER,6,10.0,7,Jumps,False,False
+High Jump Women,Elena KULICHENKO,CYP,7,15.0,9,Jumps,False,False
+High Jump Women,Safina SADULLAYEVA,UZB,7,29.0,11,Jumps,False,False
+High Jump Women,Tatiana GUSIN,GRE,9,18.0,10,Jumps,False,False
+High Jump Women,Buse SAVAŞKAN,TUR,10,32.0,13,Jumps,False,False
+High Jump Women,Nawal MENIKER,FRA,11,14.0,8,Jumps,False,False
+High Jump Women,Valdileia MARTINS,BRA,,31.0,12,Jumps,False,False
+High Jump Women,Angelina TOPIĆ,SRB,,3.0,3,Jumps,False,False
+Triple Jump Men,Jordan Alejandro DÍAZ FORTUN,ESP,1,5.0,5,Jumps,True,False
+Triple Jump Men,Pedro PICHARDO,POR,2,,10,Jumps,True,True
+Triple Jump Men,Andy DÍAZ HERNÁNDEZ,ITA,3,2.0,2,Jumps,True,False
+Triple Jump Men,Jaydon HIBBERT,JAM,4,,10,Jumps,False,True
+Triple Jump Men,Hugues Fabrice ZANGO,BUR,5,1.0,1,Jumps,False,False
+Triple Jump Men,Salif MANE,USA,6,25.0,8,Jumps,False,False
+Triple Jump Men,Max HESS,GER,7,,10,Jumps,False,True
+Triple Jump Men,Lázaro MARTÍNEZ,CUB,8,3.0,3,Jumps,False,False
+Triple Jump Men,Yasser Mohammed TRIKI,ALG,9,4.0,4,Jumps,False,False
+Triple Jump Men,Yaming ZHU,CHN,10,6.0,6,Jumps,False,False
+Triple Jump Men,Almir DOS SANTOS,BRA,11,8.0,7,Jumps,False,False
+Triple Jump Men,Connor MURPHY,AUS,12,31.0,9,Jumps,False,False
+Triple Jump Women,Thea LAFOND,DMA,1,3.0,3,Jumps,True,False
+Triple Jump Women,Shanieka RICKETTS,JAM,2,2.0,2,Jumps,True,False
+Triple Jump Women,Jasmine MOORE,USA,3,11.0,9,Jumps,True,False
+Triple Jump Women,Liadagmis POVEA,CUB,4,5.0,5,Jumps,False,False
+Triple Jump Women,Leyanis PÉREZ HERNÁNDEZ,CUB,5,1.0,1,Jumps,False,False
+Triple Jump Women,Ana PELETEIRO-COMPAORÉ,ESP,6,8.0,7,Jumps,False,False
+Triple Jump Women,Ackelia SMITH,JAM,7,17.0,11,Jumps,False,False
+Triple Jump Women,Dariya DERKACH,ITA,8,7.0,6,Jumps,False,False
+Triple Jump Women,Keturah ORJI,USA,9,9.0,8,Jumps,False,False
+Triple Jump Women,Elena Andreea TALOȘ,ROU,10,32.0,12,Jumps,False,False
+Triple Jump Women,Maryna BEKH-ROMANCHUK,UKR,11,4.0,4,Jumps,False,False
+Triple Jump Women,Ilionis GUILLAUME,FRA,12,12.0,10,Jumps,False,False
+Pole Vault Men,Armand DUPLANTIS,SWE,1,1.0,1,Jumps,True,False
+Pole Vault Men,Sam KENDRICKS,USA,2,3.0,3,Jumps,True,False
+Pole Vault Men,Emmanouil KARALIS,GRE,3,8.0,5,Jumps,True,False
+Pole Vault Men,Ernest John OBIENA,PHI,4,2.0,2,Jumps,False,False
+Pole Vault Men,Ersu ŞAŞMA,TUR,5,12.0,7,Jumps,False,False
+Pole Vault Men,Kurtis MARSCHALL,AUS,6,5.0,4,Jumps,False,False
+Pole Vault Men,Bokai HUANG,CHN,7,10.0,6,Jumps,False,False
+Pole Vault Men,Sondre GUTTORMSEN,NOR,8,35.0,12,Jumps,False,False
+Pole Vault Men,Bo Kanda LITA BAEHRE,GER,9,22.0,10,Jumps,False,False
+Pole Vault Men,Oleg ZERNIKEL,GER,9,21.0,9,Jumps,False,False
+Pole Vault Men,Menno VLOON,NED,11,15.0,8,Jumps,False,False
+Pole Vault Men,Valters KREIŠS,LAT,12,33.0,11,Jumps,False,False
+Pole Vault Women,Nina KENNEDY,AUS,1,1.0,1,Jumps,True,False
+Pole Vault Women,Katie MOON,USA,2,2.0,2,Jumps,True,False
+Pole Vault Women,Alysha NEWMAN,CAN,3,8.0,6,Jumps,True,False
+Pole Vault Women,Angelica MOSER,SUI,4,4.0,3,Jumps,False,False
+Pole Vault Women,Amálie ŠVÁBÍKOVÁ,CZE,5,14.0,11,Jumps,False,False
+Pole Vault Women,Eliza MCCARTNEY,NZL,6,9.0,7,Jumps,False,False
+Pole Vault Women,Elisa MOLINAROLO,ITA,6,17.0,12,Jumps,False,False
+Pole Vault Women,Wilma MURTO,FIN,6,6.0,5,Jumps,False,False
+Pole Vault Women,Aikaterini STEFANIDI,GRE,9,12.0,9,Jumps,False,False
+Pole Vault Women,Robeilys PEINADO,VEN,10,13.0,10,Jumps,False,False
+Pole Vault Women,Marie-Julie BONNIN,FRA,11,24.0,15,Jumps,False,False
+Pole Vault Women,Imogen AYRIS,NZL,12,36.0,18,Jumps,False,False
+Pole Vault Women,Olivia MCTAGGART,NZL,13,28.0,17,Jumps,False,False
+Pole Vault Women,Roberta BRUNI,ITA,14,11.0,8,Jumps,False,False
+Pole Vault Women,Ninon CHAPELLE,FRA,14,27.0,16,Jumps,False,False
+Pole Vault Women,Anjuli KNÄSCHE,GER,14,40.0,19,Jumps,False,False
+Pole Vault Women,Elina LAMPELA,FIN,14,23.0,14,Jumps,False,False
+Pole Vault Women,Lene Onsrud RETZIUS,NOR,18,21.0,13,Jumps,False,False
+Pole Vault Women,Tina ŠUTEJ,SLO,19,5.0,4,Jumps,False,False
+Javelin Throw Men,Arshad NADEEM,PAK,1,,12,Throws,True,True
+Javelin Throw Men,Neeraj CHOPRA,IND,2,2.0,2,Throws,True,False
+Javelin Throw Men,Anderson PETERS,GRN,3,6.0,5,Throws,True,False
+Javelin Throw Men,Jakub VADLEJCH,CZE,4,1.0,1,Throws,False,False
+Javelin Throw Men,Julius YEGO,KEN,5,15.0,9,Throws,False,False
+Javelin Throw Men,Julian WEBER,GER,6,3.0,3,Throws,False,False
+Javelin Throw Men,Keshorn WALCOTT,TTO,7,9.0,7,Throws,False,False
+Javelin Throw Men,Lassi ETELÄTALO,FIN,8,16.0,10,Throws,False,False
+Javelin Throw Men,Oliver HELANDER,FIN,9,4.0,4,Throws,False,False
+Javelin Throw Men,Toni KERÄNEN,FIN,10,14.0,8,Throws,False,False
+Javelin Throw Men,Luiz Mauricio DA SILVA,BRA,11,21.0,11,Throws,False,False
+Javelin Throw Men,Andrian MARDARE,MDA,12,8.0,6,Throws,False,False
+Javelin Throw Women,Haruka KITAGUCHI,JPN,1,1.0,1,Throws,True,False
+Javelin Throw Women,Jo-Ane VAN DYK,RSA,2,12.0,5,Throws,True,False
+Javelin Throw Women,Nikola OGRODNÍKOVÁ,CZE,3,14.0,6,Throws,True,False
+Javelin Throw Women,Sara KOLAK,CRO,4,33.0,11,Throws,False,False
+Javelin Throw Women,Flor Denis RUIZ HURTADO,COL,5,3.0,3,Throws,False,False
+Javelin Throw Women,Yulenmis AGUILAR,ESP,6,35.0,12,Throws,False,False
+Javelin Throw Women,Kathryn MITCHELL,AUS,7,17.0,7,Throws,False,False
+Javelin Throw Women,Maria ANDREJCZYK,POL,8,11.0,4,Throws,False,False
+Javelin Throw Women,Elina TZENGKO,GRE,9,23.0,9,Throws,False,False
+Javelin Throw Women,Momone UEDA,JPN,10,25.0,10,Throws,False,False
+Javelin Throw Women,Marie-Therese OBST,NOR,11,18.0,8,Throws,False,False
+Javelin Throw Women,Mackenzie LITTLE,AUS,12,2.0,2,Throws,False,False
+Discus Throw Men,Roje STONA,JAM,1,11.0,8,Throws,True,False
+Discus Throw Men,Mykolas ALEKNA,LTU,2,1.0,1,Throws,True,False
+Discus Throw Men,Matthew DENNY,AUS,3,3.0,3,Throws,True,False
+Discus Throw Men,Kristjan ČEH,SLO,4,2.0,2,Throws,False,False
+Discus Throw Men,Lukas WEISSHAIDINGER,AUT,5,,12,Throws,False,True
+Discus Throw Men,Clemens PRÜFER,GER,6,13.0,9,Throws,False,False
+Discus Throw Men,Daniel STÅHL,SWE,7,4.0,4,Throws,False,False
+Discus Throw Men,Andrius GUDŽIUS,LTU,8,6.0,5,Throws,False,False
+Discus Throw Men,Ralford MULLINGS,JAM,9,24.0,11,Throws,False,False
+Discus Throw Men,Traves SMIKLE,JAM,10,9.0,6,Throws,False,False
+Discus Throw Men,Alin Alexandru FIRFIRICA,ROU,11,16.0,10,Throws,False,False
+Discus Throw Men,Alex ROSE,SAM,12,10.0,7,Throws,False,False
+Discus Throw Women,Valarie ALLMAN,USA,1,1.0,1,Throws,True,False
+Discus Throw Women,Bin FENG,CHN,2,2.0,2,Throws,True,False
+Discus Throw Women,Sandra ELKASEVIĆ,CRO,3,3.0,3,Throws,True,False
+Discus Throw Women,Marike STEINACKER,GER,4,11.0,6,Throws,False,False
+Discus Throw Women,Vanessa KAMGA,SWE,5,28.0,12,Throws,False,False
+Discus Throw Women,Claudine VITA,GER,6,13.0,8,Throws,False,False
+Discus Throw Women,Jorinde VAN KLINKEN,NED,7,5.0,4,Throws,False,False
+Discus Throw Women,Daisy OSAKUE,ITA,8,12.0,7,Throws,False,False
+Discus Throw Women,Irina RODRIGUES,POR,9,18.0,10,Throws,False,False
+Discus Throw Women,Kristin PUDENZ,GER,10,7.0,5,Throws,False,False
+Discus Throw Women,Alexandra EMILIANOV,MDA,11,26.0,11,Throws,False,False
+Discus Throw Women,Melina ROBERT-MICHON,FRA,12,15.0,9,Throws,False,False
+Hammer Throw Men,Ethan KATZBERG,CAN,1,1.0,1,Throws,True,False
+Hammer Throw Men,Bence HALÁSZ,HUN,2,5.0,5,Throws,True,False
+Hammer Throw Men,Mykhaylo KOKHAN,UKR,3,3.0,3,Throws,True,False
+Hammer Throw Men,Eivind HENRIKSEN,NOR,4,10.0,8,Throws,False,False
+Hammer Throw Men,Paweł FAJDEK,POL,5,4.0,4,Throws,False,False
+Hammer Throw Men,Rudy WINKLER,USA,6,7.0,6,Throws,False,False
+Hammer Throw Men,Wojciech NOWICKI,POL,7,2.0,2,Throws,False,False
+Hammer Throw Men,Yann CHAUSSINAND,FRA,8,8.0,7,Throws,False,False
+Hammer Throw Men,Rowan HAMILTON,CAN,9,13.0,10,Throws,False,False
+Hammer Throw Men,Merlin HUMMEL,GER,10,12.0,9,Throws,False,False
+Hammer Throw Men,Thomas MARDAL,NOR,11,27.0,12,Throws,False,False
+Hammer Throw Men,Christos FRANTZESKAKIS,GRE,12,16.0,11,Throws,False,False
+Hammer Throw Women,Camryn ROGERS,CAN,1,1.0,1,Throws,True,False
+Hammer Throw Women,Annette Nneka ECHIKUNWOKE,USA,2,11.0,9,Throws,True,False
+Hammer Throw Women,Jie ZHAO,CHN,3,9.0,7,Throws,True,False
+Hammer Throw Women,Anita WŁODARCZYK,POL,4,10.0,8,Throws,False,False
+Hammer Throw Women,Silja KOSONEN,FIN,5,5.0,3,Throws,False,False
+Hammer Throw Women,Krista TERVO,FIN,6,32.0,12,Throws,False,False
+Hammer Throw Women,Hanna SKYDAN,AZE,7,7.0,5,Throws,False,False
+Hammer Throw Women,Rosa Andreina RODRÍGUEZ,VEN,8,15.0,11,Throws,False,False
+Hammer Throw Women,Bianca Florentina GHELBER,ROU,9,6.0,4,Throws,False,False
+Hammer Throw Women,Katrine Koch JACOBSEN,DEN,10,12.0,10,Throws,False,False
+Hammer Throw Women,DeAnna PRICE,USA,11,3.0,2,Throws,False,False
+Hammer Throw Women,Sara FANTINI,ITA,12,8.0,6,Throws,False,False
+Shot Put Men,Ryan CROUSER,USA,1,1.0,1,Throws,True,False
+Shot Put Men,Joe KOVACS,USA,2,2.0,2,Throws,True,False
+Shot Put Men,Rajindra CAMPBELL,JAM,3,13.0,9,Throws,True,False
+Shot Put Men,Payton OTTERDAHL,USA,4,5.0,5,Throws,False,False
+Shot Put Men,Leonardo FABBRI,ITA,5,3.0,3,Throws,False,False
+Shot Put Men,Chukwuebuka Cornnell ENEKWECHI,NGR,6,8.0,7,Throws,False,False
+Shot Put Men,Jacko GILL,NZL,7,6.0,6,Throws,False,False
+Shot Put Men,Uziel MUÑOZ,MEX,8,16.0,11,Throws,False,False
+Shot Put Men,Marcus THOMSEN,NOR,9,26.0,12,Throws,False,False
+Shot Put Men,Tomáš STANĚK,CZE,10,14.0,10,Throws,False,False
+Shot Put Men,Zane WEIR,ITA,11,10.0,8,Throws,False,False
+Shot Put Men,Tom WALSH,NZL,,4.0,4,Throws,False,False
+Shot Put Women,Yemisi OGUNLEYE,GER,1,8.0,5,Throws,True,False
+Shot Put Women,Maddison-Lee WESCHE,NZL,2,7.0,4,Throws,True,False
+Shot Put Women,Jiayuan SONG,CHN,3,10.0,6,Throws,True,False
+Shot Put Women,Jaida ROSS,USA,4,13.0,8,Throws,False,False
+Shot Put Women,Lijiao GONG,CHN,5,3.0,2,Throws,False,False
+Shot Put Women,Jessica SCHILDER,NED,6,4.0,3,Throws,False,False
+Shot Put Women,Fanny ROOS,SWE,7,12.0,7,Throws,False,False
+Shot Put Women,Jessica INCHUDE,POR,8,21.0,11,Throws,False,False
+Shot Put Women,Alina KENZEL,GER,9,22.0,12,Throws,False,False
+Shot Put Women,Axelina JOHANSSON,SWE,10,18.0,10,Throws,False,False
+Shot Put Women,Raven SAUNDERS,USA,11,16.0,9,Throws,False,False
+Shot Put Women,Sarah MITTON,CAN,12,2.0,1,Throws,False,False
