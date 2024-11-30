@@ -1,0 +1,256 @@
+position,name,school,year,time,split,position_change_in_split,points
+1,Graham Blanks,Harvard,SR,28:37.2,2:45.3,-1,1
+2,Habtom Samuel,New Mexico,SO,28:38.9,2:44.2 | +1.8,-1,2
+3,Dylan Schubert,Furman,SR,28:39.6,2:43.1 | +2.5,1,3
+4,Yaseen Abdalla,Arkansas,SR,28:41.5,2:45.2 | +4.4,1,4
+5,Brian Musau,Oklahoma State,SO,28:44.9,2:47.2 | +7.7,2,5
+6,Casey Clinger,BYU,SR,28:45.1,2:47.8 | +8.0,-1,6
+7,Parker Wolfe,North Carolina,SR,28:50.2,2:53.3 | +13.1,2,7
+8,Ethan Strand,North Carolina,SR,28:53.0,2:50.9 | +15.9,-1,8
+9,Liam Murphy,Villanova,SR,28:55.7,2:49.6 | +18.6,3,9
+10,Said Mechaal,Iowa State,SR,28:59.8,2:52.8 | +22.7,3,10
+11,Denis Kipngetich,Oklahoma State,SO,29:00.4,2:55.8 | +23.2,2,11
+12,Creed Thompson,BYU,SR,29:01.5,2:55.7 | +24.4,1,12
+13,Gary Martin,Virginia,JR,29:02.3,2:56.7 | +25.1,3,13
+14,George Couttie,Virginia Tech,SO,29:07.4,2:49.0 | +30.3,3,14
+15,Marco Langon,Villanova,JR,29:08.8,2:47.9 | +31.7,7,15
+16,Bob Liking,Wisconsin,SR,29:09.2,2:52.9 | +32.0,2,16
+17,William Zegarski,Butler,SO,29:09.8,2:50.0 | +32.7,2,17
+18,David Mullarkey,Northern Arizona,SR,29:11.9,2:52.8 | +34.7,-1,18
+19,Allan Kiplagat,Mid. Tenn. State,FR,29:12.8,2:55.1 | +35.7,3,-1
+20,Kirami Yego,Arkansas,SR,29:13.7,2:52.3 | +36.6,4,19
+21,Patrick Kiprop,Arkansas,SR,29:15.7,2:58.8 | +38.6,6,20
+22,Matt Strangio,Portland,SR,29:16.5,2:44.9 | +39.3,18,-1
+23,Sanele Masondo,Iowa State,SR,29:16.8,2:55.6 | +39.7,-1,21
+24,Izaiah Steury,Notre Dame,SO,29:17.1,2:56.2 | +39.9,3,22
+25,Camren Todd,Utah State,SR,29:17.4,2:50.0 | +40.3,2,23
+26,Zouhair Redouane,CBU,FR,29:18.8,2:49.6 | +41.7,5,24
+27,Dylan Throop,Penn,SR,29:19.6,2:59.3 | +42.4,7,-1
+28,Sam Lawler,Syracuse,JR,29:20.6,2:48.6 | +43.4,14,25
+29,Aiden Smith,Oregon,SO,29:20.9,2:50.3 | +43.7,6,26
+30,Dean Casey,Colorado,SO,29:21.1,2:53.3 | +43.9,2,27
+31,Joey Nokes,BYU,SR,29:21.5,2:56.4 | +44.4,6,28
+32,Charlie Sprott,Wake Forest,SO,29:21.6,2:49.8 | +44.5,9,29
+33,Valentin Soca,CBU,SO,29:22.0,2:47.2 | +44.9,14,30
+34,Joash Ruto,Iowa State,FR,29:22.4,2:55.4 | +45.2,8,31
+35,Collins Kiprotich,New Mexico,FR,29:22.6,2:52.2 | +45.4,1,32
+36,Evans Kurui,Washington St.,FR,29:23.8,2:53.8 | +46.7,3,-1
+37,Robin Kwemoi Bera,Iowa State,FR,29:23.9,2:55.3 | +46.7,8,33
+38,Santiago Prosser,Northern Arizona,SR,29:24.7,2:53.9 | +47.6,2,34
+39,Lucas Bons,BYU,JR,29:24.9,2:52.5 | +47.8,4,35
+40,Evans Kiplagat,New Mexico,SO,29:25.0,2:51.0 | +47.8,5,36
+41,Dismus Lokira,Alabama,FR,29:25.3,2:56.7 | +48.1,11,37
+42,Carson Williams,Furman,SR,29:26.4,2:55.0 | +49.2,4,38
+43,Douglas Buckeridge,Purdue,SO,29:27.6,2:52.7 | +50.4,5,-1
+44,Carson Noecker,South Dakota St.,SO,29:29.7,2:58.3 | +52.5,5,-1
+45,Adam Spencer,Wisconsin,SR,29:30.1,2:50.2 | +52.9,12,39
+46,Ethan Coleman,Notre Dame,SO,29:30.6,2:52.5 | +53.5,4,40
+47,JoJo Jourdon,Wake Forest,FR,29:30.7,2:59.7 | +53.6,10,41
+48,Derek Amicon,Cornell,SR,29:31.0,2:51.3 | +53.9,7,-1
+49,Gable Sieperda,Iowa State,SR,29:31.7,2:51.7 | +54.5,9,42
+50,Davin Thompson,BYU,JR,29:33.6,3:04.1 | +56.5,18,43
+51,Victor Kiprop,Alabama,SR,29:33.9,2:55.0 | +56.8,-1,44
+52,Colton Sands,North Carolina,JR,29:34.1,2:54.2 | +57.0,4,45
+53,Micah Wilson,Wisconsin,SO,29:34.4,2:55.4 | +57.2,1,46
+54,Nathan Green,Washington,SR,29:34.5,2:40.5 | +57.4,38,47
+55,Ben Shearer,Arkansas,JR,29:34.6,2:53.9 | +57.5,4,48
+56,Joseph O'Brien,Wake Forest,SO,29:34.7,2:55.2 | +57.6,2,49
+57,Shane Brosnan,Harvard,JR,29:35.8,2:51.9 | +58.7,5,50
+58,Matan Ivri,Wisconsin,FR,29:36.2,2:51.6 | +59.1,6,51
+59,Wil Smith,Gonzaga,SR,29:36.4,2:59.5 | +59.3,10,-1
+60,Corey Gorgas,Northern Arizona,SR,29:36.5,2:44.3 | +59.3,26,52
+61,Luke Tewalt,Wake Forest,SR,29:36.7,3:03.2 | +59.6,17,53
+62,James Corrigan,BYU,SO,29:38.4,2:53.3 | +1:01.3,6,54
+63,Lex Young,Stanford,SO,29:38.7,2:50.4 | +1:01.6,10,55
+64,Myles Hogan,Princeton,JR,29:38.9,2:54.5 | +1:01.7,1,56
+65,Abel Teffra,Georgetown,SR,29:39.1,2:54.3 | +1:02.0,1,57
+66,Nickson Chebii,Auburn,FR,29:39.6,2:56.0 | +1:02.5,5,-1
+67,Colin Sahlman,Northern Arizona,JR,29:40.3,2:50.6 | +1:03.2,8,58
+68,Austin Gabay,Butler,JR,29:40.4,2:52.2 | +1:03.3,4,59
+69,Christian de Vaal,Wisconsin,FR,29:40.5,2:51.6 | +1:03.4,5,60
+70,Victor Shitsama,Oklahoma State,SR,29:41.0,2:53.0 | +1:03.8,1,61
+71,Assaf Harari,Syracuse,JR,29:41.4,2:50.9 | +1:04.3,10,62
+72,Cole Sprout,Stanford,SR,29:41.9,2:59.8 | +1:04.8,12,63
+73,Bismack Kipchirchir,Akron,FR,29:43.3,2:58.2 | +1:06.2,6,-1
+74,Simeon Birnbaum,Oregon,FR,29:43.4,2:52.6 | +1:06.3,9,64
+75,Dennis Kipruto,Alabama,FR,29:43.5,2:58.9 | +1:06.3,10,65
+76,Alex Comerford,Syracuse,SR,29:43.7,2:53.4 | +1:06.5,4,66
+77,Nicholas Bendtsen,Princeton,JR,29:44.5,2:57.1 | +1:07.4,7,67
+78,Nolan Topper,Stanford,JR,29:45.8,2:52.5 | +1:08.6,12,68
+79,Aidan Troutner,BYU,SR,29:46.6,3:07.3 | +1:09.5,26,69
+80,Riley Hough,Michigan State,SO,29:47.2,2:54.7 | +1:10.0,7,-1
+81,Aiden Britt,Ole Miss,SR,29:47.8,2:51.0 | +1:10.6,16,70
+82,Will Coogan,North Carolina,JR,29:47.9,2:57.9 | +1:10.7,5,71
+83,Johnny Livingstone,Wisconsin,SO,29:48.4,2:58.6 | +1:11.3,7,72
+84,Tyrone Gorze,Washington,SO,29:48.6,2:54.6 | +1:11.5,9,73
+85,Bernard Cheruiyot,Tulane,FR,29:49.1,2:57.9 | +1:12.0,1,74
+86,Justin Keyes,Northern Arizona,SO,29:49.9,2:59.8 | +1:12.8,8,75
+87,Abraham Chelangam,Oral Roberts,SO,29:50.6,2:57.1 | +1:13.5,4,-1
+88,Ryan Kinnane,Auburn,SR,29:50.7,2:50.3 | +1:13.5,23,-1
+89,Lachlan Wellington,Iona,SR,29:50.9,2:58.7 | +1:13.7,4,-1
+90,Drew Griffith,Notre Dame,FR,29:51.1,3:00.4 | +1:14.0,8,76
+91,Benne Anderson,Syracuse,FR,29:51.6,2:52.5 | +1:14.5,14,77
+92,Leo Young,Stanford,SO,29:51.7,2:50.3 | +1:14.6,22,78
+93,Devan Kipyego,Iowa State,SO,29:51.9,2:57.1 | +1:14.7,1,79
+94,Timothy Sindt,Iowa State,SR,29:52.4,2:53.0 | +1:15.2,13,80
+95,Daniel Abdala,CBU,SR,29:52.8,2:53.2 | +1:15.7,14,81
+96,William Sinclair,Illinois State,SR,29:53.0,2:52.9 | +1:15.9,14,-1
+97,Luke Marsanskis,Maine,SR,29:54.1,2:52.6 | +1:16.9,18,-1
+98,Rikus Van Niekerk,New Mexico,SR,29:54.5,2:56.2 | +1:17.3,4,82
+99,Daelen Ackley,Notre Dame,SO,29:55.5,3:00.2 | +1:18.4,4,83
+100,Rocky Hansen,Wake Forest,SO,29:55.7,3:21.1 | +1:18.6,54,84
+101,Joe Hudson,Boise State,SR,29:56.3,3:00.7 | +1:19.1,5,-1
+102,Jacob Pyeatt,Arkansas State,SR,29:56.5,3:03.7 | +1:19.4,13,-1
+103,Evan Jenkins,Washington,SO,29:56.8,2:54.7 | +1:19.7,14,85
+104,Thobias Cheruiyot,Oklahoma,FR,29:57.0,2:58.6 | +1:19.8,1,-1
+105,Lukas Haug,Colorado,SO,29:57.0,2:59.0 | +1:19.9,4,86
+106,Taha Er Raouy,Eastern Kentucky,SO,29:57.4,2:54.1 | +1:20.2,15,87
+107,Laban Kipkemboi,Oklahoma State,FR,29:57.5,3:10.5 | +1:20.4,38,88
+108,Florian LePallec,Butler,SR,29:57.8,2:55.4 | +1:20.6,11,89
+109,Will Anthony,Virginia,JR,29:58.4,2:58.9 | +1:21.3,1,90
+110,Adisu Guadia,Oklahoma State,SO,29:58.5,2:57.9 | +1:21.4,2,91
+111,Matt Rankin,Iona,JR,29:58.7,3:01.3 | +1:21.5,12,-1
+112,Paul Bergeron,Stanford,FR,29:58.9,2:52.9 | +1:21.8,13,92
+113,Jack Jennings,Tulane,SR,29:59.2,3:06.8 | +1:22.1,25,93
+114,Luke Ondracek,Georgetown,SO,29:59.3,3:01.4 | +1:22.1,14,94
+115,Pedro Marin,CBU,SO,29:59.3,2:52.1 | +1:22.1,13,95
+116,Evan Dorenkamp,Oregon,SR,29:59.3,2:51.7 | +1:22.2,14,96
+117,Leo Daschbach,Washington,SR,29:59.8,3:01.0 | +1:22.6,13,97
+118,Elliott Cook,Oregon,SR,30:00.2,2:52.4 | +1:23.0,13,98
+119,Jacob White,Wyoming,JR,30:00.4,3:01.0 | +1:23.2,13,99
+120,Ryker Holtzen,Wyoming,JR,30:01.3,2:57.1 | +1:24.2,2,100
+121,Ryan Schoppe,Oklahoma State,SR,30:01.6,2:54.2 | +1:24.4,8,101
+122,Brett Gardner,NC State,SR,30:01.7,3:04.5 | +1:24.6,24,-1
+123,James Dunne,Georgetown,SR,30:02.4,3:00.8 | +1:25.3,7,102
+124,Quincy Norman,Oregon,SR,30:02.6,2:57.1 | +1:25.5,-1,103
+125,Bailey Habler,Villanova,FR,30:02.9,2:53.3 | +1:25.8,13,104
+126,Peter Visser,Weber State,JR,30:03.8,2:55.3 | +1:26.7,6,-1
+127,Isaiah Givens,Colorado,SO,30:04.9,3:02.6 | +1:27.7,9,105
+128,Isaac Alonzo,Texas,SR,30:05.2,3:02.5 | +1:28.0,8,-1
+129,Ford Washburn,Northern Arizona,FR,30:05.3,2:55.3 | +1:28.2,10,106
+130,Shay McEvoy,Tulsa,JR,30:06.1,2:54.5 | +1:29.0,12,107
+131,Ernest Cheruiyot,Texas Tech,FR,30:06.2,3:05.1 | +1:29.1,18,-1
+132,Evan Thornton-Sherman,Ole Miss,JR,30:06.5,3:00.0 | +1:29.3,6,108
+133,Spencer Nelson,Utah State,SR,30:06.7,2:53.4 | +1:29.5,13,109
+134,Robert DiDonato,Stanford,JR,30:06.7,2:57.2 | +1:29.6,1,110
+135,MacCallum Rowe,La Salle,JR,30:07.6,3:01.0 | +1:30.5,8,-1
+136,Timothy Chesondin,Arkansas,SO,30:08.3,3:03.0 | +1:31.1,13,111
+137,Sawyer Dagan,Clemson,SR,30:09.4,2:59.9 | +1:32.3,1,-1
+138,Baidy Ba,Kent State,SR,30:09.7,3:00.0 | +1:32.5,1,-1
+139,Connor Ackley,Syracuse,FR,30:09.9,2:57.1 | +1:32.7,6,112
+140,Justin Wachtel,Virginia,JR,30:10.1,2:59.0 | +1:33.0,1,113
+141,Logan Garnica,Utah State,JR,30:10.4,2:56.6 | +1:33.3,7,114
+142,Patrick Anderson,North Carolina,JR,30:11.5,2:56.8 | +1:34.4,8,115
+143,CJ Singleton,Notre Dame,SO,30:11.7,2:59.3 | +1:34.6,1,116
+144,Aidan Ross,Wake Forest,SO,30:12.8,3:04.0 | +1:35.7,11,117
+145,Colin Eckerman,Furman,FR,30:13.0,2:59.5 | +1:35.9,2,118
+146,Geoffrey Kirwa,Louisville,FR,30:13.1,3:02.4 | +1:36.0,6,-1
+147,Ethan Wechsler,Syracuse,SR,30:13.3,2:56.5 | +1:36.2,6,119
+148,Vincent Chirchir,New Mexico,FR,30:13.5,3:04.3 | +1:36.4,14,120
+149,Toby Gillen,Ole Miss,JR,30:13.9,3:23.7 | +1:36.8,70,121
+150,CJ Sullivan,Villanova,FR,30:14.6,2:54.0 | +1:37.4,7,122
+151,Mohammed Jouhari,Eastern Kentucky,JR,30:15.0,2:57.8 | +1:37.8,3,123
+152,Nathan Mountain,Virginia,JR,30:15.9,2:52.9 | +1:38.8,10,124
+153,Dominic Kiptum,Texas A&M-CC,FR,30:16.3,3:00.1 | +1:39.1,2,-1
+154,Rowen Ellenberg,Wisconsin,SR,30:16.9,3:00.3 | +1:39.7,2,125
+155,Benjamin Balazs,Oregon,SO,30:17.1,2:56.0 | +1:39.9,4,126
+156,Chris McLeod,Tulsa,SR,30:18.1,3:03.8 | +1:40.9,7,127
+157,Brian DiCola,Penn State,SO,30:19.2,2:55.0 | +1:42.0,9,-1
+158,Cael Grotenhuis,Northern Arizona,JR,30:19.8,3:08.0 | +1:42.6,15,128
+159,Simon Kelati,Colorado,SR,30:20.4,2:59.5 | +1:43.3,1,129
+160,James Overberg,Colorado,SO,30:20.9,2:55.2 | +1:43.8,7,130
+161,Illia Kunin,Tulane,SR,30:21.0,2:54.6 | +1:43.9,7,131
+162,Tomas Vega,Eastern Kentucky,JR,30:21.6,3:01.8 | +1:44.5,6,132
+163,Carter Solomon,Notre Dame,SR,30:22.6,3:02.9 | +1:45.5,8,133
+164,Ronan McMahon-Staggs,Washington,SR,30:23.2,3:01.4 | +1:46.0,4,134
+165,Nicholas Kipchirchir,Virginia Tech,FR,30:24.5,3:01.7 | +1:47.4,4,135
+166,Daniel O'Brien,Princeton,JR,30:24.8,3:01.7 | +1:47.7,3,136
+167,Jaden Forester,Tulsa,SR,30:24.9,3:01.0 | +1:47.8,2,137
+168,Gavin Ehlers,Wake Forest,SO,30:25.4,3:02.1 | +1:48.3,4,138
+169,Benjamin Reynolds,Virginia Tech,SO,30:26.4,2:53.4 | +1:49.3,11,139
+170,Joshua McKee,Utah State,FR,30:27.0,2:57.9 | +1:49.8,2,140
+171,Joe Sapone,North Carolina,FR,30:27.3,2:56.2 | +1:50.2,6,141
+172,Dominic Serem,Toledo,FR,30:28.1,3:00.9 | +1:51.0,2,-1
+173,Robert Cozean,Notre Dame,SR,30:28.2,2:56.8 | +1:51.0,6,142
+174,Elyas Ayyoub,Ole Miss,SR,30:28.5,3:01.4 | +1:51.3,5,143
+175,William Winter,Virginia Tech,FR,30:29.3,2:59.6 | +1:52.2,2,144
+176,Birhanu Harriman,Georgetown,SO,30:30.1,2:54.3 | +1:53.0,8,145
+177,Gabriel Guzman,CBU,FR,30:30.3,2:54.4 | +1:53.2,9,146
+178,Wes Porter,Virginia,SR,30:31.0,3:02.5 | +1:53.9,7,147
+179,Jack Eliason,Virginia,SR,30:31.2,2:57.5 | +1:54.1,2,148
+180,Christopher Knight,Furman,FR,30:31.3,3:00.8 | +1:54.1,6,149
+181,Adam Trafecanty,CBU,SR,30:32.4,3:01.5 | +1:55.2,5,150
+182,Benjamin Bayless,Ole Miss,SR,30:32.7,3:01.5 | +1:55.6,4,151
+183,Luke Henseler,Butler,SR,30:33.2,3:02.4 | +1:56.1,8,152
+184,Gus McIntyre,Wyoming,SR,30:34.9,3:00.4 | +1:57.8,2,153
+185,Evan Guzman,Furman,SR,30:36.9,2:58.9 | +1:59.8,5,154
+186,Andrew Jones,Virginia,JR,30:37.1,3:01.6 | +2:00.0,3,155
+187,Collins Kiprop Kipngok,Kentucky,FR,30:38.6,3:02.5 | +2:01.5,-1,-1
+188,Luke Johnson,Penn,SR,30:39.3,3:01.7 | +2:02.2,1,-1
+189,Lars Mitchel,Colorado St.,SR,30:40.0,3:03.4 | +2:02.8,1,-1
+190,Brian Masai,Arkansas,SO,30:40.7,3:04.8 | +2:03.6,5,156
+191,Lukas Kiprop,New Mexico,SO,30:41.8,2:54.9 | +2:04.6,9,157
+192,Sam Burgess,Harvard,SO,30:41.9,3:01.6 | +2:04.8,1,158
+193,Hillary Cheruiyot,Alabama,SR,30:43.1,3:04.2 | +2:05.9,2,159
+194,Wilson Georges,Colorado,SO,30:43.7,3:00.4 | +2:06.5,1,160
+195,Jackson Shorten,Princeton,JR,30:44.2,2:53.6 | +2:07.1,12,161
+196,Hudson Hurst,Alabama,SR,30:44.7,2:59.8 | +2:07.6,2,162
+197,Mario Priego,Eastern Kentucky,JR,30:45.7,2:57.9 | +2:08.6,4,163
+198,Sean Byrnes,Butler,FR,30:45.8,3:06.4 | +2:08.7,6,164
+199,Nathan Davis,Army West Point,JR,30:46.2,3:03.3 | +2:09.0,5,-1
+200,Declan Rymer,Virginia Tech,JR,30:47.4,3:03.8 | +2:10.3,4,165
+201,Devon Comber,Villanova,JR,30:47.8,2:58.2 | +2:10.7,4,166
+202,Weston Brown,Princeton,FR,30:50.3,3:05.6 | +2:13.2,5,167
+203,LJ Floyd,Utah State,JR,30:51.6,3:01.7 | +2:14.4,3,168
+204,Harrison Witt,Princeton,JR,30:52.0,3:06.7 | +2:14.9,5,169
+205,Brennan Benson,Utah State,SR,30:52.4,3:03.9 | +2:15.2,2,170
+206,Connor McCormick,Princeton,JR,30:52.8,2:59.2 | +2:15.6,5,171
+207,Jacob Laney,North Carolina,FR,30:55.2,3:06.8 | +2:18.1,5,172
+208,Charlie North,Georgetown,SO,30:56.0,3:02.7 | +2:18.9,2,173
+209,Martin Kovacech,Butler,SR,30:56.9,2:58.2 | +2:19.8,8,174
+210,Tayson Echohawk,Oregon,FR,30:57.9,3:04.9 | +2:20.8,2,175
+211,Dylan Van Der Hock,Wyoming,SR,30:58.8,2:58.8 | +2:21.7,9,176
+212,Nathan Neil,Washington,FR,30:58.9,3:04.7 | +2:21.7,-1,177
+213,Joseph McKee,Utah State,FR,30:59.6,3:10.1 | +2:22.5,9,178
+214,Mason Norman,Wyoming,SR,31:00.8,3:04.1 | +2:23.7,1,179
+215,Derek Fearon,Georgetown,SR,31:03.8,3:06.2 | +2:26.6,1,180
+216,Sam Hubert,Virginia Tech,SR,31:05.9,3:07.2 | +2:28.8,2,181
+217,Christopher Middleton-Pearson,Tennessee,JR,31:07.7,3:09.8 | +2:30.6,2,-1
+218,Thomas Boyden,Stanford,JR,31:08.0,3:03.9 | +2:30.8,5,182
+219,Ben Brown,Tulsa,FR,31:08.3,3:04.5 | +2:31.1,3,183
+220,Wondu Summa,Tulane,SR,31:08.8,3:02.1 | +2:31.7,5,184
+221,Grady Rauba,Colorado,SO,31:09.4,3:07.2 | +2:32.3,-1,185
+222,Fouad Messaoudi,Oklahoma State,JR,31:10.6,3:12.5 | +2:33.4,6,186
+223,Griffin Neal,Incarnate Word,SR,31:10.7,3:06.4 | +2:33.6,1,-1
+224,Sean Donoghue,Villanova,JR,31:11.1,3:02.3 | +2:33.9,3,187
+225,Victor Rosas,CBU,JR,31:11.6,3:01.0 | +2:34.5,5,188
+226,David Slapak,Butler,SO,31:11.8,3:12.4 | +2:34.7,7,189
+227,Nicholas Goldstein,Furman,SR,31:14.4,2:58.4 | +2:37.3,5,190
+228,Luke Taylor,Furman,SO,31:15.3,3:05.3 | +2:38.1,1,191
+229,Reuben Reina,Arkansas,JR,31:16.0,3:22.7 | +2:38.9,20,192
+230,German Vega,Eastern Kentucky,JR,31:17.0,3:02.6 | +2:39.9,1,193
+231,Ben Rosa,Harvard,SR,31:17.6,3:08.4 | +2:40.4,3,194
+232,Joe Ewing,Harvard,SR,31:22.3,3:14.5 | +2:45.2,6,195
+233,Trevor Stephen,Wyoming,SR,31:24.4,3:05.1 | +2:47.3,-1,196
+234,Corne De Fouw,New Mexico,FR,31:25.4,3:05.9 | +2:48.3,-1,197
+235,Noah Ward,Harvard,SR,31:27.7,3:05.2 | +2:50.6,1,198
+236,Jamar Distel,Washington,SO,31:27.8,2:54.3 | +2:50.7,5,199
+237,Oisin Spillane,Tulsa,JR,31:32.0,3:09.9 | +2:54.9,2,200
+238,Jack Meijer,Ole Miss,SR,31:35.2,3:11.0 | +2:58.0,1,201
+239,Gabe Scales,Ole Miss,JR,31:36.3,3:08.5 | +2:59.1,1,202
+240,Jack Hawes,Alabama,SR,31:39.1,3:05.2 | +3:02.0,2,203
+241,Evan Trapp,Alabama,FR,31:41.2,3:10.2 | +3:04.0,2,204
+242,Arnav Tikhe,Virginia Tech,SR,31:46.3,3:14.7 | +3:09.2,2,205
+243,Luke Lambert,Tulsa,JR,31:46.8,3:07.7 | +3:09.6,1,206
+244,Nick Sullivan,Villanova,FR,31:47.6,3:08.3 | +3:10.4,1,207
+245,Will Brunner,Harvard,FR,31:47.8,3:08.2 | +3:10.6,1,208
+246,Jordan Bendura,Tulane,SR,31:49.6,3:10.8 | +3:12.4,3,209
+247,Kamari Miller,Syracuse,JR,31:50.2,3:04.5 | +3:13.1,1,210
+248,Ryan Adkins,Tulane,SR,31:52.7,3:10.9 | +3:15.5,1,211
+249,Luke Birdseye,Tulsa,FR,32:12.6,3:17.0 | +3:35.5,-1,212
+250,Tucker Poshard,Tulane,JR,32:31.2,3:24.8 | +3:54.1,-1,213
+251,Lucas Guerra,Georgetown,JR,32:32.6,3:13.3 | +3:55.5,-1,214
+252,Cesc Boix,Eastern Kentucky,FR,32:49.3,3:19.8 | +4:12.1,-1,215
+-1,Justine Kipkoech,Eastern Kentucky,FR,,,-1,-1
+-1,Solomon Kipchoge,Texas Tech,FR,,,-1,-1
+-1,Asefa Wetzel,Wyoming,SR,,,-1,-1
