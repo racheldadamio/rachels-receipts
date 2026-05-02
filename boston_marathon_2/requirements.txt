@@ -1,0 +1,6 @@
+requests
+types-requests
+beautifulsoup4
+types-beautifulsoup4
+pandas
+pandas-stubs
