@@ -1,0 +1,40 @@
+Scraping 2021...
+  Total results: 26,124, pages: 27
+  Page 10/27, rows so far: 8,957
+  Page 20/27, rows so far: 18,957
+  26,081 unique marathon runners after dedup
+  Saved → chicago_results_2021.csv
+Scraping 2022...
+  Total results: 39,368, pages: 40
+  Page 10/40, rows so far: 8,937
+  Page 20/40, rows so far: 18,937
+  Page 30/40, rows so far: 28,937
+  Page 40/40, rows so far: 38,937
+  39,305 unique marathon runners after dedup
+  Saved → chicago_results_2022.csv
+Scraping 2023...
+  Total results: 48,500, pages: 49
+  Page 10/49, rows so far: 8,928
+  Page 20/49, rows so far: 18,928
+  Page 30/49, rows so far: 28,928
+  Page 40/49, rows so far: 38,928
+  48,428 unique marathon runners after dedup
+  Saved → chicago_results_2023.csv
+Scraping 2024...
+  Total results: 52,142, pages: 53
+  Page 10/53, rows so far: 8,922
+  Page 20/53, rows so far: 18,922
+  Page 30/53, rows so far: 28,922
+  Page 40/53, rows so far: 38,922
+  Page 50/53, rows so far: 48,922
+  52,064 unique marathon runners after dedup
+  Saved → chicago_results_2024.csv
+Scraping 2025 (results.chicagomarathon.com)...
+  Total pages: 55
+  Page 10/55, rows so far: 9,000
+  Page 20/55, rows so far: 19,000
+  Page 30/55, rows so far: 29,000
+  Page 40/55, rows so far: 39,000
+  Page 50/55, rows so far: 49,000
+  54,316 unique marathon runners after dedup
+  Saved → chicago_results_2025.csv
