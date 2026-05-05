@@ -34,14 +34,14 @@ Across all years and genders, the vast majority of runners slow down in the seco
 
 | Year | Sub-3 Women | Sub-2:35 Men | Men's Equiv. |
 |------|-------------|--------------|--------------|
-| 2018 | 73          | 49           | 2:36:37      |
+| 2018 | 75          | 49           | 2:36:40      |
 | 2019 | 173         | 184          | 2:34:27      |
-| 2021 | 150         | 143          | 2:35:26      |
+| 2021 | 153         | 144          | 2:35:29      |
 | 2022 | 231         | 236          | 2:34:52      |
-| 2023 | 268         | 289          | 2:34:22      |
-| 2024 | 188         | 209          | 2:34:26      |
-| 2025 | 383         | 396          | 2:34:45      |
-| 2026 | 606         | 599          | 2:35:04      |
+| 2023 | 272         | 291          | 2:34:23      |
+| 2024 | 189         | 209          | 2:34:27      |
+| 2025 | 385         | 396          | 2:34:45      |
+| 2026 | 608         | 599          | 2:35:05      |
 
 Both sub-3 women and sub-2:35 men have grown in near lockstep, consistent with an overall field-wide speed improvement rather than one gender outpacing the other at the elite fringe. The men's equivalent time has barely moved (range of ~2 minutes across 8 years), confirming that **2:35 is a stable men's equivalent of women's sub-3:00**.
 
@@ -55,18 +55,20 @@ Of the ~29,000 runners who appeared in at least two years, **50.7%** ran faster 
 
 ### 5. The overall field has gotten ~17 minutes faster since 2018
 
+Medians computed from `df_full` (all finishers with valid finish times, no half-split requirement). Field sizes for 2018–2022 are capped at the scraper's page-boundary totals (25k / 26k / 15k / 24k) and likely undercount the true field slightly.
+
 | Year | Median Women | Median Men  | Field Size |
 |------|-------------|-------------|------------|
-| 2018 | 3:56:53     | 3:34:05     | 24,045     |
-| 2019 | 3:52:28     | 3:28:26     | 25,969     |
-| 2021 | 3:42:08     | 3:20:48     | 14,973     |
-| 2022 | 3:48:43     | 3:27:22     | 23,967     |
-| 2023 | 3:44:52     | 3:23:17     | 25,909     |
-| 2024 | 3:47:15     | 3:25:32     | 24,869     |
-| 2025 | 3:41:45     | 3:20:09     | 27,851     |
-| 2026 | 3:39:21     | 3:16:53     | 28,870     |
+| 2018 | 3:57:42     | 3:33:53     | 25,000     |
+| 2019 | 3:56:06     | 3:29:57     | 26,000     |
+| 2021 | 3:55:03     | 3:29:38     | 15,000     |
+| 2022 | 3:49:19     | 3:21:51     | 24,000     |
+| 2023 | 3:46:03     | 3:19:01     | 25,977     |
+| 2024 | 3:54:21     | 3:29:30     | 24,952     |
+| 2025 | 3:45:06     | 3:20:09     | 27,929     |
+| 2026 | 3:39:22     | 3:16:52     | 28,897     |
 
-Both genders improved by roughly 17 minutes at the median from 2018 to 2026. Women now represent approximately **44% of the field**, a proportion that has held roughly steady since 2019. The field size has grown from ~24,000 (2018) to ~29,000 (2026), with 2021 a COVID-era outlier at ~15,000.
+Both genders improved by roughly 17–18 minutes at the median from 2018 to 2026 (men: ~17 min, women: ~18 min). Women now represent approximately **44% of the field**, a proportion that has held roughly steady since 2019. The field size has grown from ~25,000 (2018) to ~29,000 (2026), with 2021 a COVID-era outlier at ~15,000.
 
 The speed improvement likely reflects a combination of factors: the 2018 race being weather-suppressed (inflating its baseline), broader sport participation growth, and improvements in training and footwear technology across the running community.
 

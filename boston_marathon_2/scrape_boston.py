@@ -51,7 +51,8 @@ def fetch_page(year, event, page, retries=5):
             )
             resp.raise_for_status()
             return resp.text
-        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError) as e:
+        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError,
+                requests.exceptions.ChunkedEncodingError) as e:
             wait = 5 * 2 ** attempt  # 5s, 10s, 20s, 40s, 80s
             print(f" timeout (attempt {attempt + 1}/{retries}), retrying in {wait}s...", end="", flush=True)
             time.sleep(wait)
@@ -153,8 +154,6 @@ def scrape_year(year, event="R", output_dir=".", delay=2.0):
 
         print(f" {len(result_lis)} rows (total so far: {len(all_rows):,})")
 
-        if total and len(all_rows) >= total:
-            break
         if len(result_lis) < RESULTS_PER_PAGE:
             break
 
