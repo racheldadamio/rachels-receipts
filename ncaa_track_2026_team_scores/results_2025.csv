@@ -1,721 +1,1201 @@
-event,gender,category,place,name,school,school_abbr,year,result,points,is_relay
-100M,M,sprint,1.0,Jordan Anthony,Arkansas,ARK,SO,10.07,10,False
-100M,M,sprint,2.0,Max Thomas,USC,USC,JR,10.10(10.091),8,False
-100M,M,sprint,3.0,Jelani Watkins,LSU,LSU,FR,10.10(10.092),6,False
-100M,M,sprint,4.0,Kanyinsola Ajayi,Auburn,AUB,SO,10.13,5,False
-100M,M,sprint,5.0,Davonte Howell,Tennessee,TENN,SO,10.17(10.166),4,False
-100M,M,sprint,6.0,Jaiden Reid,LSU,LSU,SO,10.17(10.170),3,False
-100M,M,sprint,7.0,Israel Okon,Auburn,AUB,FR,10.18,2,False
-100M,M,sprint,8.0,T'Mars McCallum,Tennessee,TENN,JR,10.24,1,False
-100M,M,sprint,9.0,Eddie Nketia,USC,USC,SO,10.30,0,False
-200M,M,sprint,1.0,Carli Makarawu,Kentucky,UK,JR,19.84,10,False
-200M,M,sprint,2.0,Makanakaishe Charamba,Auburn,AUB,SR,19.92,8,False
-200M,M,sprint,3.0,Garrett Kaalund,USC,USC,JR,19.96,6,False
-200M,M,sprint,4.0,Jordan Anthony,Arkansas,ARK,SO,20.01,5,False
-200M,M,sprint,5.0,T'Mars McCallum,Tennessee,TENN,JR,20.16,4,False
-200M,M,sprint,6.0,Max Thomas,USC,USC,JR,20.23,3,False
-200M,M,sprint,7.0,Xavier Butler,Texas,TEX,SO,20.39,2,False
-200M,M,sprint,8.0,Abdul-Rasheed Saminu,South Florida,USF,SR,20.55,1,False
-200M,M,sprint,9.0,Cameron Miller,Purdue,PURD,JR,20.56,0,False
-400M,M,sprint,1.0,Samuel Ogazi,Alabama,BAMA,SO,44.84,10,False
-400M,M,sprint,2.0,William Jones,USC,USC,JR,45.53,8,False
-400M,M,sprint,3.0,Jordan Pierre,Arkansas-Pine Bluff,UAPB,SO,45.75,6,False
-400M,M,sprint,4.0,DeSean Boyce,Texas Tech,TTU,JR,45.78,5,False
-400M,M,sprint,5.0,Joseph Taylor,Duke,DUKE,FR,45.83,4,False
-400M,M,sprint,6.0,Jayden Davis,Arizona State,AZST,SO,45.91,3,False
-400M,M,sprint,7.0,Auhmad Robinson,Texas A&M,TAMU,SR,46.07,2,False
-400M,M,sprint,8.0,Gabriel Clement II,UCLA,UCLA,SO,46.17,1,False
-400M,M,sprint,,Gabriel Moronta,South Florida,USF,SR,DQR: 15.5-2b ⓘ,0,False
-800M,M,mid_distance,1.0,Sam Whitmarsh,Texas A&M,TAMU,SR,1:45.86,10,False
-800M,M,mid_distance,2.0,Matthew Erickson,Oregon,UO,SR,1:46.32,8,False
-800M,M,mid_distance,3.0,Rivaldo Marshall,Arkansas,ARK,SR,1:46.71,6,False
-800M,M,mid_distance,4.0,Samuel Rodman,Princeton,PRIN,SR,1:46.86,5,False
-800M,M,mid_distance,5.0,Aidan McCarthy,Cal Poly,POLY,JR,1:46.88,4,False
-800M,M,mid_distance,6.0,Samuel Navarro,Miss State,MSST,SR,1:47.33,3,False
-800M,M,mid_distance,7.0,Christian Jackson,Virginia Tech,VT,JR,1:47.42,2,False
-800M,M,mid_distance,8.0,Tyrice Taylor,Arkansas,ARK,JR,1:47.44,1,False
-800M,M,mid_distance,9.0,Koitatoi Kidali,Oregon,UO,FR,1:52.10,0,False
-1500M,M,mid_distance,1.0,Nathan Green,Washington,WASH,JR,3:47.26,10,False
-1500M,M,mid_distance,2.0,Ethan Strand,North Carolina,UNC,JR,3:47.33,8,False
-1500M,M,mid_distance,3.0,Ferenc Kovacs,Harvard,HARV,SO,3:47.42,6,False
-1500M,M,mid_distance,4.0,Adam Spencer,Wisconsin,WISC,SR,3:47.50,5,False
-1500M,M,mid_distance,5.0,Gary Martin,Virginia,UVA,JR,3:47.58,4,False
-1500M,M,mid_distance,6.0,Jack Crull,Bradley,BRAD,SR,3:47.61,3,False
-1500M,M,mid_distance,7.0,Simeon Birnbaum,Oregon,UO,SO,3:47.64,2,False
-1500M,M,mid_distance,8.0,Damian Hackett,Cornell,CORN,SR,3:47.74,1,False
-1500M,M,mid_distance,9.0,Brendan Herger,Michigan,MICH,FR,3:47.88,0,False
-1500M,M,mid_distance,10.0,Harrison Witt,Princeton,PRIN,SR,3:47.92,0,False
-1500M,M,mid_distance,11.0,Trent McFarland,Michigan,MICH,SO,3:47.94,0,False
-1500M,M,mid_distance,12.0,Martin Segurola,Indiana,IU,JR,3:48.71,0,False
-3000SC,M,distance,1.0,James Corrigan,BYU,BYU,JR,8:16.41,10,False
-3000SC,M,distance,2.0,Geoffrey Kirwa,Louisville,LOU,FR,8:17.12,8,False
-3000SC,M,distance,3.0,Carson Williams,Furman,FURM,SR,8:19.71,6,False
-3000SC,M,distance,4.0,Joash Ruto,Iowa State,IAST,FR,8:20.47,5,False
-3000SC,M,distance,5.0,Collins Kiprop Kipngok,Kentucky,UK,FR,8:22.92,4,False
-3000SC,M,distance,6.0,Mathew Kosgei,New Mexico,UNM,FR,8:23.70,3,False
-3000SC,M,distance,7.0,Benjamin Balazs,Oregon,UO,SO,8:24.46,2,False
-3000SC,M,distance,8.0,Rob McManus,Montana State,MTST,JR,8:25.83,1,False
-3000SC,M,distance,9.0,CJ Singleton,Notre Dame,ND,JR,8:28.93,0,False
-3000SC,M,distance,10.0,Silas Kiptanui,Tulane,TUL,SO,8:32.20,0,False
-3000SC,M,distance,11.0,Victor Kibiego,Texas A&M,TAMU,JR,8:32.33,0,False
-3000SC,M,distance,12.0,Kristian Imroth,Eastern Kentucky,EKU,JR,8:49.06,0,False
-5000M,M,distance,1.0,Brian Musau,Oklahoma State,OKST,SO,13:20.59,10,False
-5000M,M,distance,2.0,Habtom Samuel,New Mexico,UNM,SO,13:20.89,8,False
-5000M,M,distance,3.0,Marco Langon,Villanova,NOVA,JR,13:21.17,6,False
-5000M,M,distance,4.0,Valentin Soca,CBU,CBU,JR,13:21.76,5,False
-5000M,M,distance,5.0,Rocky Hansen,Wake Forest,WAKE,SO,13:22.47,4,False
-5000M,M,distance,6.0,Matt Strangio,Portland,PORT,SR,13:23.28,3,False
-5000M,M,distance,7.0,Ishmael Kipkurui,New Mexico,UNM,FR,13:25.18,2,False
-5000M,M,distance,8.0,Fouad Messaoudi,Oklahoma State,OKST,SR,13:25.48,1,False
-5000M,M,distance,9.0,Toby Gillen,Ole Miss,MISS,SR,13:26.74,0,False
-5000M,M,distance,10.0,David Mullarkey,Northern Arizona,NAU,SR,13:28.43,0,False
-5000M,M,distance,11.0,Robin Kwemoi Bera,Iowa State,IAST,FR,13:30.52,0,False
-5000M,M,distance,12.0,Colton Sands,North Carolina,UNC,SR,13:36.26,0,False
-5000M,M,distance,13.0,Will Daley,Virginia,UVA,JR,13:36.55,0,False
-5000M,M,distance,14.0,Luke Tewalt,Wake Forest,WAKE,SR,13:37.47,0,False
-5000M,M,distance,15.0,Jacob White,Wyoming,WYO,JR,13:37.82,0,False
-5000M,M,distance,16.0,Ernest Cheruiyot,Texas Tech,TTU,SO,13:38.09,0,False
-5000M,M,distance,17.0,Drew Bosley,Northern Arizona,NAU,SR,13:39.04,0,False
-5000M,M,distance,18.0,JoJo Jourdon,Wake Forest,WAKE,FR,13:41.00,0,False
-5000M,M,distance,19.0,Ethan Strand,North Carolina,UNC,JR,13:42.20,0,False
-5000M,M,distance,20.0,Matthew Forrester,Butler,BUTL,JR,13:43.85,0,False
-5000M,M,distance,21.0,Kidus Misgina,Ole Miss,MISS,SR,13:49.21,0,False
-5000M,M,distance,22.0,Hunter Christopher,Youngstown St.,YSU,SR,13:49.43,0,False
-5000M,M,distance,23.0,Luke Grundvig,BYU,BYU,JR,13:54.70,0,False
-5000M,M,distance,24.0,Justin Wachtel,Virginia,UVA,JR,14:11.51,0,False
-10000M,M,distance,1.0,Ishmael Kipkurui,New Mexico,UNM,FR,29:07.70,10,False
-10000M,M,distance,2.0,Habtom Samuel,New Mexico,UNM,SO,29:08.73,8,False
-10000M,M,distance,3.0,Ernest Cheruiyot,Texas Tech,TTU,SO,29:10.37,6,False
-10000M,M,distance,4.0,Rodgers Kiplimo,Iowa State,IAST,JR,29:10.89,5,False
-10000M,M,distance,5.0,Evans Kurui,Washington State,WAST,SO,29:10.91,4,False
-10000M,M,distance,6.0,David Mullarkey,Northern Arizona,NAU,SR,29:11.05,3,False
-10000M,M,distance,7.0,Dylan Schubert,Furman,FURM,SR,29:11.18,2,False
-10000M,M,distance,8.0,Creed Thompson,BYU,BYU,JR,29:11.44,1,False
-10000M,M,distance,9.0,Denis Kipngetich,Oklahoma State,OKST,SO,29:11.50,0,False
-10000M,M,distance,10.0,Ben Rosa,Harvard,HARV,SR,29:12.19,0,False
-10000M,M,distance,11.0,Dismus Lokira,Alabama,BAMA,FR,29:13.51,0,False
-10000M,M,distance,12.0,Cole Sprout,Stanford,STAN,SR,29:18.13,0,False
-10000M,M,distance,13.0,Murphy Smith,Navy,NAVY,SR,29:18.39,0,False
-10000M,M,distance,14.0,Joey Nokes,BYU,BYU,SR,29:19.76,0,False
-10000M,M,distance,15.0,Ethan Coleman,Notre Dame,ND,JR,29:22.01,0,False
-10000M,M,distance,16.0,William Zegarski,Butler,BUTL,SO,29:22.91,0,False
-10000M,M,distance,17.0,Dylan Throop,Penn,PENN,SR,29:24.03,0,False
-10000M,M,distance,18.0,Bernard Cheruiyot,Tulane,TUL,FR,29:24.80,0,False
-10000M,M,distance,19.0,Timothy Chesondin,Arkansas,ARK,SO,29:26.37,0,False
-10000M,M,distance,20.0,Drew Bosley,Northern Arizona,NAU,SR,29:28.52,0,False
-10000M,M,distance,21.0,Sam Lawler,Syracuse,SYR,SR,29:31.40,0,False
-10000M,M,distance,22.0,Victor Kiprop,Alabama,BAMA,SR,29:31.44,0,False
-10000M,M,distance,23.0,Shane Brosnan,Harvard,HARV,SO,29:33.81,0,False
-10000M,M,distance,,Dennis Kipruto,Alabama,BAMA,SO,DNF,0,False
-110MH,M,sprint,1.0,Ja'Kobe Tharp,Auburn,AUB,SO,13.05,10,False
-110MH,M,sprint,2.0,Zachary Extine,Arizona,ARIZ,JR,13.13,8,False
-110MH,M,sprint,3.0,John Adesola,Houston,UH,SR,13.28,6,False
-110MH,M,sprint,4.0,Jamar Marshall Jr.,Houston,UH,SR,13.34,5,False
-110MH,M,sprint,5.0,Demario Prince,Baylor,BAY,FR,13.44,4,False
-110MH,M,sprint,6.0,Darius Brown,DePaul,DEP,SR,13.50,3,False
-110MH,M,sprint,7.0,Jahiem Stern,LSU,LSU,JR,13.57,2,False
-110MH,M,sprint,8.0,Jayden Smith,Davidson,DAVD,SR,13.65,1,False
-110MH,M,sprint,,Kendrick Smallwood,Texas,TEX,JR,DQR: 15.6-2d ⓘ,0,False
-400MH,M,sprint,1.0,Nathaniel Ezekiel,Baylor,BAY,SR,47.49,10,False
-400MH,M,sprint,2.0,Ja'Qualon Scott,Texas A&M,TAMU,SR,48.29,8,False
-400MH,M,sprint,3.0,Kody Blackwood,Texas,TEX,JR,48.66,6,False
-400MH,M,sprint,4.0,Oskar Edlund,Texas Tech,TTU,SR,49.02,5,False
-400MH,M,sprint,5.0,Saad Hinti,Tennessee,TENN,FR,49.11,4,False
-400MH,M,sprint,6.0,Bryce McCray,Texas A&M,TAMU,SR,49.52,3,False
-400MH,M,sprint,7.0,Johnny Brackins,USC,USC,SR,50.15,2,False
-400MH,M,sprint,8.0,Bryce Tucker,Rutgers,RUTG,SO,50.83,1,False
-400MH,M,sprint,9.0,Jarrett Gentles,Coppin State,COPP,SR,51.50,0,False
-4x100M,M,relay,1.0,AUBURN,Auburn,AUB,,38.33,10,True
-4x100M,M,relay,2.0,USC,USC,USC,,38.46,8,True
-4x100M,M,relay,3.0,ARKANSAS,Arkansas,ARK,,38.72,6,True
-4x100M,M,relay,4.0,SOUTH FLORIDA,South Florida,USF,,38.73,5,True
-4x100M,M,relay,5.0,TENNESSEE,Tennessee,TENN,,38.79,4,True
-4x100M,M,relay,6.0,KENTUCKY,Kentucky,UK,,38.85,3,True
-4x100M,M,relay,7.0,MINNESOTA,Minnesota,MINN,,38.88,2,True
-4x100M,M,relay,8.0,TEXAS,Texas,TEX,,39.10,1,True
-4x100M,M,relay,,LSU,LSU,LSU,,DQR: 15.5-2b ⓘ,0,True
-4x400M,M,relay,1.0,SOUTH FLORIDA,South Florida,USF,,3:00.42,10,True
-4x400M,M,relay,2.0,TEXAS A&M,Texas A&M,TAMU,,3:00.73,8,True
-4x400M,M,relay,3.0,ARKANSAS,Arkansas,ARK,,3:01.59,6,True
-4x400M,M,relay,4.0,IOWA,Iowa,IOWA,,3:01.61,5,True
-4x400M,M,relay,5.0,FLORIDA,Florida,UF,,3:01.88,4,True
-4x400M,M,relay,6.0,ALABAMA,Alabama,BAMA,,3:02.17,3,True
-4x400M,M,relay,7.0,BYU,BYU,BYU,,3:02.51,2,True
-4x400M,M,relay,8.0,USC,USC,USC,,3:03.18,1,True
-4x400M,M,relay,9.0,PENN STATE,Penn State,PSU,,3:03.85,0,True
-High Jump,M,jump,1.0,Arvesta Troupe,Ole Miss,MISS,JR,2.27m7-5¼,10,False
-High Jump,M,jump,2.0,Kason O'Riley,Texas State,TXST,SR,2.20m7-2½,8,False
-High Jump,M,jump,2.0,Aiden Hayes,Texas State,TXST,JR,2.20m7-2½,8,False
-High Jump,M,jump,4.0,Kamyren Garrett,Illinois,ILL,SR,2.20m7-2½,5,False
-High Jump,M,jump,5.0,Nathanil Figgers,South Carolina,SCAR,SO,2.20m7-2½,4,False
-High Jump,M,jump,6.0,Kyren Washington,Oklahoma,OU,SO,2.20m7-2½,3,False
-High Jump,M,jump,6.0,Tyus Wilson,Nebraska,NEB,SR,2.20m7-2½,3,False
-High Jump,M,jump,8.0,Eddie Kurjak,Georgia,UGA,SR,2.15m7-½,1,False
-High Jump,M,jump,8.0,Kuda Chadenga,LSU,LSU,SR,2.15m7-½,1,False
-High Jump,M,jump,8.0,Kampton Kam,Penn,PENN,JR,2.15m7-½,1,False
-High Jump,M,jump,11.0,Desire Tonye Nyemeck,Nebraska,NEB,FR,2.15m7-½,0,False
-High Jump,M,jump,12.0,Elias Gerald,USC,USC,JR,2.15m7-½,0,False
-High Jump,M,jump,13.0,Bode Gilkerson,Purdue,PURD,SO,2.15m7-½,0,False
-High Jump,M,jump,13.0,Antrea Mita,Houston,UH,SO,2.15m7-½,0,False
-High Jump,M,jump,15.0,Donald Hatfield Jackson,SE Missouri,SEMO,SR,2.15m7-½,0,False
-High Jump,M,jump,16.0,Miles Grant,Sacramento St.,SAC,SR,2.10m6-10¾,0,False
-High Jump,M,jump,16.0,Kennedy Sauder,Miami (Fla.),MIAF,JR,2.10m6-10¾,0,False
-High Jump,M,jump,16.0,Channing Ferguson,South Carolina,SCAR,SR,2.10m6-10¾,0,False
-High Jump,M,jump,16.0,Riyon Rankin,Georgia,UGA,SO,2.10m6-10¾,0,False
-High Jump,M,jump,20.0,Tito Alofe,Harvard,HARV,SO,2.10m6-10¾,0,False
-High Jump,M,jump,20.0,Osawese Agbonkonkon,Texas,TEX,SO,2.10m6-10¾,0,False
-High Jump,M,jump,20.0,Enaji Muhammad,Connecticut,CONN,FR,2.10m6-10¾,0,False
-High Jump,M,jump,23.0,Roman Smith,Southern,SOUT,SR,2.10m6-10¾,0,False
-High Jump,M,jump,,Scottie VINES,Arkansas,ARK,FR,NH,0,False
-Pole Vault,M,jump,1.0,Aleksandr Solovev,Texas A&M,TAMU,JR,5.78m18-11½,10,False
-Pole Vault,M,jump,2.0,Ashton Barkdull,Kansas,KU,JR,5.73m18-9½,8,False
-Pole Vault,M,jump,3.0,Bradley Jelmert,Arkansas State,ARST,SR,5.63m18-5½,6,False
-Pole Vault,M,jump,4.0,Benjamin Conacher,Virginia Tech,VT,SR,5.58m18-3¾,5,False
-Pole Vault,M,jump,5.0,Simen Guttormsen,Duke,DUKE,SR,5.53m18-1¾,4,False
-Pole Vault,M,jump,5.0,Bryce Barkdull,Kansas,KU,FR,5.53m18-1¾,4,False
-Pole Vault,M,jump,7.0,Cody Johnston,Illinois,ILL,SO,5.53m18-1¾,2,False
-Pole Vault,M,jump,7.0,Kevin O'Sullivan,Rutgers,RUTG,JR,5.53m18-1¾,2,False
-Pole Vault,M,jump,9.0,William Staggs,Indiana State,INST,SR,5.53m18-1¾,0,False
-Pole Vault,M,jump,10.0,Cade Gray,Tennessee,TENN,JR,5.43m17-9¾,0,False
-Pole Vault,M,jump,11.0,Scott Toney,Washington,WASH,SR,5.43m17-9¾,0,False
-Pole Vault,M,jump,12.0,Jak Urlacher,Minnesota,MINN,SR,5.43m17-9¾,0,False
-Pole Vault,M,jump,13.0,Logan Hammer,Utah State,UTST,JR,5.33m17-5¾,0,False
-Pole Vault,M,jump,13.0,Nico Morales,Rutgers,RUTG,SR,5.33m17-5¾,0,False
-Pole Vault,M,jump,13.0,Evan Puckett,Tennessee,TENN,JR,5.33m17-5¾,0,False
-Pole Vault,M,jump,13.0,John Kendricks,Ole Miss,MISS,SO,5.33m17-5¾,0,False
-Pole Vault,M,jump,17.0,Logan Kelley,Ole Miss,MISS,JR,5.33m17-5¾,0,False
-Pole Vault,M,jump,18.0,Sean Gribble,Texas Tech,TTU,SO,5.33m17-5¾,0,False
-Pole Vault,M,jump,18.0,Tre Young,South Dakota,SDAK,SR,5.33m17-5¾,0,False
-Pole Vault,M,jump,20.0,Arnie Grunert,Western Illinois,WIU,JR,5.18m17-0,0,False
-Pole Vault,M,jump,21.0,Nikolai van Huyssteen,Georgia,UGA,SR,5.18m17-0,0,False
-Pole Vault,M,jump,,Hunter GARRETSON,Akron,AKRN,SR,NH,0,False
-Pole Vault,M,jump,,Colton RHODES,Oklahoma,OU,JR,NH,0,False
-Pole Vault,M,jump,,Ricardo MONTES DE OCA,High Point,HPU,FR,NH,0,False
-Long Jump,M,jump,1.0,Malcolm Clemons,Florida,UF,SR,8.04m26-4½,10,False
-Long Jump,M,jump,2.0,Blair Anderson,Oklahoma State,OKST,SR,8.02m26-3¾,8,False
-Long Jump,M,jump,3.0,Henry Kiner,Arkansas,ARK,SR,7.96m26-1½,6,False
-Long Jump,M,jump,4.0,Charles Godfred,Minnesota,MINN,SO,7.91m25-11½,5,False
-Long Jump,M,jump,5.0,Lokesh Sathyanathan,Tarleton State,TARL,SR,7.83m25-8¼,4,False
-Long Jump,M,jump,6.0,Tyson Adams,NC State,NCSU,FR,7.81m25-7½,3,False
-Long Jump,M,jump,7.0,Greg Foster,Princeton,PRIN,JR,7.80m25-7¼,2,False
-Long Jump,M,jump,8.0,Jayden Keys,Georgia,UGA,FR,7.80m25-7¼,1,False
-Long Jump,M,jump,9.0,Uroy Ryan,Arkansas,ARK,FR,7.77m25-6,0,False
-Long Jump,M,jump,10.0,Tye Hunt,Youngstown St.,YSU,SR,7.77m25-6,0,False
-Long Jump,M,jump,11.0,Chrstyn John (JC) Stevenson,USC,USC,JR,7.75m25-5¼,0,False
-Long Jump,M,jump,12.0,De'Aundre Ward,Southern Miss.,USM,SR,7.73m25-4½,0,False
-Long Jump,M,jump,13.0,Reinaldo Rodrigues,Arizona,ARIZ,SR,7.69m25-2¾,0,False
-Long Jump,M,jump,14.0,Chris Preddie,Texas State,TXST,JR,7.62m25-0,0,False
-Long Jump,M,jump,15.0,Roy Morris,Northwestern St.,NWST,FR,7.51m24-7¾,0,False
-Long Jump,M,jump,16.0,Anthony Riley,Oklahoma,OU,SR,7.46m24-5¾,0,False
-Long Jump,M,jump,17.0,Micah Larry,Georgia,UGA,SO,7.46m24-5¾,0,False
-Long Jump,M,jump,18.0,Juriad Hughes,Arkansas,ARK,FR,7.41m24-3¾,0,False
-Long Jump,M,jump,19.0,DJ Fillmore,Ohio State,OHST,SO,7.40m24-3½,0,False
-Long Jump,M,jump,20.0,Curtis Williams,Florida State,FSU,JR,7.18m23-6¾,0,False
-Long Jump,M,jump,21.0,Louis Gordon,Albany,ALBY,SR,7.13m23-4¾,0,False
-Long Jump,M,jump,,Josh Parrish,Wichita State,WICH,SO,X,0,False
-Long Jump,M,jump,,Safin Wills,Oregon,UO,SR,X,0,False
-Long Jump,M,jump,,Channing Ferguson,South Carolina,SCAR,SR,X,0,False
-Triple Jump,M,jump,1.0,Brandon Green Jr,Oklahoma,OU,JR,16.81m55-2,10,False
-Triple Jump,M,jump,2.0,Floyd Whitaker,Oklahoma,OU,SR,16.41m53-10¼,8,False
-Triple Jump,M,jump,3.0,Kyvon Tatham,Florida State,FSU,JR,16.23m53-3,6,False
-Triple Jump,M,jump,4.0,Luke Brown,Kentucky,UK,JR,16.18m53-1,5,False
-Triple Jump,M,jump,5.0,Selva Prabhu,Kansas State,KSST,FR,16.09m52-9½,4,False
-Triple Jump,M,jump,6.0,Theophilus Mudzengerere,South Carolina,SCAR,JR,16.09m52-9½,3,False
-Triple Jump,M,jump,7.0,Safin Wills,Oregon,UO,SR,16.07m52-8¾,2,False
-Triple Jump,M,jump,8.0,Stafon Roach,ULM,ULM,SO,15.99m52-5½,1,False
-Triple Jump,M,jump,9.0,Abraham Johnson,Eastern Illinois,EIU,FR,15.96m52-4½,0,False
-Triple Jump,M,jump,10.0,Hakeem Ford,Minnesota,MINN,SO,15.89m52-1¾,0,False
-Triple Jump,M,jump,11.0,Jaren Holmes,USC,USC,SR,15.75m51-8¼,0,False
-Triple Jump,M,jump,12.0,Alexandre Malanda,Kent State,KENT,SR,15.69m51-5¾,0,False
-Triple Jump,M,jump,13.0,Ryan John,Clemson,CLEM,JR,15.65m51-4¼,0,False
-Triple Jump,M,jump,14.0,Kelsey Daniel,Texas,TEX,SR,15.53m50-11½,0,False
-Triple Jump,M,jump,15.0,Jeremy Nelson,Louisiana,ULL,JR,15.46m50-8¾,0,False
-Triple Jump,M,jump,16.0,Roman Kuleshov,Louisville,LOU,SR,15.35m50-4½,0,False
-Triple Jump,M,jump,17.0,Xavier Partee,N. Carolina A&T,NCAT,SO,15.32m50-3¼,0,False
-Triple Jump,M,jump,18.0,Chris Preddie,Texas State,TXST,JR,15.20m49-10½,0,False
-Triple Jump,M,jump,19.0,Ledamian Rowell,Jackson State,JKST,SR,15.15m49-8½,0,False
-Triple Jump,M,jump,20.0,Sir Jonathan Sims,Tarleton State,TARL,JR,15.07m49-5½,0,False
-Triple Jump,M,jump,21.0,Xavier Drumgoole,Stanford,STAN,FR,13.06m42-10¼,0,False
-Triple Jump,M,jump,,Anthony Woods,Alabama State,ALST,JR,X,0,False
-Triple Jump,M,jump,,Jaden Lippett,Florida,UF,FR,X,0,False
-Triple Jump,M,jump,,Viktor Morozov,Illinois,ILL,JR,X,0,False
-Shot Put,M,throw,1.0,Jason Swarens,Wisconsin,WISC,SR,21.23m69-8,10,False
-Shot Put,M,throw,2.0,Thomas Kitchell,North Carolina,UNC,SR,20.74m68-½,8,False
-Shot Put,M,throw,3.0,Tarik Robinson-O'Hagan,Ole Miss,MISS,JR,20.41m66-11½,6,False
-Shot Put,M,throw,4.0,Kobe Lawrence,Oregon,UO,FR,20.32m66-8,5,False
-Shot Put,M,throw,5.0,Christopher Licata,South Carolina,SCAR,SR,20.15m66-1½,4,False
-Shot Put,M,throw,6.0,Danny Bryant,BYU,BYU,SR,19.71m64-8,3,False
-Shot Put,M,throw,7.0,Dylan Targgart,South Carolina,SCAR,SR,19.48m63-11,2,False
-Shot Put,M,throw,8.0,Fred Moudani Likibi,Cincinnati,CINC,SR,19.44m63-9½,1,False
-Shot Put,M,throw,9.0,Joseph White,Wisconsin,WISC,SR,19.30m63-4,0,False
-Shot Put,M,throw,10.0,Zach Landa,Arizona,ARIZ,SR,19.05m62-6,0,False
-Shot Put,M,throw,11.0,Bryce Foster,Kansas,KU,JR,18.96m62-2½,0,False
-Shot Put,M,throw,12.0,Christopher Crawford,Alabama,BAMA,JR,18.94m62-1¾,0,False
-Shot Put,M,throw,13.0,Joe Licata,Princeton,PRIN,JR,18.93m62-1¼,0,False
-Shot Put,M,throw,14.0,Trevor Gunzell,Alabama,BAMA,JR,18.91m62-½,0,False
-Shot Put,M,throw,15.0,Alexander Kolesnikoff,Georgia,UGA,SR,18.75m61-6¼,0,False
-Shot Put,M,throw,16.0,Jacob Cookinham,Kansas,KU,FR,18.70m61-4¼,0,False
-Shot Put,M,throw,17.0,Obiora Okeke,Columbia,COLU,SR,18.65m61-2¼,0,False
-Shot Put,M,throw,18.0,Cam Jones,Iowa State,IAST,SR,18.62m61-1¼,0,False
-Shot Put,M,throw,19.0,Maxwell Otterdahl,Nebraska,NEB,SR,18.55m60-10½,0,False
-Shot Put,M,throw,20.0,Joshua Huisman,Michigan,MICH,FR,18.33m60-1¾,0,False
-Shot Put,M,throw,21.0,Tucker Smith,Oklahoma,OU,JR,18.26m59-11,0,False
-Shot Put,M,throw,22.0,Daniel Reynolds,Wyoming,WYO,SR,17.82m58-5¾,0,False
-Shot Put,M,throw,,Sascha Schmidt,Memphis,MEMP,JR,X,0,False
-Shot Put,M,throw,,David (Trey) Wilson,Texas Tech,TTU,SO,X,0,False
-Discus,M,throw,1.0,Ralford Mullings,Oklahoma,OU,JR,69.31m227-4,10,False
-Discus,M,throw,2.0,Mykolas Alekna,California,CAL,JR,66.77m219-0,8,False
-Discus,M,throw,3.0,Uladzislau Puchko,Virginia Tech,VT,SO,63.94m209-9,6,False
-Discus,M,throw,4.0,Racquil Broderick,USC,USC,SO,63.31m207-8,5,False
-Discus,M,throw,5.0,Michael Pinckney,UCLA,UCLA,JR,61.39m201-5,4,False
-Discus,M,throw,6.0,Dimitrios Pavlidis,Kansas,KU,SR,61.04m200-3,3,False
-Discus,M,throw,7.0,Vincent Ugwoke,South Florida,USF,SR,60.58m198-9,2,False
-Discus,M,throw,8.0,Aron Alvarez Aranda,Tennessee,TENN,SO,59.87m196-5,1,False
-Discus,M,throw,9.0,Christopher Crawford,Alabama,BAMA,JR,59.08m193-10,0,False
-Discus,M,throw,10.0,Jacob Lemmon,Florida,UF,SR,59.07m193-9,0,False
-Discus,M,throw,11.0,Desmond Coleman,Miami (Fla.),MIAF,JR,58.58m192-2,0,False
-Discus,M,throw,12.0,Youssef Koudssi,Arizona,ARIZ,SR,58.32m191-4,0,False
-Discus,M,throw,13.0,Casey Helm,Princeton,PRIN,JR,57.79m189-7,0,False
-Discus,M,throw,14.0,Trevor Gunzell,Alabama,BAMA,JR,57.52m188-8,0,False
-Discus,M,throw,15.0,Christopher Young,Alabama,BAMA,JR,57.23m187-9,0,False
-Discus,M,throw,16.0,Maxwell Otterdahl,Nebraska,NEB,SR,57.07m187-3,0,False
-Discus,M,throw,17.0,Iosif Papa,UMBC,UMBC,JR,56.98m186-11,0,False
-Discus,M,throw,18.0,Aidan Elbettar,Oregon,UO,SR,56.49m185-4,0,False
-Discus,M,throw,19.0,Paden Lewis,SE Missouri,SEMO,SR,56.27m184-7,0,False
-Discus,M,throw,20.0,Texas Tanner,Air Force,AFA,JR,55.76m182-11,0,False
-Discus,M,throw,21.0,Skylar Coffey,Missouri,MIZZ,SR,55.59m182-4,0,False
-Discus,M,throw,22.0,Oscar Rodriguez,Texas Tech,TTU,SR,55.20m181-1,0,False
-Discus,M,throw,23.0,Seth Allen,Auburn,AUB,JR,54.88m180-1,0,False
-Discus,M,throw,24.0,Tanner Watson,Ohio State,OHST,SR,53.92m176-11,0,False
-Hammer,M,throw,1.0,Kostas Zaltos,Minnesota,MINN,SR,78.08m256-2,10,False
-Hammer,M,throw,2.0,Angelos Mantzouranis,Minnesota,MINN,SO,76.96m252-6,8,False
-Hammer,M,throw,3.0,Tarik Robinson-O'Hagan,Ole Miss,MISS,JR,76.78m251-11,6,False
-Hammer,M,throw,4.0,Texas Tanner,Air Force,AFA,JR,75.22m246-9,5,False
-Hammer,M,throw,5.0,Rory Devaney,Cal Poly,POLY,JR,74.16m243-4,4,False
-Hammer,M,throw,6.0,Ryan Johnson,Iowa,IOWA,SO,71.91m235-11,3,False
-Hammer,M,throw,7.0,Daniel Reynolds,Wyoming,WYO,SR,69.68m228-7,2,False
-Hammer,M,throw,8.0,Christian Toro,Duke,DUKE,SO,68.94m226-2,1,False
-Hammer,M,throw,9.0,Kyle Brown,Auburn,AUB,SR,68.91m226-1,0,False
-Hammer,M,throw,10.0,Travis Martin,Cal Poly,POLY,SR,68.31m224-1,0,False
-Hammer,M,throw,11.0,Sean Smith,Iowa,IOWA,JR,67.81m222-5,0,False
-Hammer,M,throw,12.0,Jake Dalton,Ole Miss,MISS,SR,67.79m222-5,0,False
-Hammer,M,throw,13.0,Bryson Smith,Ole Miss,MISS,JR,67.79m222-5,0,False
-Hammer,M,throw,14.0,Kyle Moison,Auburn,AUB,SR,66.84m219-3,0,False
-Hammer,M,throw,15.0,Keyandre Davis,Virginia,UVA,JR,66.24m217-4,0,False
-Hammer,M,throw,16.0,Cole Hooper,Wisconsin,WISC,SR,65.98m216-6,0,False
-Hammer,M,throw,17.0,Igor Olaru,Baylor,BAY,FR,65.96m216-5,0,False
-Hammer,M,throw,18.0,Alex Bernstein,DePaul,DEP,JR,65.69m215-6,0,False
-Hammer,M,throw,19.0,Noa Isaia,Arkansas State,ARST,SO,65.08m213-6,0,False
-Hammer,M,throw,20.0,Orry Willems,Cincinnati,CINC,SR,64.81m212-7,0,False
-Hammer,M,throw,21.0,Sean Mockler,Indiana,IU,SR,64.07m210-2,0,False
-Hammer,M,throw,22.0,Mason Hickel,Ole Miss,MISS,JR,63.71m209-0,0,False
-Hammer,M,throw,23.0,Alex Kristeller,Manhattan,MANH,SR,61.07m200-4,0,False
-Hammer,M,throw,24.0,Kellen Kimes,Liberty,LIB,SO,60.67m199-0,0,False
-Javelin,M,throw,1.0,Devoux Deysel,Miami (Fla.),MIAF,SR,81.75m268-2,10,False
-Javelin,M,throw,2.0,Leikel Cabrera Gay,Florida,UF,SO,79.05m259-4,8,False
-Javelin,M,throw,3.0,Callan Saldutto,Missouri,MIZZ,SR,76.88m252-3,6,False
-Javelin,M,throw,4.0,Moustafa Alsherif,Georgia,UGA,SR,76.69m251-7,5,False
-Javelin,M,throw,5.0,Keyshawn Strachan,Nebraska,NEB,JR,76.44m250-9,4,False
-Javelin,M,throw,6.0,Mike Stein,Iowa,IOWA,JR,75.77m248-7,3,False
-Javelin,M,throw,7.0,Arthur Petersen,Nebraska,NEB,SR,75.50m247-8,2,False
-Javelin,M,throw,8.0,James Kotowski,UMass Lowell,LOWE,SR,75.18m246-8,1,False
-Javelin,M,throw,9.0,Colin Winkler,Central Connecticut,CCSU,SR,74.97m245-11,0,False
-Javelin,M,throw,10.0,Remi Rougetet,Miss State,MSST,SR,73.30m240-6,0,False
-Javelin,M,throw,11.0,Riley Marx,Kansas State,KSST,SO,70.71m232-0,0,False
-Javelin,M,throw,12.0,Liam Miksic,UC Irvine,UCI,SR,70.13m230-1,0,False
-Javelin,M,throw,13.0,Ryan Rieckmann,Cincinnati,CINC,SR,69.59m228-3,0,False
-Javelin,M,throw,14.0,Dash Sirmon,Nebraska,NEB,JR,69.17m226-11,0,False
-Javelin,M,throw,15.0,Trevor Hook,Northern Arizona,NAU,SR,67.84m222-7,0,False
-Javelin,M,throw,16.0,Jack Greaves,Rice,RICE,FR,67.38m221-1,0,False
-Javelin,M,throw,17.0,Tuomas Narhi,Miss State,MSST,FR,65.81m215-11,0,False
-Javelin,M,throw,18.0,Gabriel Koletsi,Memphis,MEMP,JR,65.59m215-2,0,False
-Javelin,M,throw,19.0,Jesse Avina,Arizona,ARIZ,SR,65.49m214-10,0,False
-Javelin,M,throw,20.0,Preston Kuznof,TCU,TCU,FR,64.62m212-0,0,False
-Javelin,M,throw,21.0,Roddy Schenk,Tennessee,TENN,FR,62.84m206-2,0,False
-Javelin,M,throw,22.0,Steven Coponi,Rutgers,RUTG,SR,62.82m206-1,0,False
-Javelin,M,throw,23.0,Kevin Burr,Tennessee,TENN,SO,61.62m202-2,0,False
-Javelin,M,throw,24.0,Sam Roller,North Dakota State,NDSU,JR,60.58m198-9,0,False
-Decathlon,M,multi,1.0,Peyton Bair,Miss State,MSST,JR,10.25,10,False
-Decathlon,M,multi,2.0,Grant Levesque,Houston,UH,SR,10.59,8,False
-Decathlon,M,multi,3.0,Edgar Campre,Miami (Fla.),MIAF,JR,10.62,6,False
-Decathlon,M,multi,4.0,Ben Barton,BYU,BYU,JR,10.67,5,False
-Decathlon,M,multi,5.0,Till Steinforth,Nebraska,NEB,JR,10.72,4,False
-Decathlon,M,multi,6.0,Ryan Gregory,Long Beach St.,LBST,SO,10.76,3,False
-Decathlon,M,multi,7.0,Tayton Klein,Kansas,KU,JR,10.84,2,False
-Decathlon,M,multi,8.0,Joshua Mooney,Connecticut,CONN,SO,10.86,1,False
-Decathlon,M,multi,9.0,Landon Helms,Boise State,BOIS,JR,10.87,0,False
-Decathlon,M,multi,10.0,Colby Eddowes,Arkansas State,ARST,JR,10.88,0,False
-Decathlon,M,multi,11.0,Jaden Roskelley,BYU,BYU,SO,10.89,0,False
-Decathlon,M,multi,12.0,Paul Kallenberg,Louisville,LOU,JR,10.91,0,False
-Decathlon,M,multi,13.0,Brad Thomas,UC Santa Barbara,UCSB,SR,10.92,0,False
-Decathlon,M,multi,14.0,Diarmuid O'Connor,Connecticut,CONN,JR,10.93,0,False
-Decathlon,M,multi,15.0,Alexander Jung,Kansas,KU,SR,10.94,0,False
-Decathlon,M,multi,16.0,Brayden Richards,Air Force,AFA,FR,10.95(10.941),0,False
-Decathlon,M,multi,17.0,Cole Wilson,High Point,HPU,JR,10.95(10.947),0,False
-Decathlon,M,multi,18.0,Kenneth Byrd,Louisville,LOU,FR,10.97,0,False
-Decathlon,M,multi,19.0,Emil Uhlin,Kansas State,KSST,JR,11.01,0,False
-Decathlon,M,multi,20.0,Nick Bianco,Colorado,COLO,SR,11.18,0,False
-Decathlon,M,multi,21.0,Marcus Weaver,Arkansas,ARK,SR,11.23,0,False
-Decathlon,M,multi,22.0,Andreas Hantson,Purdue,PURD,SO,11.24,0,False
-Decathlon,M,multi,23.0,Abraham Vogelsang,Iowa,IOWA,FR,11.39,0,False
-Decathlon,M,multi,24.0,Maxwell Forte,Duke,DUKE,JR,16.79,0,False
-100M,W,sprint,1.0,Samirah Moody,USC,USC,SR,11.14(11.136),10,False
-100M,W,sprint,2.0,JaMeesia Ford,South Carolina,SCAR,SO,11.14(11.139),8,False
-100M,W,sprint,3.0,Tima Godbless,LSU,LSU,SO,11.19(11.183),6,False
-100M,W,sprint,4.0,Anthaya Charlton,Florida,UF,JR,11.19(11.189),5,False
-100M,W,sprint,5.0,Leah Bertrand,Ohio State,OHST,SR,11.21,4,False
-100M,W,sprint,6.0,Shenese Walker,Florida State,FSU,JR,11.23(11.221),3,False
-100M,W,sprint,7.0,Dajaz Defrand,USC,USC,JR,11.23(11.224),2,False
-100M,W,sprint,8.0,Brianna Selby,USC,USC,FR,11.25,1,False
-100M,W,sprint,9.0,Victoria Cameron,Tarleton State,TARL,SO,11.30,0,False
-200M,W,sprint,1.0,JaMeesia Ford,South Carolina,SCAR,SO,22.21,10,False
-200M,W,sprint,2.0,Madison Whyte,USC,USC,SO,22.23,8,False
-200M,W,sprint,3.0,Dajaz Defrand,USC,USC,JR,22.39,6,False
-200M,W,sprint,4.0,Leah Bertrand,Ohio State,OHST,SR,22.60,5,False
-200M,W,sprint,5.0,Jasmine Montgomery,Texas A&M,TAMU,JR,22.61,4,False
-200M,W,sprint,6.0,Kenondra Davis,Texas,TEX,JR,22.66,3,False
-200M,W,sprint,7.0,Jayla Jamison,South Carolina,SCAR,SR,22.77,2,False
-200M,W,sprint,8.0,Gabrielle Matthews,Florida,UF,JR,22.84,1,False
-200M,W,sprint,9.0,Samirah Moody,USC,USC,SR,22.86,0,False
-400M,W,sprint,1.0,Aaliyah Butler,Georgia,UGA,JR,49.26,10,False
-400M,W,sprint,2.0,Dejanea Oakley,Georgia,UGA,JR,49.65,8,False
-400M,W,sprint,3.0,Rosey Effiong,Arkansas,ARK,SR,50.51,6,False
-400M,W,sprint,4.0,Ella Onojuvwevwo,LSU,LSU,JR,50.57,5,False
-400M,W,sprint,5.0,Kaylyn Brown,Arkansas,ARK,SO,51.30,4,False
-400M,W,sprint,6.0,Rachel Joseph,Iowa State,IAST,JR,51.36,3,False
-400M,W,sprint,7.0,Sami Oblad,BYU,BYU,SR,51.57,2,False
-400M,W,sprint,8.0,Kaelyaah Liburd,Florida State,FSU,SO,51.69,1,False
-400M,W,sprint,9.0,Vimbayi Maisvorewa,Auburn,AUB,SR,51.84,0,False
-800M,W,mid_distance,1.0,Roisin Willis,Stanford,STAN,JR,1:58.13,10,False
-800M,W,mid_distance,2.0,Makayla Paige,North Carolina,UNC,JR,1:58.97,8,False
-800M,W,mid_distance,3.0,Meghan Hunter,BYU,BYU,SR,1:59.03,6,False
-800M,W,mid_distance,4.0,Michaela Rose,LSU,LSU,SR,1:59.47,5,False
-800M,W,mid_distance,5.0,Lauren Tolbert,Duke,DUKE,JR,1:59.88,4,False
-800M,W,mid_distance,6.0,Smilla Kolbe,North Florida,UNF,SR,2:00.37,3,False
-800M,W,mid_distance,7.0,Laura Pellicoro,Portland,PORT,SR,2:00.84,2,False
-800M,W,mid_distance,8.0,Veronica Hargrave,Indiana,IU,FR,2:01.00,1,False
-800M,W,mid_distance,9.0,Victoria Bossong,Harvard,HARV,SR,2:03.86,0,False
-1500M,W,mid_distance,1.0,Sophie O'Sullivan,Washington,WASH,SR,4:07.94,10,False
-1500M,W,mid_distance,2.0,Margot Appleton,Virginia,UVA,SR,4:08.99,8,False
-1500M,W,mid_distance,3.0,Maggi Congdon,Northern Arizona,NAU,SR,4:09.31,6,False
-1500M,W,mid_distance,4.0,Silan Ayyildiz,Oregon,UO,JR,4:09.75,5,False
-1500M,W,mid_distance,5.0,Klaudia Kazimierska,Oregon,UO,SR,4:10.42,4,False
-1500M,W,mid_distance,6.0,Kimberley May,Providence,PROV,SR,4:10.79(4:10.781),3,False
-1500M,W,mid_distance,7.0,Lindsey Butler,Virginia Tech,VT,SR,4:10.79(4:10.786),2,False
-1500M,W,mid_distance,8.0,Chloe Foerster,Washington,WASH,JR,4:11.03,1,False
-1500M,W,mid_distance,9.0,Mena Scatchard,Princeton,PRIN,SR,4:11.04,0,False
-1500M,W,mid_distance,10.0,Salma Elbadra,South Carolina,SCAR,SO,4:11.20,0,False
-1500M,W,mid_distance,11.0,Vera Sjoberg,Boston U.,BOSU,JR,4:12.52,0,False
-1500M,W,mid_distance,12.0,Mia Barnett,Oregon,UO,SR,4:13.43,0,False
-3000SC,W,distance,1.0,Doris Lemngole,Alabama,BAMA,SO,8:58.15,10,False
-3000SC,W,distance,2.0,Lexy Halladay-Lowry,BYU,BYU,SR,9:08.68,8,False
-3000SC,W,distance,3.0,Angelina Napoleon,NC State,NCSU,SO,9:16.66,6,False
-3000SC,W,distance,4.0,Sarah Tait,West Virginia,WVU,SR,9:27.80,5,False
-3000SC,W,distance,5.0,Debora Cherono,Texas A&M,TAMU,FR,9:32.10,4,False
-3000SC,W,distance,6.0,Katelyn Stewart-Barnett,Michigan State,MIST,SR,9:33.21,3,False
-3000SC,W,distance,7.0,Shelby Jensen,Utah State,UTST,SO,9:36.61,2,False
-3000SC,W,distance,8.0,Leah Jeruto,Oklahoma,OU,FR,9:38.94,1,False
-3000SC,W,distance,9.0,Taylor Lovell,BYU,BYU,SO,9:39.43,0,False
-3000SC,W,distance,10.0,Maggie Liebich,Washington,WASH,SR,9:50.77,0,False
-3000SC,W,distance,11.0,Emily Paupore,Central Michigan,CMU,SR,9:54.94,0,False
-3000SC,W,distance,12.0,Karrie Baloga,Northern Arizona,NAU,SO,9:57.43,0,False
-5000M,W,distance,1.0,Pamela Kosgei,New Mexico,UNM,FR,15:33.96,10,False
-5000M,W,distance,2.0,Vera Sjoberg,Boston U.,BOSU,JR,15:34.77,8,False
-5000M,W,distance,3.0,Sophia Kennedy,Stanford,STAN,SO,15:35.08,6,False
-5000M,W,distance,4.0,Marion Jepngetich,New Mexico,UNM,FR,15:35.14,5,False
-5000M,W,distance,5.0,Grace Hartman,NC State,NCSU,JR,15:35.39,4,False
-5000M,W,distance,6.0,Paityn Noe,Arkansas,ARK,SO,15:35.81,3,False
-5000M,W,distance,7.0,Agnes McTighe,Northern Arizona,NAU,JR,15:35.87,2,False
-5000M,W,distance,8.0,Amina Maatoug,Washington,WASH,SR,15:35.93,1,False
-5000M,W,distance,9.0,Silvia Jelelgo,Clemson,CLEM,SO,15:36.34,0,False
-5000M,W,distance,10.0,Alex Millard,Providence,PROV,JR,15:37.22,0,False
-5000M,W,distance,11.0,Jenna Hutchins,BYU,BYU,JR,15:40.87,0,False
-5000M,W,distance,12.0,Maelle Porcher,Iowa State,IAST,JR,15:41.76,0,False
-5000M,W,distance,13.0,Margot Appleton,Virginia,UVA,SR,15:44.76,0,False
-5000M,W,distance,14.0,Chloe Scrimgeour,Georgetown,GTWN,SR,15:46.18,0,False
-5000M,W,distance,15.0,Isca Chelangat,Oklahoma State,OKST,FR,15:48.66,0,False
-5000M,W,distance,16.0,Florence Caron,Penn State,PSU,JR,15:49.72,0,False
-5000M,W,distance,17.0,Zofia Dudek,Stanford,STAN,JR,15:53.91,0,False
-5000M,W,distance,18.0,Rachel Forsyth,Michigan State,MIST,FR,15:57.28,0,False
-5000M,W,distance,19.0,Julia David-Smith,Washington,WASH,JR,15:59.27,0,False
-5000M,W,distance,20.0,Samantha Bush,NC State,NCSU,SR,16:01.47,0,False
-5000M,W,distance,21.0,Brenda Jepchirchir,Auburn,AUB,FR,16:01.99,0,False
-5000M,W,distance,22.0,Ava Mitchell,Northern Arizona,NAU,SO,16:06.32,0,False
-5000M,W,distance,23.0,Sadie Sigfstead,Villanova,NOVA,JR,16:06.70,0,False
-5000M,W,distance,24.0,Edna Chelulei,Eastern Kentucky,EKU,FR,16:24.97,0,False
-10000M,W,distance,1.0,Pamela Kosgei,New Mexico,UNM,FR,31:17.82,10,False
-10000M,W,distance,2.0,Grace Hartman,NC State,NCSU,JR,31:32.15,8,False
-10000M,W,distance,3.0,Joy Naukot,West Virginia,WVU,FR,31:34.34,6,False
-10000M,W,distance,4.0,Paityn Noe,Arkansas,ARK,SO,31:36.91,5,False
-10000M,W,distance,5.0,Chloe Scrimgeour,Georgetown,GTWN,SR,31:41.68,4,False
-10000M,W,distance,6.0,Edna Chepkemoi,LSU,LSU,FR,32:10.75,3,False
-10000M,W,distance,7.0,Rosina Machu,Gonzaga,GONZ,JR,32:15.49,2,False
-10000M,W,distance,8.0,Brenda Tuwei,Alabama,BAMA,JR,32:20.14,1,False
-10000M,W,distance,9.0,Ruth White,New Hampshire,UNH,FR,32:20.60,0,False
-10000M,W,distance,10.0,Sydney Thorvaldson,Arkansas,ARK,SR,32:21.37,0,False
-10000M,W,distance,11.0,Florence Caron,Penn State,PSU,JR,32:23.71,0,False
-10000M,W,distance,12.0,Edna Chelulei,Eastern Kentucky,EKU,FR,32:23.94,0,False
-10000M,W,distance,13.0,Sadie Sigfstead,Villanova,NOVA,JR,32:40.13,0,False
-10000M,W,distance,14.0,Brenda Jepchirchir,Auburn,AUB,FR,32:41.66,0,False
-10000M,W,distance,15.0,Ali Weimer,Minnesota,MINN,SO,32:42.31,0,False
-10000M,W,distance,16.0,Jadyn Keeler,North Dakota,UND,JR,32:59.12,0,False
-10000M,W,distance,17.0,Jenny Schilling,Virginia,UVA,SR,33:07.58,0,False
-10000M,W,distance,18.0,Ruth Kimeli,Baylor,BAY,SO,33:10.62,0,False
-10000M,W,distance,19.0,Morgan Jensen,Utah,UTAH,SR,33:11.05,0,False
-10000M,W,distance,20.0,Mckaylie Caesar,Utah,UTAH,SR,33:34.36,0,False
-10000M,W,distance,21.0,Logan Hofstee,Gonzaga,GONZ,FR,34:01.59,0,False
-10000M,W,distance,22.0,Josphine Mwaura,Oklahoma State,OKST,SO,35:09.22,0,False
-10000M,W,distance,,Diana Cherotich,Oregon,UO,FR,DNF,0,False
-10000M,W,distance,,Hilda Olemomoi,Florida,UF,JR,DNS,0,False
-100MH,W,sprint,1.0,Aaliyah McCormick,Oregon,UO,JR,12.81,10,False
-100MH,W,sprint,2.0,Jaiya Covington,Texas A&M,TAMU,JR,12.93(12.928),8,False
-100MH,W,sprint,3.0,Marcia Sey,Howard,HOW,JR,12.93(12.930),6,False
-100MH,W,sprint,4.0,Ana-Liese Torian,Auburn,AUB,SO,12.95,5,False
-100MH,W,sprint,5.0,Oneka Wilson,Clemson,CLEM,JR,13.02,4,False
-100MH,W,sprint,6.0,Janela Spencer,Ohio State,OHST,JR,13.25,3,False
-100MH,W,sprint,,Yanla Ndjip-Nyemeck,UCLA,UCLA,SR,DNF,0,False
-100MH,W,sprint,,Akala Garrett,Texas,TEX,SO,DQR: 15.6-2d ⓘ,0,False
-100MH,W,sprint,,Habiba Harris,Florida,UF,FR,DNS,0,False
-400MH,W,sprint,1.0,Savannah Sutherland,Michigan,MICH,SR,52.46,10,False
-400MH,W,sprint,2.0,Akala Garrett,Texas,TEX,SO,54.66,8,False
-400MH,W,sprint,3.0,Michelle Smith,Georgia,UGA,FR,55.20,6,False
-400MH,W,sprint,4.0,Sanaa Hebron,Miami (Fla.),MIAF,SO,55.46,5,False
-400MH,W,sprint,5.0,Tyra Wilson,Florida State,FSU,SR,55.57,4,False
-400MH,W,sprint,6.0,Chloe Fair,Harvard,HARV,JR,55.81,3,False
-400MH,W,sprint,7.0,Amelliah Birdow,TCU,TCU,SO,55.84,2,False
-400MH,W,sprint,8.0,Allyria McBride,Vanderbilt,VAND,JR,56.20,1,False
-400MH,W,sprint,9.0,Braelyn Baker,Duke,DUKE,FR,56.54,0,False
-4x100M,W,relay,1.0,USC,USC,USC,,42.22,10,True
-4x100M,W,relay,2.0,SOUTH CAROLINA,South Carolina,SCAR,,42.40,8,True
-4x100M,W,relay,3.0,TEXAS A&M,Texas A&M,TAMU,,42.89,6,True
-4x100M,W,relay,4.0,TCU,TCU,TCU,,42.97,5,True
-4x100M,W,relay,5.0,TEXAS,Texas,TEX,,42.98,4,True
-4x100M,W,relay,6.0,HOWARD,Howard,HOW,,43.23,3,True
-4x100M,W,relay,7.0,FLORIDA STATE,Florida State,FSU,,43.30,2,True
-4x100M,W,relay,8.0,LSU,LSU,LSU,,43.32,1,True
-4x100M,W,relay,,FLORIDA,Florida,UF,,DNF,0,True
-4x400M,W,relay,1.0,GEORGIA,Georgia,UGA,,3:23.62,10,True
-4x400M,W,relay,2.0,ARKANSAS,Arkansas,ARK,,3:24.25,8,True
-4x400M,W,relay,3.0,USC,USC,USC,,3:26.01,6,True
-4x400M,W,relay,4.0,TEXAS A&M,Texas A&M,TAMU,,3:27.11,5,True
-4x400M,W,relay,5.0,DUKE,Duke,DUKE,,3:27.40,4,True
-4x400M,W,relay,6.0,IOWA,Iowa,IOWA,,3:27.42,3,True
-4x400M,W,relay,7.0,UCLA,UCLA,UCLA,,3:31.14,2,True
-4x400M,W,relay,8.0,MIAMI (FLA.),Miami (Fla.),MIAF,,3:47.22,1,True
-4x400M,W,relay,,SOUTH CAROLINA,South Carolina,SCAR,,DNS,0,True
-High Jump,W,jump,1.0,Elena Kulichenko,Georgia,UGA,SR,1.96m6-5,10,False
-High Jump,W,jump,2.0,Rose Yeboah,Illinois,ILL,SR,1.93m6-4,8,False
-High Jump,W,jump,3.0,Jenna Rogers,Nebraska,NEB,SR,1.90m6-2¾,6,False
-High Jump,W,jump,4.0,Alyssa Jones,Stanford,STAN,JR,1.90m6-2¾,5,False
-High Jump,W,jump,5.0,Temitope Adeshina,Texas Tech,TTU,SO,1.87m6-1½,4,False
-High Jump,W,jump,6.0,Kristi Perez-Snyman,Missouri,MIZZ,SR,1.87m6-1½,3,False
-High Jump,W,jump,7.0,Celia Rifaterra,Virginia,UVA,JR,1.84m6-½,2,False
-High Jump,W,jump,8.0,Valentina Fakrogha,UCLA,UCLA,FR,1.84m6-½,1,False
-High Jump,W,jump,9.0,Ajia Hughes,Southern Utah,SUU,JR,1.84m6-½,0,False
-High Jump,W,jump,9.0,Spirit Morgan,N. Carolina A&T,NCAT,JR,1.84m6-½,0,False
-High Jump,W,jump,11.0,Claudina Diaz,Missouri,MIZZ,SR,1.84m6-½,0,False
-High Jump,W,jump,12.0,Eva Baldursdottir,Pittsburgh,PITT,JR,1.84m6-½,0,False
-High Jump,W,jump,13.0,Cheyla Scott,South Carolina,SCAR,JR,1.79m5-10½,0,False
-High Jump,W,jump,13.0,Miracle Ailes,Alabama,BAMA,SR,1.79m5-10½,0,False
-High Jump,W,jump,13.0,Diamonasia Taylor,Murray State,MURR,SO,1.79m5-10½,0,False
-High Jump,W,jump,16.0,Amaya Ugarte,Ohio State,OHST,SR,1.79m5-10½,0,False
-High Jump,W,jump,16.0,Zharia Taylor,UC Irvine,UCI,JR,1.79m5-10½,0,False
-High Jump,W,jump,18.0,Maria Arboleda,Iowa,IOWA,FR,1.79m5-10½,0,False
-High Jump,W,jump,19.0,Sharie Enoe,Kansas State,KSST,SO,1.74m5-8½,0,False
-High Jump,W,jump,19.0,Kendall Ward,Georgia Tech,GT,SO,1.74m5-8½,0,False
-High Jump,W,jump,19.0,Carly Tarentino,Virginia,UVA,SR,1.74m5-8½,0,False
-High Jump,W,jump,19.0,Zahra Amos,Buffalo,BUFF,SR,1.74m5-8½,0,False
-High Jump,W,jump,23.0,Svenia DeConinck,Kent State,KENT,JR,1.74m5-8½,0,False
-High Jump,W,jump,23.0,Alice Taylor,Rice,RICE,SO,1.74m5-8½,0,False
-Pole Vault,W,jump,1.0,Hana Moll,Washington,WASH,SO,4.79m15-8½,10,False
-Pole Vault,W,jump,2.0,Chloe Timberg,Rutgers,RUTG,SR,4.49m14-8¾,8,False
-Pole Vault,W,jump,3.0,Amanda Moll,Washington,WASH,SO,4.49m14-8¾,6,False
-Pole Vault,W,jump,4.0,Erica Ellis,Kansas,KU,SR,4.44m14-6¾,5,False
-Pole Vault,W,jump,4.0,Anna Willis,South Dakota,SDAK,FR,4.44m14-6¾,5,False
-Pole Vault,W,jump,6.0,Emily Fitzsimmons,Oregon,UO,JR,4.44m14-6¾,3,False
-Pole Vault,W,jump,7.0,Gennifer Hirata,South Dakota,SDAK,SR,4.44m14-6¾,2,False
-Pole Vault,W,jump,8.0,Mia Morello,Illinois,ILL,JR,4.39m14-4¾,1,False
-Pole Vault,W,jump,8.0,Molly Haywood,Baylor,BAY,SO,4.39m14-4¾,1,False
-Pole Vault,W,jump,10.0,Sydney Horn,High Point,HPU,SR,4.39m14-4¾,0,False
-Pole Vault,W,jump,11.0,Johanna Duplantis,LSU,LSU,SR,4.39m14-4¾,0,False
-Pole Vault,W,jump,12.0,Ashley Callahan,Louisville,LOU,JR,4.24m13-11,0,False
-Pole Vault,W,jump,12.0,Ka'Leila Abrille,UCLA,UCLA,SR,4.24m13-11,0,False
-Pole Vault,W,jump,12.0,Sarah Schmitt,Tennessee,TENN,SR,4.24m13-11,0,False
-Pole Vault,W,jump,12.0,Carly Pujol,Arkansas State,ARST,JR,4.24m13-11,0,False
-Pole Vault,W,jump,16.0,Chiara Sistermann,Virginia Tech,VT,SO,4.24m13-11,0,False
-Pole Vault,W,jump,17.0,Lilly Nichols,App State,APST,FR,4.24m13-11,0,False
-Pole Vault,W,jump,17.0,Lyndsey Reed,Virginia Tech,VT,SR,4.24m13-11,0,False
-Pole Vault,W,jump,17.0,Julia Fixsen,Virginia Tech,VT,SR,4.24m13-11,0,False
-Pole Vault,W,jump,20.0,Gemma Tutton,Duke,DUKE,SO,4.09m13-5,0,False
-Pole Vault,W,jump,20.0,Payton Phillips,Kentucky,UK,SR,4.09m13-5,0,False
-Pole Vault,W,jump,20.0,Alyssa Quinones-Mixon,Auburn,AUB,JR,4.09m13-5,0,False
-Pole Vault,W,jump,,Tenly KUHN,Baylor,BAY,SR,NH,0,False
-Pole Vault,W,jump,,Katerina ADAMIEC,UCLA,UCLA,SR,NH,0,False
-Long Jump,W,jump,1.0,Synclair Savage,Louisville,LOU,SR,6.72m22-¾,10,False
-Long Jump,W,jump,2.0,Alyssa Jones,Stanford,STAN,JR,6.70m21-11¾,8,False
-Long Jump,W,jump,3.0,Alexis Brown,Baylor,BAY,SR,6.63m21-9,6,False
-Long Jump,W,jump,4.0,Tacoria Humphrey,Illinois,ILL,SR,6.62m21-8¾,5,False
-Long Jump,W,jump,5.0,Anthaya Charlton,Florida,UF,JR,6.58m21-7¼,4,False
-Long Jump,W,jump,6.0,Sophia Beckmon,Illinois,ILL,SO,6.49m21-3½,3,False
-Long Jump,W,jump,7.0,Aaliyah Foster,Texas,TEX,SO,6.47m21-2¾,2,False
-Long Jump,W,jump,8.0,Prestina Ochonogor,Tarleton State,TARL,FR,6.41m21-½,1,False
-Long Jump,W,jump,9.0,Mariia Horielova,Alabama,BAMA,SO,6.39m20-11¾,0,False
-Long Jump,W,jump,10.0,Jenica Bosko,Arizona,ARIZ,SR,6.29m20-7¾,0,False
-Long Jump,W,jump,11.0,Georgina Scoot,Princeton,PRIN,JR,6.21m20-4½,0,False
-Long Jump,W,jump,12.0,Janae De Gannes,Baylor,BAY,FR,6.18m20-3½,0,False
-Long Jump,W,jump,13.0,Marta Amani,Harvard,HARV,SO,6.17m20-3,0,False
-Long Jump,W,jump,14.0,Sydney Johnson,UCLA,UCLA,SR,6.15m20-2¼,0,False
-Long Jump,W,jump,15.0,Shalom Olotu,Kansas State,KSST,SR,6.14m20-1¾,0,False
-Long Jump,W,jump,16.0,Alyssa Banales,Florida,UF,FR,6.10m20-¼,0,False
-Long Jump,W,jump,17.0,Paige Floriea,Rutgers,RUTG,SR,6.05m19-10¼,0,False
-Long Jump,W,jump,18.0,Imani Moore,Georgia Southern,GASO,SR,6.02m19-9,0,False
-Long Jump,W,jump,19.0,Funminiyi Olajide,Arkansas,ARK,SR,6.01m19-8¾,0,False
-Long Jump,W,jump,20.0,Hailey Coey,Montana State,MTST,JR,6.00m19-8¼,0,False
-Long Jump,W,jump,21.0,Julia Sue-Kam-Ling,Jacksonville,JACK,JR,5.92m19-5¼,0,False
-Long Jump,W,jump,22.0,Ella Scally,Miami (Ohio),MIAO,JR,5.92m19-5¼,0,False
-Long Jump,W,jump,23.0,Mariama Hunt,NC State,NCSU,FR,5.87m19-3¼,0,False
-Long Jump,W,jump,,Molly Wise,Richmond,RICH,SO,X,0,False
-Triple Jump,W,jump,1.0,Winny Bii,Texas A&M,TAMU,JR,13.96m45-9¾,10,False
-Triple Jump,W,jump,2.0,Emilia Sjostrand,San Jose St.,SJSU,SR,13.88m45-6½,8,False
-Triple Jump,W,jump,3.0,Agur Dwol,Oklahoma,OU,JR,13.77m45-2¼,6,False
-Triple Jump,W,jump,4.0,Shantae Foreman,Clemson,CLEM,JR,13.72m45-¼,5,False
-Triple Jump,W,jump,5.0,Victoria Gorlova,Texas Tech,TTU,SR,13.53m44-4¾,4,False
-Triple Jump,W,jump,6.0,Skylynn Townsend,Georgia,UGA,FR,13.52m44-4¼,3,False
-Triple Jump,W,jump,7.0,Ashley Moore,Oklahoma,OU,SR,13.30m43-7¾,2,False
-Triple Jump,W,jump,8.0,Ryann Porter,Oregon,UO,SR,13.22m43-4½,1,False
-Triple Jump,W,jump,9.0,Asia Phillips,Florida,UF,FR,13.13m43-1,0,False
-Triple Jump,W,jump,10.0,Tamiah Washington,Texas Tech,TTU,SO,13.06m42-10¼,0,False
-Triple Jump,W,jump,11.0,Christina Warren,Miami (Fla.),MIAF,SR,13.03m42-9,0,False
-Triple Jump,W,jump,12.0,Shalom Olotu,Kansas State,KSST,SR,13.02m42-8¾,0,False
-Triple Jump,W,jump,13.0,Sharvari Parulekar,Louisville,LOU,JR,13.01m42-8¼,0,False
-Triple Jump,W,jump,14.0,Simone Johnson,San Jose St.,SJSU,SR,13.01m42-8¼,0,False
-Triple Jump,W,jump,15.0,Kayla Pinkard,Florida State,FSU,JR,12.98m42-7,0,False
-Triple Jump,W,jump,16.0,Rachela Pace,UTSA,UTSA,SR,12.92m42-4¾,0,False
-Triple Jump,W,jump,17.0,Cameran Gist,South Carolina,SCAR,FR,12.90m42-4,0,False
-Triple Jump,W,jump,18.0,Daniela Wamokpego,Iowa,IOWA,SO,12.71m41-8½,0,False
-Triple Jump,W,jump,19.0,Machaeda Linton,LSU,LSU,JR,12.67m41-7,0,False
-Triple Jump,W,jump,20.0,Jada Joseph,Brown,BRWN,SR,12.58m41-3¼,0,False
-Triple Jump,W,jump,21.0,Georgina Scoot,Princeton,PRIN,JR,12.56m41-2½,0,False
-Triple Jump,W,jump,22.0,Katharina Graman,San Jose St.,SJSU,SO,12.52m41-1,0,False
-Triple Jump,W,jump,23.0,Olivia Dowd,N. Carolina A&T,NCAT,JR,12.46m40-10½,0,False
-Triple Jump,W,jump,24.0,Sophie Galloway,Kentucky,UK,JR,12.42m40-9,0,False
-Shot Put,W,throw,1.0,Mya Lesnar,Colorado State,COST,SR,19.01m62-4½,10,False
-Shot Put,W,throw,2.0,Abria Smith,Illinois,ILL,SR,18.85m61-10¼,8,False
-Shot Put,W,throw,3.0,Nina Ndubuisi,Texas,TEX,SO,18.50m60-8½,6,False
-Shot Put,W,throw,4.0,Jayden Ulrich,Louisville,LOU,SR,18.26m59-11,5,False
-Shot Put,W,throw,5.0,Ashley Erasmus,USC,USC,FR,17.99m59-¼,4,False
-Shot Put,W,throw,6.0,Kelsie Murrell-Ross,Georgia,UGA,SR,17.80m58-4¾,3,False
-Shot Put,W,throw,7.0,MyeJoi Williams,Alabama,BAMA,SR,17.73m58-2,2,False
-Shot Put,W,throw,8.0,Cierra Jackson,Fresno State,FRES,SR,17.70m58-1,1,False
-Shot Put,W,throw,9.0,Alida Van Daalen,Florida,UF,JR,17.26m56-7½,0,False
-Shot Put,W,throw,10.0,Gracelyn Leiseth,Florida,UF,SO,17.23m56-6½,0,False
-Shot Put,W,throw,11.0,Chrystal Herpin,Texas,TEX,SR,17.19m56-4¾,0,False
-Shot Put,W,throw,12.0,Akaoma Odeluga,Ole Miss,MISS,SO,17.14m56-2¾,0,False
-Shot Put,W,throw,13.0,Megan Hague,Auburn,AUB,JR,17.07m56-0,0,False
-Shot Put,W,throw,14.0,Elizabeth Tapper,Michigan,MICH,SO,16.97m55-8¼,0,False
-Shot Put,W,throw,15.0,Makayla Hunter,Indiana,IU,JR,16.86m55-3¾,0,False
-Shot Put,W,throw,16.0,Tapenisa Havea,Arizona,ARIZ,JR,16.67m54-8¼,0,False
-Shot Put,W,throw,17.0,Kalynn Meyer,Nebraska,NEB,SR,16.66m54-8,0,False
-Shot Put,W,throw,18.0,Melanie Duron,Texas State,TXST,JR,16.59m54-5¼,0,False
-Shot Put,W,throw,19.0,Kellyn Kortemeyer,Nebraska,NEB,SO,16.58m54-4¾,0,False
-Shot Put,W,throw,20.0,Treneese Hamilton,Alabama,BAMA,JR,16.52m54-2½,0,False
-Shot Put,W,throw,21.0,Abigail Russell,Michigan,MICH,FR,16.38m53-9,0,False
-Shot Put,W,throw,22.0,Lucija Leko,California,CAL,SO,16.25m53-3¾,0,False
-Shot Put,W,throw,23.0,Amanda Ngandu-Ntumba,Cincinnati,CINC,SR,16.05m52-8,0,False
-Shot Put,W,throw,24.0,Gretchen Hoekstre,BYU,BYU,SR,15.88m52-1¼,0,False
-Discus,W,throw,1.0,Cierra Jackson,Fresno State,FRES,SR,65.82m215-11,10,False
-Discus,W,throw,2.0,Alida Van Daalen,Florida,UF,JR,64.94m213-1,8,False
-Discus,W,throw,3.0,Shelby Frank,Texas Tech,TTU,SR,63.37m207-11,6,False
-Discus,W,throw,4.0,Caisa-Marie Lindfors,California,CAL,SR,62.57m205-3,5,False
-Discus,W,throw,5.0,Amanda Ngandu-Ntumba,Cincinnati,CINC,SR,60.77m199-4,4,False
-Discus,W,throw,6.0,Adrienne Adams,Auburn,AUB,SR,60.55m198-8,3,False
-Discus,W,throw,7.0,Jayden Ulrich,Louisville,LOU,SR,60.25m197-8,2,False
-Discus,W,throw,8.0,Michaelle Valentin,FIU,FIU,SR,59.67m195-9,1,False
-Discus,W,throw,9.0,Estel Valeanu,Virginia,UVA,SR,58.22m191-0,0,False
-Discus,W,throw,10.0,Ines Lopez,Arizona State,AZST,JR,57.36m188-2,0,False
-Discus,W,throw,11.0,Princesse Hyman,LSU,LSU,FR,56.50m185-4,0,False
-Discus,W,throw,12.0,Sofia Sluchaninova,Kansas,KU,JR,56.30m184-8,0,False
-Discus,W,throw,13.0,Zoe Burleson,Texas Tech,TTU,SR,55.83m183-2,0,False
-Discus,W,throw,14.0,Milina Wepiwe,Harvard,HARV,SO,55.64m182-6,0,False
-Discus,W,throw,15.0,Jade Whitfield,Louisville,LOU,SR,55.25m181-3,0,False
-Discus,W,throw,16.0,Donna Douglas,Tennessee,TENN,FR,54.90m180-1,0,False
-Discus,W,throw,17.0,Tamaiah Koonce,Kansas State,KSST,JR,54.85m179-11,0,False
-Discus,W,throw,18.0,Krishna Jayasankar Menon,UNLV,UNLV,JR,52.99m173-10,0,False
-Discus,W,throw,19.0,Jamora Alves,St. John's,SJON,JR,52.60m172-7,0,False
-Discus,W,throw,20.0,Taylor Kesner,Wisconsin,WISC,JR,52.01m170-7,0,False
-Discus,W,throw,21.0,Paige Low,Oklahoma,OU,SR,51.53m169-0,0,False
-Discus,W,throw,22.0,Gretchen Hoekstre,BYU,BYU,SR,50.46m165-7,0,False
-Discus,W,throw,23.0,Angeludi Asaah,Penn,PENN,JR,50.33m165-1,0,False
-Discus,W,throw,,Klaire Kovatch,Colorado State,COST,JR,X,0,False
-Hammer,W,throw,1.0,Stephanie Ratcliffe,Georgia,UGA,SR,71.37m234-2,10,False
-Hammer,W,throw,2.0,Shelby Frank,Texas Tech,TTU,SR,71.05m233-1,8,False
-Hammer,W,throw,3.0,Lara Roberts,Texas State,TXST,SO,70.42m231-0,6,False
-Hammer,W,throw,4.0,Emma Robbins,Oklahoma State,OKST,SR,69.27m227-3,5,False
-Hammer,W,throw,5.0,Giavonna Meeks,California,CAL,SO,68.94m226-2,4,False
-Hammer,W,throw,6.0,Gudrun Hallgrimsdottir,VCU,VCU,SR,68.66m225-3,3,False
-Hammer,W,throw,7.0,Kenna Curry,North Dakota,UND,SR,68.16m223-7,2,False
-Hammer,W,throw,8.0,Chloe Lindeman,Wisconsin,WISC,SR,67.82m222-6,1,False
-Hammer,W,throw,9.0,Emilia Kolokotroni,Harvard,HARV,SO,67.82m222-6,0,False
-Hammer,W,throw,10.0,Valentina Savva,California,CAL,FR,66.84m219-3,0,False
-Hammer,W,throw,11.0,Mariana Pestana,Virginia Tech,VT,SO,66.41m217-10,0,False
-Hammer,W,throw,12.0,Monique Hardy,Kansas State,KSST,SR,65.17m213-9,0,False
-Hammer,W,throw,13.0,Kali Terza,Kennesaw State,KENN,JR,64.98m213-2,0,False
-Hammer,W,throw,14.0,Annika Kelly,Virginia,UVA,SR,64.87m212-10,0,False
-Hammer,W,throw,15.0,Chioma Njoku,Maryland,UMD,SR,64.86m212-9,0,False
-Hammer,W,throw,16.0,Paola Bueno,Liberty,LIB,JR,64.78m212-6,0,False
-Hammer,W,throw,17.0,Marie Rougetet,Miss State,MSST,FR,64.66m212-2,0,False
-Hammer,W,throw,18.0,Audrey Jacobs,California,CAL,SO,63.74m209-1,0,False
-Hammer,W,throw,19.0,Kassidy Gallagher,Oklahoma,OU,SR,63.47m208-3,0,False
-Hammer,W,throw,20.0,Kennedy Clarke,Oklahoma,OU,SO,63.36m207-10,0,False
-Hammer,W,throw,21.0,Kajsa Borrman,Colorado State,COST,SO,63.19m207-3,0,False
-Hammer,W,throw,22.0,Emily Fink,Army West Point,ARMY,SR,62.20m204-1,0,False
-Hammer,W,throw,23.0,Kate Powers,Kentucky,UK,SO,60.10m197-2,0,False
-Hammer,W,throw,,Skylar Soli,Ole Miss,MISS,SO,X,0,False
-Javelin,W,throw,1.0,Valentina Barrios Bornacelli,Missouri,MIZZ,JR,62.00m203-5,10,False
-Javelin,W,throw,2.0,Manuela Rotundo,Georgia,UGA,FR,60.35m198-0,8,False
-Javelin,W,throw,3.0,Irene Jepkemboi,TCU,TCU,SO,60.31m197-10,6,False
-Javelin,W,throw,4.0,Lianna Davidson,Georgia,UGA,SR,59.03m193-8,5,False
-Javelin,W,throw,5.0,Maddie Harris,Nebraska,NEB,SR,58.36m191-6,4,False
-Javelin,W,throw,6.0,Jana van Schalkwyk,UCLA,UCLA,SR,57.07m187-3,3,False
-Javelin,W,throw,7.0,McKyla Van Der Westhuizen,Rice,RICE,JR,56.65m185-10,2,False
-Javelin,W,throw,8.0,Kelsi Oldroyd,Utah Valley,UVU,SR,56.37m184-11,1,False
-Javelin,W,throw,9.0,Kate Joyce,North Carolina,UNC,SR,56.03m183-10,0,False
-Javelin,W,throw,10.0,Shea Greene,Princeton,PRIN,JR,55.64m182-6,0,False
-Javelin,W,throw,11.0,Lilly Urban,Nevada,NEV,SO,55.27m181-4,0,False
-Javelin,W,throw,12.0,Evelyn Bliss,Bucknell,BUCK,SO,55.09m180-9,0,False
-Javelin,W,throw,13.0,Elizabeth Korczak,Iowa,IOWA,JR,53.18m174-6,0,False
-Javelin,W,throw,14.0,Maria Bienvenu,TCU,TCU,SR,52.87m173-5,0,False
-Javelin,W,throw,15.0,Eniko Sara,Nebraska,NEB,SR,52.18m171-2,0,False
-Javelin,W,throw,16.0,Megan Albamonti,Alabama,BAMA,SR,50.91m167-0,0,False
-Javelin,W,throw,17.0,Emma Yungeberg,Michigan,MICH,JR,50.88m166-11,0,False
-Javelin,W,throw,18.0,Erin McMeniman,Georgia,UGA,SR,50.11m164-5,0,False
-Javelin,W,throw,19.0,Arndis Oskarsdottir,FIU,FIU,FR,49.96m163-11,0,False
-Javelin,W,throw,20.0,Sara Sanders,Oregon State,ORST,SR,48.47m159-0,0,False
-Javelin,W,throw,21.0,Deisiane Teixeira,Miami (Fla.),MIAF,SR,48.03m157-7,0,False
-Javelin,W,throw,22.0,Taylor Kesner,Wisconsin,WISC,JR,47.43m155-7,0,False
-Javelin,W,throw,23.0,Trinity Spooner,LSU,LSU,SO,46.05m151-1,0,False
-Javelin,W,throw,24.0,Beatriz Mora Herencia,Albany,ALBY,FR,43.83m143-9,0,False
-Heptathlon,W,multi,1.0,Jadin O'Brien,Notre Dame,ND,SR,13.33,10,False
-Heptathlon,W,multi,2.0,Alaina Brady,Notre Dame,ND,SR,13.41,8,False
-Heptathlon,W,multi,3.0,Sofia Cosculluela,Washington,WASH,FR,13.48,6,False
-Heptathlon,W,multi,4.0,Sofia Iakushina,Texas A&M,TAMU,FR,13.53,5,False
-Heptathlon,W,multi,5.0,Izzy Goudros,Harvard,HARV,SR,13.61,4,False
-Heptathlon,W,multi,6.0,Pippi Lotta Enok,Oklahoma,OU,JR,13.65(13.645),3,False
-Heptathlon,W,multi,7.0,Juliette Laracuente-Huebner,Cincinnati,CINC,SO,13.65(13.646),2,False
-Heptathlon,W,multi,8.0,Claudine Raud-Gumiel,Long Beach St.,LBST,SR,13.66,1,False
-Heptathlon,W,multi,9.0,Jalen Elrod,Purdue,PURD,SR,13.72,0,False
-Heptathlon,W,multi,10.0,Maddie Pitts,Penn State,PSU,JR,13.74,0,False
-Heptathlon,W,multi,11.0,Melissa Wullschleger,Illinois,ILL,FR,13.75,0,False
-Heptathlon,W,multi,12.0,Sydney Johnson,UCLA,UCLA,SR,13.79,0,False
-Heptathlon,W,multi,13.0,Maresa Hense,Connecticut,CONN,FR,13.86,0,False
-Heptathlon,W,multi,14.0,Shelby Grover,Kent State,KENT,SO,13.90,0,False
-Heptathlon,W,multi,15.0,Annie Molenhouse,Oklahoma State,OKST,JR,13.94,0,False
-Heptathlon,W,multi,16.0,Annika Williams,Oregon,UO,SR,13.96,0,False
-Heptathlon,W,multi,17.0,Kenli Nettles,Ball State,BALL,SR,14.02,0,False
-Heptathlon,W,multi,18.0,Mia Lien,UTSA,UTSA,FR,14.08,0,False
-Heptathlon,W,multi,19.0,Ella Spaulding,Fresno State,FRES,SO,14.09,0,False
-Heptathlon,W,multi,20.0,Katelyn Adel,Alabama,BAMA,FR,14.12,0,False
-Heptathlon,W,multi,21.0,Lucy Fellows,Louisville,LOU,SO,14.23(14.224),0,False
-Heptathlon,W,multi,22.0,Destiny Masters,Wichita State,WICH,SR,14.23(14.228),0,False
-Heptathlon,W,multi,23.0,Lucie Kienast,Illinois,ILL,FR,14.34,0,False
-Heptathlon,W,multi,24.0,Clare McNamara,Michigan,MICH,SR,14.96,0,False
+event,gender,category,place,name,school,school_abbr,year,result,points,is_relay,round,is_final
+100M,M,sprint,1.0,Jordan Anthony,Arkansas,ARK,SO,10.07,10,False,2,True
+100M,M,sprint,2.0,Max Thomas,USC,USC,JR,10.10(10.091),8,False,2,True
+100M,M,sprint,3.0,Jelani Watkins,LSU,LSU,FR,10.10(10.092),6,False,2,True
+100M,M,sprint,4.0,Kanyinsola Ajayi,Auburn,AUB,SO,10.13,5,False,2,True
+100M,M,sprint,5.0,Davonte Howell,Tennessee,TENN,SO,10.17(10.166),4,False,2,True
+100M,M,sprint,6.0,Jaiden Reid,LSU,LSU,SO,10.17(10.170),3,False,2,True
+100M,M,sprint,7.0,Israel Okon,Auburn,AUB,FR,10.18,2,False,2,True
+100M,M,sprint,8.0,T'Mars McCallum,Tennessee,TENN,JR,10.24,1,False,2,True
+100M,M,sprint,9.0,Eddie Nketia,USC,USC,SO,10.30,0,False,2,True
+100M,M,sprint,1.0,Kanyinsola Ajayi,Auburn,AUB,SO,9.92,0,False,1,False
+100M,M,sprint,2.0,Jelani Watkins,LSU,LSU,FR,10.02(10.013),0,False,1,False
+100M,M,sprint,3.0,Jaiden Reid,LSU,LSU,SO,10.02(10.018),0,False,1,False
+100M,M,sprint,4.0,T'Mars McCallum,Tennessee,TENN,JR,10.03,0,False,1,False
+100M,M,sprint,5.0,Davonte Howell,Tennessee,TENN,SO,10.05,0,False,1,False
+100M,M,sprint,6.0,Jordan Anthony,Arkansas,ARK,SO,10.06,0,False,1,False
+100M,M,sprint,7.0,Israel Okon,Auburn,AUB,FR,10.07,0,False,1,False
+100M,M,sprint,8.0,Max Thomas,USC,USC,JR,10.09,0,False,1,False
+100M,M,sprint,9.0,Eddie Nketia,USC,USC,SO,10.10,0,False,1,False
+100M,M,sprint,10.0,Abdul-Rasheed Saminu,South Florida,USF,SR,10.11,0,False,1,False
+100M,M,sprint,11.0,Chance Cross,Kennesaw State,KENN,JR,10.17,0,False,1,False
+100M,M,sprint,12.0,Jehlani Gordon,Georgia,UGA,SO,10.19(10.182),0,False,1,False
+100M,M,sprint,13.0,Chrstyn John (JC) Stevenson,USC,USC,JR,10.19(10.186),0,False,1,False
+100M,M,sprint,14.0,Tristyn Flores,Long Beach St.,LBST,JR,10.19(10.188),0,False,1,False
+100M,M,sprint,15.0,Mason Lawyer,Washington State,WAST,JR,10.20,0,False,1,False
+100M,M,sprint,16.0,Travis Williams,USC,USC,SR,10.21(10.204),0,False,1,False
+100M,M,sprint,17.0,Neo Mosebi,Florida State,FSU,SO,10.21(10.206),0,False,1,False
+100M,M,sprint,18.0,Kalen Walker,Iowa,IOWA,JR,10.23(10.223),0,False,1,False
+100M,M,sprint,19.0,Connor Washington,Arkansas,ARK,SR,10.23(10.224),0,False,1,False
+100M,M,sprint,20.0,Taylor Banks,USC,USC,SR,10.24,0,False,1,False
+100M,M,sprint,21.0,Jamarion Stubbs,Alabama State,ALST,JR,10.25,0,False,1,False
+100M,M,sprint,22.0,Ernest Campbell,Texas A&M,TAMU,FR,10.30,0,False,1,False
+100M,M,sprint,23.0,Jaleel Croal,South Florida,USF,JR,10.38,0,False,1,False
+100M,M,sprint,24.0,Malachi Snow,Texas Tech,TTU,SO,10.54,0,False,1,False
+200M,M,sprint,1.0,Carli Makarawu,Kentucky,UK,JR,19.84,10,False,2,True
+200M,M,sprint,2.0,Makanakaishe Charamba,Auburn,AUB,SR,19.92,8,False,2,True
+200M,M,sprint,3.0,Garrett Kaalund,USC,USC,JR,19.96,6,False,2,True
+200M,M,sprint,4.0,Jordan Anthony,Arkansas,ARK,SO,20.01,5,False,2,True
+200M,M,sprint,5.0,T'Mars McCallum,Tennessee,TENN,JR,20.16,4,False,2,True
+200M,M,sprint,6.0,Max Thomas,USC,USC,JR,20.23,3,False,2,True
+200M,M,sprint,7.0,Xavier Butler,Texas,TEX,SO,20.39,2,False,2,True
+200M,M,sprint,8.0,Abdul-Rasheed Saminu,South Florida,USF,SR,20.55,1,False,2,True
+200M,M,sprint,9.0,Cameron Miller,Purdue,PURD,JR,20.56,0,False,2,True
+200M,M,sprint,1.0,Makanakaishe Charamba,Auburn,AUB,SR,19.94,0,False,1,False
+200M,M,sprint,2.0,Jordan Anthony,Arkansas,ARK,SO,20.01(20.006),0,False,1,False
+200M,M,sprint,3.0,Garrett Kaalund,USC,USC,JR,20.01(20.010),0,False,1,False
+200M,M,sprint,4.0,Max Thomas,USC,USC,JR,20.02,0,False,1,False
+200M,M,sprint,5.0,T'Mars McCallum,Tennessee,TENN,JR,20.03,0,False,1,False
+200M,M,sprint,6.0,Xavier Butler,Texas,TEX,SO,20.12,0,False,1,False
+200M,M,sprint,7.0,Carli Makarawu,Kentucky,UK,JR,20.14,0,False,1,False
+200M,M,sprint,8.0,Cameron Miller,Purdue,PURD,JR,20.17,0,False,1,False
+200M,M,sprint,9.0,Abdul-Rasheed Saminu,South Florida,USF,SR,20.26,0,False,1,False
+200M,M,sprint,10.0,Jaiden Reid,LSU,LSU,SO,20.27,0,False,1,False
+200M,M,sprint,11.0,Jelani Watkins,LSU,LSU,FR,20.31,0,False,1,False
+200M,M,sprint,12.0,Kashie Crockett,TCU,TCU,SR,20.48,0,False,1,False
+200M,M,sprint,13.0,Tory Lanham,Kansas City,UMKC,SO,20.52,0,False,1,False
+200M,M,sprint,14.0,Cameron Tarver,San Jose St.,SJSU,JR,20.55,0,False,1,False
+200M,M,sprint,15.0,Jaleel Croal,South Florida,USF,JR,20.58(20.572),0,False,1,False
+200M,M,sprint,16.0,Brody Buffington,Georgia,UGA,FR,20.58(20.579),0,False,1,False
+200M,M,sprint,17.0,Mason Lawyer,Washington State,WAST,JR,20.67,0,False,1,False
+200M,M,sprint,18.0,Tristyn Flores,Long Beach St.,LBST,JR,20.68,0,False,1,False
+200M,M,sprint,19.0,Jalen Johnson,Clemson,CLEM,FR,20.72,0,False,1,False
+200M,M,sprint,20.0,Dario Matau,Auburn,AUB,SR,20.76,0,False,1,False
+200M,M,sprint,21.0,Mikey McClain,Iowa State,IAST,SO,20.79,0,False,1,False
+200M,M,sprint,22.0,De'montray Callis,Baylor,BAY,SR,20.84,0,False,1,False
+200M,M,sprint,23.0,Eddie Nketia,USC,USC,SO,21.08,0,False,1,False
+200M,M,sprint,,Jamarion Stubbs,Alabama State,ALST,JR,DNF,0,False,1,False
+400M,M,sprint,1.0,Samuel Ogazi,Alabama,BAMA,SO,44.84,10,False,2,True
+400M,M,sprint,2.0,William Jones,USC,USC,JR,45.53,8,False,2,True
+400M,M,sprint,3.0,Jordan Pierre,Arkansas-Pine Bluff,UAPB,SO,45.75,6,False,2,True
+400M,M,sprint,4.0,DeSean Boyce,Texas Tech,TTU,JR,45.78,5,False,2,True
+400M,M,sprint,5.0,Joseph Taylor,Duke,DUKE,FR,45.83,4,False,2,True
+400M,M,sprint,6.0,Jayden Davis,Arizona State,AZST,SO,45.91,3,False,2,True
+400M,M,sprint,7.0,Auhmad Robinson,Texas A&M,TAMU,SR,46.07,2,False,2,True
+400M,M,sprint,8.0,Gabriel Clement II,UCLA,UCLA,SO,46.17,1,False,2,True
+400M,M,sprint,,Gabriel Moronta,South Florida,USF,SR,DQR: 15.5-2b ⓘ,0,False,2,True
+400M,M,sprint,1.0,Samuel Ogazi,Alabama,BAMA,SO,44.77,0,False,1,False
+400M,M,sprint,2.0,Gabriel Moronta,South Florida,USF,SR,45.10,0,False,1,False
+400M,M,sprint,3.0,William Jones,USC,USC,JR,45.12,0,False,1,False
+400M,M,sprint,4.0,DeSean Boyce,Texas Tech,TTU,JR,45.15,0,False,1,False
+400M,M,sprint,5.0,Joseph Taylor,Duke,DUKE,FR,45.34,0,False,1,False
+400M,M,sprint,6.0,Auhmad Robinson,Texas A&M,TAMU,SR,45.35(45.342),0,False,1,False
+400M,M,sprint,7.0,Gabriel Clement II,UCLA,UCLA,SO,45.35(45.343),0,False,1,False
+400M,M,sprint,8.0,Jayden Davis,Arizona State,AZST,SO,45.44(45.433),0,False,1,False
+400M,M,sprint,8.0,Jordan Pierre,Arkansas-Pine Bluff,UAPB,SO,45.44(45.433),0,False,1,False
+400M,M,sprint,10.0,Nathan Kent,Navy,NAVY,JR,45.46,0,False,1,False
+400M,M,sprint,11.0,Will Floyd,Georgia,UGA,SO,45.47,0,False,1,False
+400M,M,sprint,12.0,Shemar Chambers,Georgia,UGA,SR,45.48,0,False,1,False
+400M,M,sprint,13.0,Shaemar Uter,Texas Tech,TTU,JR,45.62,0,False,1,False
+400M,M,sprint,14.0,Cutler Zamzow,Texas A&M,TAMU,SR,45.65,0,False,1,False
+400M,M,sprint,15.0,Hossam Hatib,Texas A&M,TAMU,SR,45.94,0,False,1,False
+400M,M,sprint,16.0,Jalen Williams,Wisconsin,WISC,JR,46.06,0,False,1,False
+400M,M,sprint,17.0,Anthony East III,Houston,UH,SR,46.07,0,False,1,False
+400M,M,sprint,18.0,Kelsey Singleton,Southern Miss.,USM,JR,46.14,0,False,1,False
+400M,M,sprint,19.0,Ervin Pearson,Georgia,UGA,FR,46.20,0,False,1,False
+400M,M,sprint,20.0,Malik Ricketts,Pittsburgh,PITT,SR,46.36,0,False,1,False
+400M,M,sprint,21.0,Johnny Goode,California,CAL,SR,46.39,0,False,1,False
+400M,M,sprint,22.0,Jenoah Mckiver,Florida,UF,SR,46.92,0,False,1,False
+400M,M,sprint,,Edidiong Udo,Ohio State,OHST,FR,DQR: 15.5-2b ⓘ,0,False,1,False
+400M,M,sprint,,Micahi Danzy,Florida State,FSU,FR,DNS,0,False,1,False
+800M,M,mid_distance,1.0,Sam Whitmarsh,Texas A&M,TAMU,SR,1:45.86,10,False,2,True
+800M,M,mid_distance,2.0,Matthew Erickson,Oregon,UO,SR,1:46.32,8,False,2,True
+800M,M,mid_distance,3.0,Rivaldo Marshall,Arkansas,ARK,SR,1:46.71,6,False,2,True
+800M,M,mid_distance,4.0,Samuel Rodman,Princeton,PRIN,SR,1:46.86,5,False,2,True
+800M,M,mid_distance,5.0,Aidan McCarthy,Cal Poly,POLY,JR,1:46.88,4,False,2,True
+800M,M,mid_distance,6.0,Samuel Navarro,Miss State,MSST,SR,1:47.33,3,False,2,True
+800M,M,mid_distance,7.0,Christian Jackson,Virginia Tech,VT,JR,1:47.42,2,False,2,True
+800M,M,mid_distance,8.0,Tyrice Taylor,Arkansas,ARK,JR,1:47.44,1,False,2,True
+800M,M,mid_distance,9.0,Koitatoi Kidali,Oregon,UO,FR,1:52.10,0,False,2,True
+800M,M,mid_distance,1.0,Tyrice Taylor,Arkansas,ARK,JR,1:45.23,0,False,1,False
+800M,M,mid_distance,2.0,Koitatoi Kidali,Oregon,UO,FR,1:45.31,0,False,1,False
+800M,M,mid_distance,3.0,Samuel Navarro,Miss State,MSST,SR,1:45.32,0,False,1,False
+800M,M,mid_distance,4.0,Matthew Erickson,Oregon,UO,SR,1:45.89,0,False,1,False
+800M,M,mid_distance,5.0,Samuel Rodman,Princeton,PRIN,SR,1:46.27,0,False,1,False
+800M,M,mid_distance,6.0,Yared Kidane,Wichita State,WICH,JR,1:46.86,0,False,1,False
+800M,M,mid_distance,7.0,Christian Jackson,Virginia Tech,VT,JR,1:47.09,0,False,1,False
+800M,M,mid_distance,8.0,Rivaldo Marshall,Arkansas,ARK,SR,1:47.14,0,False,1,False
+800M,M,mid_distance,9.0,Allon Clay,Penn State,PSU,JR,1:47.17,0,False,1,False
+800M,M,mid_distance,10.0,Aidan McCarthy,Cal Poly,POLY,JR,1:47.25,0,False,1,False
+800M,M,mid_distance,11.0,Sam Whitmarsh,Texas A&M,TAMU,SR,1:47.29,0,False,1,False
+800M,M,mid_distance,12.0,Kyle Reinheimer,Washington,WASH,SR,1:47.32,0,False,1,False
+800M,M,mid_distance,13.0,Rynard Swanepoel,Wake Forest,WAKE,SR,1:47.37,0,False,1,False
+800M,M,mid_distance,14.0,Handal Roban,Penn State,PSU,JR,1:47.41,0,False,1,False
+800M,M,mid_distance,15.0,Abdullahi Hassan,Miss State,MSST,SR,1:47.47,0,False,1,False
+800M,M,mid_distance,16.0,Patrick Tuohy,NC State,NCSU,SR,1:47.55,0,False,1,False
+800M,M,mid_distance,17.0,Dugion Blackman,Iowa State,IAST,SR,1:48.15,0,False,1,False
+800M,M,mid_distance,18.0,Brian Kweyei,Clemson,CLEM,SO,1:48.37,0,False,1,False
+800M,M,mid_distance,19.0,Patrick Hilby,Wisconsin,WISC,FR,1:48.39,0,False,1,False
+800M,M,mid_distance,20.0,Kirk Dawkins,Florida A&M,FAMU,JR,1:48.41,0,False,1,False
+800M,M,mid_distance,21.0,Andrew Casey,Wisconsin,WISC,SO,1:52.44,0,False,1,False
+800M,M,mid_distance,22.0,Lloyd Frilot,TCU,TCU,SR,2:37.02,0,False,1,False
+800M,M,mid_distance,,Nicholas Plant,Virginia Tech,VT,JR,DQR: 15.5-3b ⓘ,0,False,1,False
+800M,M,mid_distance,,Tinoda Matsatsa,Georgetown,GTWN,SO,DNS,0,False,1,False
+1500M,M,mid_distance,1.0,Nathan Green,Washington,WASH,JR,3:47.26,10,False,2,True
+1500M,M,mid_distance,2.0,Ethan Strand,North Carolina,UNC,JR,3:47.33,8,False,2,True
+1500M,M,mid_distance,3.0,Ferenc Kovacs,Harvard,HARV,SO,3:47.42,6,False,2,True
+1500M,M,mid_distance,4.0,Adam Spencer,Wisconsin,WISC,SR,3:47.50,5,False,2,True
+1500M,M,mid_distance,5.0,Gary Martin,Virginia,UVA,JR,3:47.58,4,False,2,True
+1500M,M,mid_distance,6.0,Jack Crull,Bradley,BRAD,SR,3:47.61,3,False,2,True
+1500M,M,mid_distance,7.0,Simeon Birnbaum,Oregon,UO,SO,3:47.64,2,False,2,True
+1500M,M,mid_distance,8.0,Damian Hackett,Cornell,CORN,SR,3:47.74,1,False,2,True
+1500M,M,mid_distance,9.0,Brendan Herger,Michigan,MICH,FR,3:47.88,0,False,2,True
+1500M,M,mid_distance,10.0,Harrison Witt,Princeton,PRIN,SR,3:47.92,0,False,2,True
+1500M,M,mid_distance,11.0,Trent McFarland,Michigan,MICH,SO,3:47.94,0,False,2,True
+1500M,M,mid_distance,12.0,Martin Segurola,Indiana,IU,JR,3:48.71,0,False,2,True
+1500M,M,mid_distance,1.0,Adam Spencer,Wisconsin,WISC,SR,3:41.67,0,False,1,False
+1500M,M,mid_distance,2.0,Simeon Birnbaum,Oregon,UO,SO,3:41.77,0,False,1,False
+1500M,M,mid_distance,3.0,Harrison Witt,Princeton,PRIN,SR,3:41.98,0,False,1,False
+1500M,M,mid_distance,4.0,Ethan Strand,North Carolina,UNC,JR,3:42.09,0,False,1,False
+1500M,M,mid_distance,5.0,Damian Hackett,Cornell,CORN,SR,3:42.17,0,False,1,False
+1500M,M,mid_distance,6.0,Martin Segurola,Indiana,IU,JR,3:42.26,0,False,1,False
+1500M,M,mid_distance,7.0,Ferenc Kovacs,Harvard,HARV,SO,3:42.31,0,False,1,False
+1500M,M,mid_distance,8.0,Leo Young,Stanford,STAN,SO,3:42.57,0,False,1,False
+1500M,M,mid_distance,9.0,Reuben Reina,Arkansas,ARK,SO,3:43.32,0,False,1,False
+1500M,M,mid_distance,10.0,Cooper Cawthra,Texas A&M,TAMU,SR,3:43.34,0,False,1,False
+1500M,M,mid_distance,11.0,Duncan Robinson,Iona,IONA,SO,3:43.42,0,False,1,False
+1500M,M,mid_distance,12.0,Harvey Cramb,Montana State,MTST,SO,3:44.57,0,False,1,False
+1500M,M,mid_distance,13.0,Jack Crull,Bradley,BRAD,SR,3:51.96,0,False,1,False
+1500M,M,mid_distance,14.0,Trent McFarland,Michigan,MICH,SO,3:52.17,0,False,1,False
+1500M,M,mid_distance,15.0,Nathan Green,Washington,WASH,JR,3:52.19,0,False,1,False
+1500M,M,mid_distance,16.0,Brendan Herger,Michigan,MICH,FR,3:52.36,0,False,1,False
+1500M,M,mid_distance,17.0,Gary Martin,Virginia,UVA,JR,3:52.37,0,False,1,False
+1500M,M,mid_distance,18.0,Liam Murphy,Villanova,NOVA,SR,3:52.44,0,False,1,False
+1500M,M,mid_distance,19.0,Colin Sahlman,Northern Arizona,NAU,JR,3:52.76,0,False,1,False
+1500M,M,mid_distance,20.0,Alex Stitt,Oklahoma State,OKST,SR,3:52.91,0,False,1,False
+1500M,M,mid_distance,21.0,Michael Danzi,Notre Dame,ND,SR,3:53.24,0,False,1,False
+1500M,M,mid_distance,22.0,Garrett MacQuiddy,California,CAL,SR,3:53.49,0,False,1,False
+1500M,M,mid_distance,23.0,Abel Teffra,Georgetown,GTWN,SR,3:53.52,0,False,1,False
+1500M,M,mid_distance,24.0,Davis Helmerich,Arkansas,ARK,SR,3:54.92,0,False,1,False
+3000SC,M,distance,1.0,James Corrigan,BYU,BYU,JR,8:16.41,10,False,2,True
+3000SC,M,distance,2.0,Geoffrey Kirwa,Louisville,LOU,FR,8:17.12,8,False,2,True
+3000SC,M,distance,3.0,Carson Williams,Furman,FURM,SR,8:19.71,6,False,2,True
+3000SC,M,distance,4.0,Joash Ruto,Iowa State,IAST,FR,8:20.47,5,False,2,True
+3000SC,M,distance,5.0,Collins Kiprop Kipngok,Kentucky,UK,FR,8:22.92,4,False,2,True
+3000SC,M,distance,6.0,Mathew Kosgei,New Mexico,UNM,FR,8:23.70,3,False,2,True
+3000SC,M,distance,7.0,Benjamin Balazs,Oregon,UO,SO,8:24.46,2,False,2,True
+3000SC,M,distance,8.0,Rob McManus,Montana State,MTST,JR,8:25.83,1,False,2,True
+3000SC,M,distance,9.0,CJ Singleton,Notre Dame,ND,JR,8:28.93,0,False,2,True
+3000SC,M,distance,10.0,Silas Kiptanui,Tulane,TUL,SO,8:32.20,0,False,2,True
+3000SC,M,distance,11.0,Victor Kibiego,Texas A&M,TAMU,JR,8:32.33,0,False,2,True
+3000SC,M,distance,12.0,Kristian Imroth,Eastern Kentucky,EKU,JR,8:49.06,0,False,2,True
+3000SC,M,distance,1.0,Joash Ruto,Iowa State,IAST,FR,8:22.94,0,False,1,False
+3000SC,M,distance,2.0,Carson Williams,Furman,FURM,SR,8:24.33,0,False,1,False
+3000SC,M,distance,3.0,Collins Kiprop Kipngok,Kentucky,UK,FR,8:24.94,0,False,1,False
+3000SC,M,distance,4.0,James Corrigan,BYU,BYU,JR,8:24.97,0,False,1,False
+3000SC,M,distance,5.0,Silas Kiptanui,Tulane,TUL,SO,8:25.51,0,False,1,False
+3000SC,M,distance,6.0,CJ Singleton,Notre Dame,ND,JR,8:28.03,0,False,1,False
+3000SC,M,distance,7.0,Benjamin Balazs,Oregon,UO,SO,8:29.87,0,False,1,False
+3000SC,M,distance,8.0,Kristian Imroth,Eastern Kentucky,EKU,JR,8:30.65,0,False,1,False
+3000SC,M,distance,9.0,Mathew Kosgei,New Mexico,UNM,FR,8:31.14,0,False,1,False
+3000SC,M,distance,10.0,Geoffrey Kirwa,Louisville,LOU,FR,8:31.42,0,False,1,False
+3000SC,M,distance,11.0,Rob McManus,Montana State,MTST,JR,8:34.54,0,False,1,False
+3000SC,M,distance,12.0,Bismack Kipchirchir,Akron,AKRN,FR,8:35.58,0,False,1,False
+3000SC,M,distance,13.0,Victor Kibiego,Texas A&M,TAMU,JR,8:35.98,0,False,1,False
+3000SC,M,distance,14.0,Nathan Davis,Army West Point,ARMY,JR,8:37.62,0,False,1,False
+3000SC,M,distance,15.0,Ryker Holtzen,Wyoming,WYO,JR,8:38.09,0,False,1,False
+3000SC,M,distance,16.0,Brett Gardner,NC State,NCSU,JR,8:38.13,0,False,1,False
+3000SC,M,distance,17.0,Peter Visser,Weber State,WEBE,JR,8:40.84,0,False,1,False
+3000SC,M,distance,18.0,Ezekiel Pitireng,Alabama,BAMA,FR,8:41.10,0,False,1,False
+3000SC,M,distance,19.0,Declan Rymer,Virginia Tech,VT,SR,8:41.59,0,False,1,False
+3000SC,M,distance,20.0,Quinton Orr,Iowa State,IAST,JR,8:44.02,0,False,1,False
+3000SC,M,distance,21.0,Kole Mathison,Colorado,COLO,SO,8:45.05,0,False,1,False
+3000SC,M,distance,22.0,Titus Kimaru,Texas Tech,TTU,FR,8:45.55,0,False,1,False
+3000SC,M,distance,23.0,Andrew Nolan,Michigan State,MIST,SR,8:45.83,0,False,1,False
+3000SC,M,distance,,Cody Larson,South Dakota State,SDST,JR,DNF,0,False,1,False
+5000M,M,distance,1.0,Brian Musau,Oklahoma State,OKST,SO,13:20.59,10,False,1,True
+5000M,M,distance,2.0,Habtom Samuel,New Mexico,UNM,SO,13:20.89,8,False,1,True
+5000M,M,distance,3.0,Marco Langon,Villanova,NOVA,JR,13:21.17,6,False,1,True
+5000M,M,distance,4.0,Valentin Soca,CBU,CBU,JR,13:21.76,5,False,1,True
+5000M,M,distance,5.0,Rocky Hansen,Wake Forest,WAKE,SO,13:22.47,4,False,1,True
+5000M,M,distance,6.0,Matt Strangio,Portland,PORT,SR,13:23.28,3,False,1,True
+5000M,M,distance,7.0,Ishmael Kipkurui,New Mexico,UNM,FR,13:25.18,2,False,1,True
+5000M,M,distance,8.0,Fouad Messaoudi,Oklahoma State,OKST,SR,13:25.48,1,False,1,True
+5000M,M,distance,9.0,Toby Gillen,Ole Miss,MISS,SR,13:26.74,0,False,1,True
+5000M,M,distance,10.0,David Mullarkey,Northern Arizona,NAU,SR,13:28.43,0,False,1,True
+5000M,M,distance,11.0,Robin Kwemoi Bera,Iowa State,IAST,FR,13:30.52,0,False,1,True
+5000M,M,distance,12.0,Colton Sands,North Carolina,UNC,SR,13:36.26,0,False,1,True
+5000M,M,distance,13.0,Will Daley,Virginia,UVA,JR,13:36.55,0,False,1,True
+5000M,M,distance,14.0,Luke Tewalt,Wake Forest,WAKE,SR,13:37.47,0,False,1,True
+5000M,M,distance,15.0,Jacob White,Wyoming,WYO,JR,13:37.82,0,False,1,True
+5000M,M,distance,16.0,Ernest Cheruiyot,Texas Tech,TTU,SO,13:38.09,0,False,1,True
+5000M,M,distance,17.0,Drew Bosley,Northern Arizona,NAU,SR,13:39.04,0,False,1,True
+5000M,M,distance,18.0,JoJo Jourdon,Wake Forest,WAKE,FR,13:41.00,0,False,1,True
+5000M,M,distance,19.0,Ethan Strand,North Carolina,UNC,JR,13:42.20,0,False,1,True
+5000M,M,distance,20.0,Matthew Forrester,Butler,BUTL,JR,13:43.85,0,False,1,True
+5000M,M,distance,21.0,Kidus Misgina,Ole Miss,MISS,SR,13:49.21,0,False,1,True
+5000M,M,distance,22.0,Hunter Christopher,Youngstown St.,YSU,SR,13:49.43,0,False,1,True
+5000M,M,distance,23.0,Luke Grundvig,BYU,BYU,JR,13:54.70,0,False,1,True
+5000M,M,distance,24.0,Justin Wachtel,Virginia,UVA,JR,14:11.51,0,False,1,True
+10000M,M,distance,1.0,Ishmael Kipkurui,New Mexico,UNM,FR,29:07.70,10,False,1,True
+10000M,M,distance,2.0,Habtom Samuel,New Mexico,UNM,SO,29:08.73,8,False,1,True
+10000M,M,distance,3.0,Ernest Cheruiyot,Texas Tech,TTU,SO,29:10.37,6,False,1,True
+10000M,M,distance,4.0,Rodgers Kiplimo,Iowa State,IAST,JR,29:10.89,5,False,1,True
+10000M,M,distance,5.0,Evans Kurui,Washington State,WAST,SO,29:10.91,4,False,1,True
+10000M,M,distance,6.0,David Mullarkey,Northern Arizona,NAU,SR,29:11.05,3,False,1,True
+10000M,M,distance,7.0,Dylan Schubert,Furman,FURM,SR,29:11.18,2,False,1,True
+10000M,M,distance,8.0,Creed Thompson,BYU,BYU,JR,29:11.44,1,False,1,True
+10000M,M,distance,9.0,Denis Kipngetich,Oklahoma State,OKST,SO,29:11.50,0,False,1,True
+10000M,M,distance,10.0,Ben Rosa,Harvard,HARV,SR,29:12.19,0,False,1,True
+10000M,M,distance,11.0,Dismus Lokira,Alabama,BAMA,FR,29:13.51,0,False,1,True
+10000M,M,distance,12.0,Cole Sprout,Stanford,STAN,SR,29:18.13,0,False,1,True
+10000M,M,distance,13.0,Murphy Smith,Navy,NAVY,SR,29:18.39,0,False,1,True
+10000M,M,distance,14.0,Joey Nokes,BYU,BYU,SR,29:19.76,0,False,1,True
+10000M,M,distance,15.0,Ethan Coleman,Notre Dame,ND,JR,29:22.01,0,False,1,True
+10000M,M,distance,16.0,William Zegarski,Butler,BUTL,SO,29:22.91,0,False,1,True
+10000M,M,distance,17.0,Dylan Throop,Penn,PENN,SR,29:24.03,0,False,1,True
+10000M,M,distance,18.0,Bernard Cheruiyot,Tulane,TUL,FR,29:24.80,0,False,1,True
+10000M,M,distance,19.0,Timothy Chesondin,Arkansas,ARK,SO,29:26.37,0,False,1,True
+10000M,M,distance,20.0,Drew Bosley,Northern Arizona,NAU,SR,29:28.52,0,False,1,True
+10000M,M,distance,21.0,Sam Lawler,Syracuse,SYR,SR,29:31.40,0,False,1,True
+10000M,M,distance,22.0,Victor Kiprop,Alabama,BAMA,SR,29:31.44,0,False,1,True
+10000M,M,distance,23.0,Shane Brosnan,Harvard,HARV,SO,29:33.81,0,False,1,True
+10000M,M,distance,,Dennis Kipruto,Alabama,BAMA,SO,DNF,0,False,1,True
+110MH,M,sprint,1.0,Ja'Kobe Tharp,Auburn,AUB,SO,13.05,10,False,2,True
+110MH,M,sprint,2.0,Zachary Extine,Arizona,ARIZ,JR,13.13,8,False,2,True
+110MH,M,sprint,3.0,John Adesola,Houston,UH,SR,13.28,6,False,2,True
+110MH,M,sprint,4.0,Jamar Marshall Jr.,Houston,UH,SR,13.34,5,False,2,True
+110MH,M,sprint,5.0,Demario Prince,Baylor,BAY,FR,13.44,4,False,2,True
+110MH,M,sprint,6.0,Darius Brown,DePaul,DEP,SR,13.50,3,False,2,True
+110MH,M,sprint,7.0,Jahiem Stern,LSU,LSU,JR,13.57,2,False,2,True
+110MH,M,sprint,8.0,Jayden Smith,Davidson,DAVD,SR,13.65,1,False,2,True
+110MH,M,sprint,,Kendrick Smallwood,Texas,TEX,JR,DQR: 15.6-2d ⓘ,0,False,2,True
+110MH,M,sprint,1.0,Ja'Kobe Tharp,Auburn,AUB,SO,13.15,0,False,1,False
+110MH,M,sprint,2.0,Kendrick Smallwood,Texas,TEX,JR,13.26,0,False,1,False
+110MH,M,sprint,3.0,Demario Prince,Baylor,BAY,FR,13.27,0,False,1,False
+110MH,M,sprint,4.0,Jahiem Stern,LSU,LSU,JR,13.29,0,False,1,False
+110MH,M,sprint,5.0,Zachary Extine,Arizona,ARIZ,JR,13.32,0,False,1,False
+110MH,M,sprint,6.0,Jamar Marshall Jr.,Houston,UH,SR,13.37,0,False,1,False
+110MH,M,sprint,7.0,Darius Brown,DePaul,DEP,SR,13.40(13.393),0,False,1,False
+110MH,M,sprint,8.0,Jayden Smith,Davidson,DAVD,SR,13.40(13.395),0,False,1,False
+110MH,M,sprint,9.0,John Adesola,Houston,UH,SR,13.43,0,False,1,False
+110MH,M,sprint,10.0,Oscar Smith,Louisiana Tech,LT,SR,13.45,0,False,1,False
+110MH,M,sprint,11.0,Jerome Campbell,Northern Colorado,UNCO,JR,13.50,0,False,1,False
+110MH,M,sprint,12.0,Christopher Serrao,Rutgers,RUTG,JR,13.53(13.525),0,False,1,False
+110MH,M,sprint,13.0,Matthew Sophia,LSU,LSU,JR,13.53(13.526),0,False,1,False
+110MH,M,sprint,14.0,Joshua Hornsby,Cal St. Fullerton,CSUF,SR,13.53(13.527),0,False,1,False
+110MH,M,sprint,15.0,Bradley Franklin,Samford,SAMF,FR,13.57,0,False,1,False
+110MH,M,sprint,16.0,Johnny Brackins,USC,USC,SR,13.60,0,False,1,False
+110MH,M,sprint,17.0,Christian Martin,Minnesota,MINN,SR,13.61,0,False,1,False
+110MH,M,sprint,18.0,Ethan Exilhomme,Northeastern,NEU,SR,13.66,0,False,1,False
+110MH,M,sprint,19.0,Josh Parrish,Wichita State,WICH,SO,13.68,0,False,1,False
+110MH,M,sprint,20.0,Tyson Williams,Florida State,FSU,SR,13.77,0,False,1,False
+110MH,M,sprint,21.0,Braxton Brann,Ohio State,OHST,SO,13.83,0,False,1,False
+110MH,M,sprint,22.0,Isaiah Taylor,N. Carolina A&T,NCAT,SO,14.30,0,False,1,False
+110MH,M,sprint,,Demaris Waters,Florida,UF,JR,FS,0,False,1,False
+110MH,M,sprint,,Ja'Qualon Scott,Texas A&M,TAMU,SR,FS,0,False,1,False
+400MH,M,sprint,1.0,Nathaniel Ezekiel,Baylor,BAY,SR,47.49,10,False,2,True
+400MH,M,sprint,2.0,Ja'Qualon Scott,Texas A&M,TAMU,SR,48.29,8,False,2,True
+400MH,M,sprint,3.0,Kody Blackwood,Texas,TEX,JR,48.66,6,False,2,True
+400MH,M,sprint,4.0,Oskar Edlund,Texas Tech,TTU,SR,49.02,5,False,2,True
+400MH,M,sprint,5.0,Saad Hinti,Tennessee,TENN,FR,49.11,4,False,2,True
+400MH,M,sprint,6.0,Bryce McCray,Texas A&M,TAMU,SR,49.52,3,False,2,True
+400MH,M,sprint,7.0,Johnny Brackins,USC,USC,SR,50.15,2,False,2,True
+400MH,M,sprint,8.0,Bryce Tucker,Rutgers,RUTG,SO,50.83,1,False,2,True
+400MH,M,sprint,9.0,Jarrett Gentles,Coppin State,COPP,SR,51.50,0,False,2,True
+400MH,M,sprint,1.0,Nathaniel Ezekiel,Baylor,BAY,SR,47.86,0,False,1,False
+400MH,M,sprint,2.0,Saad Hinti,Tennessee,TENN,FR,49.07,0,False,1,False
+400MH,M,sprint,3.0,Kody Blackwood,Texas,TEX,JR,49.09,0,False,1,False
+400MH,M,sprint,4.0,Ja'Qualon Scott,Texas A&M,TAMU,SR,49.18,0,False,1,False
+400MH,M,sprint,5.0,Bryce McCray,Texas A&M,TAMU,SR,49.56,0,False,1,False
+400MH,M,sprint,6.0,Oskar Edlund,Texas Tech,TTU,SR,49.66,0,False,1,False
+400MH,M,sprint,7.0,Johnny Brackins,USC,USC,SR,50.14(50.135),0,False,1,False
+400MH,M,sprint,8.0,Bryce Tucker,Rutgers,RUTG,SO,50.14(50.140),0,False,1,False
+400MH,M,sprint,9.0,Jarrett Gentles,Coppin State,COPP,SR,50.18,0,False,1,False
+400MH,M,sprint,10.0,Jason Parrish,Wichita State,WICH,SO,50.24,0,False,1,False
+400MH,M,sprint,11.0,Xzaviah Taylor,N. Carolina A&T,NCAT,SO,50.27,0,False,1,False
+400MH,M,sprint,12.0,Noah Langford,Howard,HOW,SR,50.50,0,False,1,False
+400MH,M,sprint,13.0,Mario Paul,Texas Tech,TTU,JR,50.56,0,False,1,False
+400MH,M,sprint,14.0,Ja-Van Poole,Oakland,OAKL,SR,50.74,0,False,1,False
+400MH,M,sprint,15.0,Ryan Matulonis,Penn,PENN,SO,50.75,0,False,1,False
+400MH,M,sprint,16.0,Harry Barton,Tennessee,TENN,SR,50.82,0,False,1,False
+400MH,M,sprint,17.0,Hugo Menin,UTSA,UTSA,SO,50.98(50.972),0,False,1,False
+400MH,M,sprint,17.0,Alex Sherman,Virginia,UVA,SR,50.98(50.972),0,False,1,False
+400MH,M,sprint,19.0,Tamaal Myers II,UCLA,UCLA,JR,51.24,0,False,1,False
+400MH,M,sprint,20.0,Cameron Wilmington,Grand Canyon,GCU,SR,51.57,0,False,1,False
+400MH,M,sprint,21.0,Alex Sadikov,Penn,PENN,SO,52.50,0,False,1,False
+400MH,M,sprint,22.0,Marcus Johnson,Binghamton,BING,SR,52.57,0,False,1,False
+400MH,M,sprint,23.0,Jayden Douglas,TCU,TCU,SO,54.16,0,False,1,False
+400MH,M,sprint,24.0,Isaiah Taylor,N. Carolina A&T,NCAT,SO,55.63,0,False,1,False
+4x100M,M,relay,1.0,AUBURN,Auburn,AUB,,38.33,10,True,2,True
+4x100M,M,relay,2.0,USC,USC,USC,,38.46,8,True,2,True
+4x100M,M,relay,3.0,ARKANSAS,Arkansas,ARK,,38.72,6,True,2,True
+4x100M,M,relay,4.0,SOUTH FLORIDA,South Florida,USF,,38.73,5,True,2,True
+4x100M,M,relay,5.0,TENNESSEE,Tennessee,TENN,,38.79,4,True,2,True
+4x100M,M,relay,6.0,KENTUCKY,Kentucky,UK,,38.85,3,True,2,True
+4x100M,M,relay,7.0,MINNESOTA,Minnesota,MINN,,38.88,2,True,2,True
+4x100M,M,relay,8.0,TEXAS,Texas,TEX,,39.10,1,True,2,True
+4x100M,M,relay,,LSU,LSU,LSU,,DQR: 15.5-2b ⓘ,0,True,2,True
+4x100M,M,relay,1.0,AUBURN,Auburn,AUB,,37.97,0,True,1,False
+4x100M,M,relay,2.0,SOUTH FLORIDA,South Florida,USF,,38.12,0,True,1,False
+4x100M,M,relay,3.0,LSU,LSU,LSU,,38.14,0,True,1,False
+4x100M,M,relay,4.0,MINNESOTA,Minnesota,MINN,,38.16,0,True,1,False
+4x100M,M,relay,5.0,TENNESSEE,Tennessee,TENN,,38.47,0,True,1,False
+4x100M,M,relay,6.0,ARKANSAS,Arkansas,ARK,,38.51,0,True,1,False
+4x100M,M,relay,7.0,KENTUCKY,Kentucky,UK,,38.60,0,True,1,False
+4x100M,M,relay,8.0,TEXAS,Texas,TEX,,38.70,0,True,1,False
+4x100M,M,relay,9.0,USC,USC,USC,,38.71,0,True,1,False
+4x100M,M,relay,10.0,UTAH VALLEY,Utah Valley,UVU,,38.90,0,True,1,False
+4x100M,M,relay,11.0,SAM HOUSTON,Sam Houston,SHSU,,39.03,0,True,1,False
+4x100M,M,relay,12.0,GEORGIA,Georgia,UGA,,39.15,0,True,1,False
+4x100M,M,relay,13.0,TEXAS A&M,Texas A&M,TAMU,,39.23,0,True,1,False
+4x100M,M,relay,14.0,ARKANSAS-PINE BLUFF,Arkansas-Pine Bluff,UAPB,,39.27,0,True,1,False
+4x100M,M,relay,15.0,OLE MISS,Ole Miss,MISS,,39.29,0,True,1,False
+4x100M,M,relay,16.0,FLORIDA STATE,Florida State,FSU,,39.31,0,True,1,False
+4x100M,M,relay,17.0,PITTSBURGH,Pittsburgh,PITT,,39.32,0,True,1,False
+4x100M,M,relay,18.0,TCU,TCU,TCU,,39.35,0,True,1,False
+4x100M,M,relay,19.0,OHIO STATE,Ohio State,OHST,,39.40,0,True,1,False
+4x100M,M,relay,20.0,WASHINGTON STATE,Washington State,WAST,,39.41,0,True,1,False
+4x100M,M,relay,21.0,FLORIDA,Florida,UF,,39.42,0,True,1,False
+4x100M,M,relay,22.0,CAL ST. FULLERTON,Cal St. Fullerton,CSUF,,39.48,0,True,1,False
+4x100M,M,relay,23.0,N. CAROLINA A&T,N. Carolina A&T,NCAT,,40.43,0,True,1,False
+4x100M,M,relay,,ARIZONA,Arizona,ARIZ,,DNF,0,True,1,False
+4x400M,M,relay,1.0,SOUTH FLORIDA,South Florida,USF,,3:00.42,10,True,2,True
+4x400M,M,relay,2.0,TEXAS A&M,Texas A&M,TAMU,,3:00.73,8,True,2,True
+4x400M,M,relay,3.0,ARKANSAS,Arkansas,ARK,,3:01.59,6,True,2,True
+4x400M,M,relay,4.0,IOWA,Iowa,IOWA,,3:01.61,5,True,2,True
+4x400M,M,relay,5.0,FLORIDA,Florida,UF,,3:01.88,4,True,2,True
+4x400M,M,relay,6.0,ALABAMA,Alabama,BAMA,,3:02.17,3,True,2,True
+4x400M,M,relay,7.0,BYU,BYU,BYU,,3:02.51,2,True,2,True
+4x400M,M,relay,8.0,USC,USC,USC,,3:03.18,1,True,2,True
+4x400M,M,relay,9.0,PENN STATE,Penn State,PSU,,3:03.85,0,True,2,True
+4x400M,M,relay,1.0,ARKANSAS,Arkansas,ARK,,3:02.53,0,True,1,False
+4x400M,M,relay,2.0,USC,USC,USC,,3:02.76,0,True,1,False
+4x400M,M,relay,3.0,TEXAS A&M,Texas A&M,TAMU,,3:03.09,0,True,1,False
+4x400M,M,relay,4.0,IOWA,Iowa,IOWA,,3:03.14,0,True,1,False
+4x400M,M,relay,5.0,PENN STATE,Penn State,PSU,,3:03.39,0,True,1,False
+4x400M,M,relay,6.0,SOUTH FLORIDA,South Florida,USF,,3:03.54,0,True,1,False
+4x400M,M,relay,7.0,ALABAMA,Alabama,BAMA,,3:03.58,0,True,1,False
+4x400M,M,relay,8.0,FLORIDA,Florida,UF,,3:03.69,0,True,1,False
+4x400M,M,relay,9.0,BYU,BYU,BYU,,3:03.83,0,True,1,False
+4x400M,M,relay,10.0,ARIZONA STATE,Arizona State,AZST,,3:04.00,0,True,1,False
+4x400M,M,relay,11.0,LSU,LSU,LSU,,3:04.01,0,True,1,False
+4x400M,M,relay,12.0,TEXAS,Texas,TEX,,3:04.15,0,True,1,False
+4x400M,M,relay,13.0,DUKE,Duke,DUKE,,3:04.28,0,True,1,False
+4x400M,M,relay,14.0,HOUSTON,Houston,UH,,3:04.36,0,True,1,False
+4x400M,M,relay,15.0,OHIO STATE,Ohio State,OHST,,3:04.61,0,True,1,False
+4x400M,M,relay,16.0,GEORGIA,Georgia,UGA,,3:04.71,0,True,1,False
+4x400M,M,relay,17.0,TCU,TCU,TCU,,3:05.16,0,True,1,False
+4x400M,M,relay,18.0,N. CAROLINA A&T,N. Carolina A&T,NCAT,,3:05.77,0,True,1,False
+4x400M,M,relay,19.0,TEXAS TECH,Texas Tech,TTU,,3:06.02,0,True,1,False
+4x400M,M,relay,20.0,NAVY,Navy,NAVY,,3:06.81,0,True,1,False
+4x400M,M,relay,21.0,HOWARD,Howard,HOW,,3:08.92,0,True,1,False
+4x400M,M,relay,22.0,BAYLOR,Baylor,BAY,,3:09.63,0,True,1,False
+4x400M,M,relay,23.0,WICHITA STATE,Wichita State,WICH,,3:10.61,0,True,1,False
+4x400M,M,relay,,PRINCETON,Princeton,PRIN,,DQR: 15.5-2b ⓘ,0,True,1,False
+High Jump,M,jump,1.0,Arvesta Troupe,Ole Miss,MISS,JR,2.27m7-5¼,10,False,1,True
+High Jump,M,jump,2.0,Kason O'Riley,Texas State,TXST,SR,2.20m7-2½,8,False,1,True
+High Jump,M,jump,2.0,Aiden Hayes,Texas State,TXST,JR,2.20m7-2½,8,False,1,True
+High Jump,M,jump,4.0,Kamyren Garrett,Illinois,ILL,SR,2.20m7-2½,5,False,1,True
+High Jump,M,jump,5.0,Nathanil Figgers,South Carolina,SCAR,SO,2.20m7-2½,4,False,1,True
+High Jump,M,jump,6.0,Kyren Washington,Oklahoma,OU,SO,2.20m7-2½,3,False,1,True
+High Jump,M,jump,6.0,Tyus Wilson,Nebraska,NEB,SR,2.20m7-2½,3,False,1,True
+High Jump,M,jump,8.0,Eddie Kurjak,Georgia,UGA,SR,2.15m7-½,1,False,1,True
+High Jump,M,jump,8.0,Kuda Chadenga,LSU,LSU,SR,2.15m7-½,1,False,1,True
+High Jump,M,jump,8.0,Kampton Kam,Penn,PENN,JR,2.15m7-½,1,False,1,True
+High Jump,M,jump,11.0,Desire Tonye Nyemeck,Nebraska,NEB,FR,2.15m7-½,0,False,1,True
+High Jump,M,jump,12.0,Elias Gerald,USC,USC,JR,2.15m7-½,0,False,1,True
+High Jump,M,jump,13.0,Bode Gilkerson,Purdue,PURD,SO,2.15m7-½,0,False,1,True
+High Jump,M,jump,13.0,Antrea Mita,Houston,UH,SO,2.15m7-½,0,False,1,True
+High Jump,M,jump,15.0,Donald Hatfield Jackson,SE Missouri,SEMO,SR,2.15m7-½,0,False,1,True
+High Jump,M,jump,16.0,Miles Grant,Sacramento St.,SAC,SR,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,16.0,Kennedy Sauder,Miami (Fla.),MIAF,JR,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,16.0,Channing Ferguson,South Carolina,SCAR,SR,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,16.0,Riyon Rankin,Georgia,UGA,SO,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,20.0,Tito Alofe,Harvard,HARV,SO,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,20.0,Osawese Agbonkonkon,Texas,TEX,SO,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,20.0,Enaji Muhammad,Connecticut,CONN,FR,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,23.0,Roman Smith,Southern,SOUT,SR,2.10m6-10¾,0,False,1,True
+High Jump,M,jump,,Scottie VINES,Arkansas,ARK,FR,NH,0,False,1,True
+Pole Vault,M,jump,1.0,Aleksandr Solovev,Texas A&M,TAMU,JR,5.78m18-11½,10,False,1,True
+Pole Vault,M,jump,2.0,Ashton Barkdull,Kansas,KU,JR,5.73m18-9½,8,False,1,True
+Pole Vault,M,jump,3.0,Bradley Jelmert,Arkansas State,ARST,SR,5.63m18-5½,6,False,1,True
+Pole Vault,M,jump,4.0,Benjamin Conacher,Virginia Tech,VT,SR,5.58m18-3¾,5,False,1,True
+Pole Vault,M,jump,5.0,Simen Guttormsen,Duke,DUKE,SR,5.53m18-1¾,4,False,1,True
+Pole Vault,M,jump,5.0,Bryce Barkdull,Kansas,KU,FR,5.53m18-1¾,4,False,1,True
+Pole Vault,M,jump,7.0,Cody Johnston,Illinois,ILL,SO,5.53m18-1¾,2,False,1,True
+Pole Vault,M,jump,7.0,Kevin O'Sullivan,Rutgers,RUTG,JR,5.53m18-1¾,2,False,1,True
+Pole Vault,M,jump,9.0,William Staggs,Indiana State,INST,SR,5.53m18-1¾,0,False,1,True
+Pole Vault,M,jump,10.0,Cade Gray,Tennessee,TENN,JR,5.43m17-9¾,0,False,1,True
+Pole Vault,M,jump,11.0,Scott Toney,Washington,WASH,SR,5.43m17-9¾,0,False,1,True
+Pole Vault,M,jump,12.0,Jak Urlacher,Minnesota,MINN,SR,5.43m17-9¾,0,False,1,True
+Pole Vault,M,jump,13.0,Logan Hammer,Utah State,UTST,JR,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,13.0,Nico Morales,Rutgers,RUTG,SR,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,13.0,Evan Puckett,Tennessee,TENN,JR,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,13.0,John Kendricks,Ole Miss,MISS,SO,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,17.0,Logan Kelley,Ole Miss,MISS,JR,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,18.0,Sean Gribble,Texas Tech,TTU,SO,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,18.0,Tre Young,South Dakota,SDAK,SR,5.33m17-5¾,0,False,1,True
+Pole Vault,M,jump,20.0,Arnie Grunert,Western Illinois,WIU,JR,5.18m17-0,0,False,1,True
+Pole Vault,M,jump,21.0,Nikolai van Huyssteen,Georgia,UGA,SR,5.18m17-0,0,False,1,True
+Pole Vault,M,jump,,Hunter GARRETSON,Akron,AKRN,SR,NH,0,False,1,True
+Pole Vault,M,jump,,Colton RHODES,Oklahoma,OU,JR,NH,0,False,1,True
+Pole Vault,M,jump,,Ricardo MONTES DE OCA,High Point,HPU,FR,NH,0,False,1,True
+Long Jump,M,jump,1.0,Malcolm Clemons,Florida,UF,SR,8.04m26-4½,10,False,1,True
+Long Jump,M,jump,2.0,Blair Anderson,Oklahoma State,OKST,SR,8.02m26-3¾,8,False,1,True
+Long Jump,M,jump,3.0,Henry Kiner,Arkansas,ARK,SR,7.96m26-1½,6,False,1,True
+Long Jump,M,jump,4.0,Charles Godfred,Minnesota,MINN,SO,7.91m25-11½,5,False,1,True
+Long Jump,M,jump,5.0,Lokesh Sathyanathan,Tarleton State,TARL,SR,7.83m25-8¼,4,False,1,True
+Long Jump,M,jump,6.0,Tyson Adams,NC State,NCSU,FR,7.81m25-7½,3,False,1,True
+Long Jump,M,jump,7.0,Greg Foster,Princeton,PRIN,JR,7.80m25-7¼,2,False,1,True
+Long Jump,M,jump,8.0,Jayden Keys,Georgia,UGA,FR,7.80m25-7¼,1,False,1,True
+Long Jump,M,jump,9.0,Uroy Ryan,Arkansas,ARK,FR,7.77m25-6,0,False,1,True
+Long Jump,M,jump,10.0,Tye Hunt,Youngstown St.,YSU,SR,7.77m25-6,0,False,1,True
+Long Jump,M,jump,11.0,Chrstyn John (JC) Stevenson,USC,USC,JR,7.75m25-5¼,0,False,1,True
+Long Jump,M,jump,12.0,De'Aundre Ward,Southern Miss.,USM,SR,7.73m25-4½,0,False,1,True
+Long Jump,M,jump,13.0,Reinaldo Rodrigues,Arizona,ARIZ,SR,7.69m25-2¾,0,False,1,True
+Long Jump,M,jump,14.0,Chris Preddie,Texas State,TXST,JR,7.62m25-0,0,False,1,True
+Long Jump,M,jump,15.0,Roy Morris,Northwestern St.,NWST,FR,7.51m24-7¾,0,False,1,True
+Long Jump,M,jump,16.0,Anthony Riley,Oklahoma,OU,SR,7.46m24-5¾,0,False,1,True
+Long Jump,M,jump,17.0,Micah Larry,Georgia,UGA,SO,7.46m24-5¾,0,False,1,True
+Long Jump,M,jump,18.0,Juriad Hughes,Arkansas,ARK,FR,7.41m24-3¾,0,False,1,True
+Long Jump,M,jump,19.0,DJ Fillmore,Ohio State,OHST,SO,7.40m24-3½,0,False,1,True
+Long Jump,M,jump,20.0,Curtis Williams,Florida State,FSU,JR,7.18m23-6¾,0,False,1,True
+Long Jump,M,jump,21.0,Louis Gordon,Albany,ALBY,SR,7.13m23-4¾,0,False,1,True
+Long Jump,M,jump,,Josh Parrish,Wichita State,WICH,SO,X,0,False,1,True
+Long Jump,M,jump,,Safin Wills,Oregon,UO,SR,X,0,False,1,True
+Long Jump,M,jump,,Channing Ferguson,South Carolina,SCAR,SR,X,0,False,1,True
+Triple Jump,M,jump,1.0,Brandon Green Jr,Oklahoma,OU,JR,16.81m55-2,10,False,1,True
+Triple Jump,M,jump,2.0,Floyd Whitaker,Oklahoma,OU,SR,16.41m53-10¼,8,False,1,True
+Triple Jump,M,jump,3.0,Kyvon Tatham,Florida State,FSU,JR,16.23m53-3,6,False,1,True
+Triple Jump,M,jump,4.0,Luke Brown,Kentucky,UK,JR,16.18m53-1,5,False,1,True
+Triple Jump,M,jump,5.0,Selva Prabhu,Kansas State,KSST,FR,16.09m52-9½,4,False,1,True
+Triple Jump,M,jump,6.0,Theophilus Mudzengerere,South Carolina,SCAR,JR,16.09m52-9½,3,False,1,True
+Triple Jump,M,jump,7.0,Safin Wills,Oregon,UO,SR,16.07m52-8¾,2,False,1,True
+Triple Jump,M,jump,8.0,Stafon Roach,ULM,ULM,SO,15.99m52-5½,1,False,1,True
+Triple Jump,M,jump,9.0,Abraham Johnson,Eastern Illinois,EIU,FR,15.96m52-4½,0,False,1,True
+Triple Jump,M,jump,10.0,Hakeem Ford,Minnesota,MINN,SO,15.89m52-1¾,0,False,1,True
+Triple Jump,M,jump,11.0,Jaren Holmes,USC,USC,SR,15.75m51-8¼,0,False,1,True
+Triple Jump,M,jump,12.0,Alexandre Malanda,Kent State,KENT,SR,15.69m51-5¾,0,False,1,True
+Triple Jump,M,jump,13.0,Ryan John,Clemson,CLEM,JR,15.65m51-4¼,0,False,1,True
+Triple Jump,M,jump,14.0,Kelsey Daniel,Texas,TEX,SR,15.53m50-11½,0,False,1,True
+Triple Jump,M,jump,15.0,Jeremy Nelson,Louisiana,ULL,JR,15.46m50-8¾,0,False,1,True
+Triple Jump,M,jump,16.0,Roman Kuleshov,Louisville,LOU,SR,15.35m50-4½,0,False,1,True
+Triple Jump,M,jump,17.0,Xavier Partee,N. Carolina A&T,NCAT,SO,15.32m50-3¼,0,False,1,True
+Triple Jump,M,jump,18.0,Chris Preddie,Texas State,TXST,JR,15.20m49-10½,0,False,1,True
+Triple Jump,M,jump,19.0,Ledamian Rowell,Jackson State,JKST,SR,15.15m49-8½,0,False,1,True
+Triple Jump,M,jump,20.0,Sir Jonathan Sims,Tarleton State,TARL,JR,15.07m49-5½,0,False,1,True
+Triple Jump,M,jump,21.0,Xavier Drumgoole,Stanford,STAN,FR,13.06m42-10¼,0,False,1,True
+Triple Jump,M,jump,,Anthony Woods,Alabama State,ALST,JR,X,0,False,1,True
+Triple Jump,M,jump,,Jaden Lippett,Florida,UF,FR,X,0,False,1,True
+Triple Jump,M,jump,,Viktor Morozov,Illinois,ILL,JR,X,0,False,1,True
+Shot Put,M,throw,1.0,Jason Swarens,Wisconsin,WISC,SR,21.23m69-8,10,False,1,True
+Shot Put,M,throw,2.0,Thomas Kitchell,North Carolina,UNC,SR,20.74m68-½,8,False,1,True
+Shot Put,M,throw,3.0,Tarik Robinson-O'Hagan,Ole Miss,MISS,JR,20.41m66-11½,6,False,1,True
+Shot Put,M,throw,4.0,Kobe Lawrence,Oregon,UO,FR,20.32m66-8,5,False,1,True
+Shot Put,M,throw,5.0,Christopher Licata,South Carolina,SCAR,SR,20.15m66-1½,4,False,1,True
+Shot Put,M,throw,6.0,Danny Bryant,BYU,BYU,SR,19.71m64-8,3,False,1,True
+Shot Put,M,throw,7.0,Dylan Targgart,South Carolina,SCAR,SR,19.48m63-11,2,False,1,True
+Shot Put,M,throw,8.0,Fred Moudani Likibi,Cincinnati,CINC,SR,19.44m63-9½,1,False,1,True
+Shot Put,M,throw,9.0,Joseph White,Wisconsin,WISC,SR,19.30m63-4,0,False,1,True
+Shot Put,M,throw,10.0,Zach Landa,Arizona,ARIZ,SR,19.05m62-6,0,False,1,True
+Shot Put,M,throw,11.0,Bryce Foster,Kansas,KU,JR,18.96m62-2½,0,False,1,True
+Shot Put,M,throw,12.0,Christopher Crawford,Alabama,BAMA,JR,18.94m62-1¾,0,False,1,True
+Shot Put,M,throw,13.0,Joe Licata,Princeton,PRIN,JR,18.93m62-1¼,0,False,1,True
+Shot Put,M,throw,14.0,Trevor Gunzell,Alabama,BAMA,JR,18.91m62-½,0,False,1,True
+Shot Put,M,throw,15.0,Alexander Kolesnikoff,Georgia,UGA,SR,18.75m61-6¼,0,False,1,True
+Shot Put,M,throw,16.0,Jacob Cookinham,Kansas,KU,FR,18.70m61-4¼,0,False,1,True
+Shot Put,M,throw,17.0,Obiora Okeke,Columbia,COLU,SR,18.65m61-2¼,0,False,1,True
+Shot Put,M,throw,18.0,Cam Jones,Iowa State,IAST,SR,18.62m61-1¼,0,False,1,True
+Shot Put,M,throw,19.0,Maxwell Otterdahl,Nebraska,NEB,SR,18.55m60-10½,0,False,1,True
+Shot Put,M,throw,20.0,Joshua Huisman,Michigan,MICH,FR,18.33m60-1¾,0,False,1,True
+Shot Put,M,throw,21.0,Tucker Smith,Oklahoma,OU,JR,18.26m59-11,0,False,1,True
+Shot Put,M,throw,22.0,Daniel Reynolds,Wyoming,WYO,SR,17.82m58-5¾,0,False,1,True
+Shot Put,M,throw,,Sascha Schmidt,Memphis,MEMP,JR,X,0,False,1,True
+Shot Put,M,throw,,David (Trey) Wilson,Texas Tech,TTU,SO,X,0,False,1,True
+Discus,M,throw,1.0,Ralford Mullings,Oklahoma,OU,JR,69.31m227-4,10,False,1,True
+Discus,M,throw,2.0,Mykolas Alekna,California,CAL,JR,66.77m219-0,8,False,1,True
+Discus,M,throw,3.0,Uladzislau Puchko,Virginia Tech,VT,SO,63.94m209-9,6,False,1,True
+Discus,M,throw,4.0,Racquil Broderick,USC,USC,SO,63.31m207-8,5,False,1,True
+Discus,M,throw,5.0,Michael Pinckney,UCLA,UCLA,JR,61.39m201-5,4,False,1,True
+Discus,M,throw,6.0,Dimitrios Pavlidis,Kansas,KU,SR,61.04m200-3,3,False,1,True
+Discus,M,throw,7.0,Vincent Ugwoke,South Florida,USF,SR,60.58m198-9,2,False,1,True
+Discus,M,throw,8.0,Aron Alvarez Aranda,Tennessee,TENN,SO,59.87m196-5,1,False,1,True
+Discus,M,throw,9.0,Christopher Crawford,Alabama,BAMA,JR,59.08m193-10,0,False,1,True
+Discus,M,throw,10.0,Jacob Lemmon,Florida,UF,SR,59.07m193-9,0,False,1,True
+Discus,M,throw,11.0,Desmond Coleman,Miami (Fla.),MIAF,JR,58.58m192-2,0,False,1,True
+Discus,M,throw,12.0,Youssef Koudssi,Arizona,ARIZ,SR,58.32m191-4,0,False,1,True
+Discus,M,throw,13.0,Casey Helm,Princeton,PRIN,JR,57.79m189-7,0,False,1,True
+Discus,M,throw,14.0,Trevor Gunzell,Alabama,BAMA,JR,57.52m188-8,0,False,1,True
+Discus,M,throw,15.0,Christopher Young,Alabama,BAMA,JR,57.23m187-9,0,False,1,True
+Discus,M,throw,16.0,Maxwell Otterdahl,Nebraska,NEB,SR,57.07m187-3,0,False,1,True
+Discus,M,throw,17.0,Iosif Papa,UMBC,UMBC,JR,56.98m186-11,0,False,1,True
+Discus,M,throw,18.0,Aidan Elbettar,Oregon,UO,SR,56.49m185-4,0,False,1,True
+Discus,M,throw,19.0,Paden Lewis,SE Missouri,SEMO,SR,56.27m184-7,0,False,1,True
+Discus,M,throw,20.0,Texas Tanner,Air Force,AFA,JR,55.76m182-11,0,False,1,True
+Discus,M,throw,21.0,Skylar Coffey,Missouri,MIZZ,SR,55.59m182-4,0,False,1,True
+Discus,M,throw,22.0,Oscar Rodriguez,Texas Tech,TTU,SR,55.20m181-1,0,False,1,True
+Discus,M,throw,23.0,Seth Allen,Auburn,AUB,JR,54.88m180-1,0,False,1,True
+Discus,M,throw,24.0,Tanner Watson,Ohio State,OHST,SR,53.92m176-11,0,False,1,True
+Hammer,M,throw,1.0,Kostas Zaltos,Minnesota,MINN,SR,78.08m256-2,10,False,1,True
+Hammer,M,throw,2.0,Angelos Mantzouranis,Minnesota,MINN,SO,76.96m252-6,8,False,1,True
+Hammer,M,throw,3.0,Tarik Robinson-O'Hagan,Ole Miss,MISS,JR,76.78m251-11,6,False,1,True
+Hammer,M,throw,4.0,Texas Tanner,Air Force,AFA,JR,75.22m246-9,5,False,1,True
+Hammer,M,throw,5.0,Rory Devaney,Cal Poly,POLY,JR,74.16m243-4,4,False,1,True
+Hammer,M,throw,6.0,Ryan Johnson,Iowa,IOWA,SO,71.91m235-11,3,False,1,True
+Hammer,M,throw,7.0,Daniel Reynolds,Wyoming,WYO,SR,69.68m228-7,2,False,1,True
+Hammer,M,throw,8.0,Christian Toro,Duke,DUKE,SO,68.94m226-2,1,False,1,True
+Hammer,M,throw,9.0,Kyle Brown,Auburn,AUB,SR,68.91m226-1,0,False,1,True
+Hammer,M,throw,10.0,Travis Martin,Cal Poly,POLY,SR,68.31m224-1,0,False,1,True
+Hammer,M,throw,11.0,Sean Smith,Iowa,IOWA,JR,67.81m222-5,0,False,1,True
+Hammer,M,throw,12.0,Jake Dalton,Ole Miss,MISS,SR,67.79m222-5,0,False,1,True
+Hammer,M,throw,13.0,Bryson Smith,Ole Miss,MISS,JR,67.79m222-5,0,False,1,True
+Hammer,M,throw,14.0,Kyle Moison,Auburn,AUB,SR,66.84m219-3,0,False,1,True
+Hammer,M,throw,15.0,Keyandre Davis,Virginia,UVA,JR,66.24m217-4,0,False,1,True
+Hammer,M,throw,16.0,Cole Hooper,Wisconsin,WISC,SR,65.98m216-6,0,False,1,True
+Hammer,M,throw,17.0,Igor Olaru,Baylor,BAY,FR,65.96m216-5,0,False,1,True
+Hammer,M,throw,18.0,Alex Bernstein,DePaul,DEP,JR,65.69m215-6,0,False,1,True
+Hammer,M,throw,19.0,Noa Isaia,Arkansas State,ARST,SO,65.08m213-6,0,False,1,True
+Hammer,M,throw,20.0,Orry Willems,Cincinnati,CINC,SR,64.81m212-7,0,False,1,True
+Hammer,M,throw,21.0,Sean Mockler,Indiana,IU,SR,64.07m210-2,0,False,1,True
+Hammer,M,throw,22.0,Mason Hickel,Ole Miss,MISS,JR,63.71m209-0,0,False,1,True
+Hammer,M,throw,23.0,Alex Kristeller,Manhattan,MANH,SR,61.07m200-4,0,False,1,True
+Hammer,M,throw,24.0,Kellen Kimes,Liberty,LIB,SO,60.67m199-0,0,False,1,True
+Javelin,M,throw,1.0,Devoux Deysel,Miami (Fla.),MIAF,SR,81.75m268-2,10,False,1,True
+Javelin,M,throw,2.0,Leikel Cabrera Gay,Florida,UF,SO,79.05m259-4,8,False,1,True
+Javelin,M,throw,3.0,Callan Saldutto,Missouri,MIZZ,SR,76.88m252-3,6,False,1,True
+Javelin,M,throw,4.0,Moustafa Alsherif,Georgia,UGA,SR,76.69m251-7,5,False,1,True
+Javelin,M,throw,5.0,Keyshawn Strachan,Nebraska,NEB,JR,76.44m250-9,4,False,1,True
+Javelin,M,throw,6.0,Mike Stein,Iowa,IOWA,JR,75.77m248-7,3,False,1,True
+Javelin,M,throw,7.0,Arthur Petersen,Nebraska,NEB,SR,75.50m247-8,2,False,1,True
+Javelin,M,throw,8.0,James Kotowski,UMass Lowell,LOWE,SR,75.18m246-8,1,False,1,True
+Javelin,M,throw,9.0,Colin Winkler,Central Connecticut,CCSU,SR,74.97m245-11,0,False,1,True
+Javelin,M,throw,10.0,Remi Rougetet,Miss State,MSST,SR,73.30m240-6,0,False,1,True
+Javelin,M,throw,11.0,Riley Marx,Kansas State,KSST,SO,70.71m232-0,0,False,1,True
+Javelin,M,throw,12.0,Liam Miksic,UC Irvine,UCI,SR,70.13m230-1,0,False,1,True
+Javelin,M,throw,13.0,Ryan Rieckmann,Cincinnati,CINC,SR,69.59m228-3,0,False,1,True
+Javelin,M,throw,14.0,Dash Sirmon,Nebraska,NEB,JR,69.17m226-11,0,False,1,True
+Javelin,M,throw,15.0,Trevor Hook,Northern Arizona,NAU,SR,67.84m222-7,0,False,1,True
+Javelin,M,throw,16.0,Jack Greaves,Rice,RICE,FR,67.38m221-1,0,False,1,True
+Javelin,M,throw,17.0,Tuomas Narhi,Miss State,MSST,FR,65.81m215-11,0,False,1,True
+Javelin,M,throw,18.0,Gabriel Koletsi,Memphis,MEMP,JR,65.59m215-2,0,False,1,True
+Javelin,M,throw,19.0,Jesse Avina,Arizona,ARIZ,SR,65.49m214-10,0,False,1,True
+Javelin,M,throw,20.0,Preston Kuznof,TCU,TCU,FR,64.62m212-0,0,False,1,True
+Javelin,M,throw,21.0,Roddy Schenk,Tennessee,TENN,FR,62.84m206-2,0,False,1,True
+Javelin,M,throw,22.0,Steven Coponi,Rutgers,RUTG,SR,62.82m206-1,0,False,1,True
+Javelin,M,throw,23.0,Kevin Burr,Tennessee,TENN,SO,61.62m202-2,0,False,1,True
+Javelin,M,throw,24.0,Sam Roller,North Dakota State,NDSU,JR,60.58m198-9,0,False,1,True
+Decathlon,M,multi,1.0,Peyton Bair,Miss State,MSST,JR,10.25,10,False,1,True
+Decathlon,M,multi,2.0,Grant Levesque,Houston,UH,SR,10.59,8,False,1,True
+Decathlon,M,multi,3.0,Edgar Campre,Miami (Fla.),MIAF,JR,10.62,6,False,1,True
+Decathlon,M,multi,4.0,Ben Barton,BYU,BYU,JR,10.67,5,False,1,True
+Decathlon,M,multi,5.0,Till Steinforth,Nebraska,NEB,JR,10.72,4,False,1,True
+Decathlon,M,multi,6.0,Ryan Gregory,Long Beach St.,LBST,SO,10.76,3,False,1,True
+Decathlon,M,multi,7.0,Tayton Klein,Kansas,KU,JR,10.84,2,False,1,True
+Decathlon,M,multi,8.0,Joshua Mooney,Connecticut,CONN,SO,10.86,1,False,1,True
+Decathlon,M,multi,9.0,Landon Helms,Boise State,BOIS,JR,10.87,0,False,1,True
+Decathlon,M,multi,10.0,Colby Eddowes,Arkansas State,ARST,JR,10.88,0,False,1,True
+Decathlon,M,multi,11.0,Jaden Roskelley,BYU,BYU,SO,10.89,0,False,1,True
+Decathlon,M,multi,12.0,Paul Kallenberg,Louisville,LOU,JR,10.91,0,False,1,True
+Decathlon,M,multi,13.0,Brad Thomas,UC Santa Barbara,UCSB,SR,10.92,0,False,1,True
+Decathlon,M,multi,14.0,Diarmuid O'Connor,Connecticut,CONN,JR,10.93,0,False,1,True
+Decathlon,M,multi,15.0,Alexander Jung,Kansas,KU,SR,10.94,0,False,1,True
+Decathlon,M,multi,16.0,Brayden Richards,Air Force,AFA,FR,10.95(10.941),0,False,1,True
+Decathlon,M,multi,17.0,Cole Wilson,High Point,HPU,JR,10.95(10.947),0,False,1,True
+Decathlon,M,multi,18.0,Kenneth Byrd,Louisville,LOU,FR,10.97,0,False,1,True
+Decathlon,M,multi,19.0,Emil Uhlin,Kansas State,KSST,JR,11.01,0,False,1,True
+Decathlon,M,multi,20.0,Nick Bianco,Colorado,COLO,SR,11.18,0,False,1,True
+Decathlon,M,multi,21.0,Marcus Weaver,Arkansas,ARK,SR,11.23,0,False,1,True
+Decathlon,M,multi,22.0,Andreas Hantson,Purdue,PURD,SO,11.24,0,False,1,True
+Decathlon,M,multi,23.0,Abraham Vogelsang,Iowa,IOWA,FR,11.39,0,False,1,True
+Decathlon,M,multi,24.0,Maxwell Forte,Duke,DUKE,JR,16.79,0,False,1,True
+100M,W,sprint,1.0,Samirah Moody,USC,USC,SR,11.14(11.136),10,False,2,True
+100M,W,sprint,2.0,JaMeesia Ford,South Carolina,SCAR,SO,11.14(11.139),8,False,2,True
+100M,W,sprint,3.0,Tima Godbless,LSU,LSU,SO,11.19(11.183),6,False,2,True
+100M,W,sprint,4.0,Anthaya Charlton,Florida,UF,JR,11.19(11.189),5,False,2,True
+100M,W,sprint,5.0,Leah Bertrand,Ohio State,OHST,SR,11.21,4,False,2,True
+100M,W,sprint,6.0,Shenese Walker,Florida State,FSU,JR,11.23(11.221),3,False,2,True
+100M,W,sprint,7.0,Dajaz Defrand,USC,USC,JR,11.23(11.224),2,False,2,True
+100M,W,sprint,8.0,Brianna Selby,USC,USC,FR,11.25,1,False,2,True
+100M,W,sprint,9.0,Victoria Cameron,Tarleton State,TARL,SO,11.30,0,False,2,True
+100M,W,sprint,1.0,JaMeesia Ford,South Carolina,SCAR,SO,10.87(10.864),0,False,1,False
+100M,W,sprint,2.0,Anthaya Charlton,Florida,UF,JR,10.87(10.866),0,False,1,False
+100M,W,sprint,3.0,Leah Bertrand,Ohio State,OHST,SR,10.91(10.909),0,False,1,False
+100M,W,sprint,4.0,Tima Godbless,LSU,LSU,SO,10.91(10.910),0,False,1,False
+100M,W,sprint,5.0,Samirah Moody,USC,USC,SR,10.93(10.922),0,False,1,False
+100M,W,sprint,6.0,Dajaz Defrand,USC,USC,JR,10.93(10.924),0,False,1,False
+100M,W,sprint,7.0,Brianna Selby,USC,USC,FR,11.01,0,False,1,False
+100M,W,sprint,8.0,Shenese Walker,Florida State,FSU,JR,11.06(11.057),0,False,1,False
+100M,W,sprint,9.0,Victoria Cameron,Tarleton State,TARL,SO,11.06(11.060),0,False,1,False
+100M,W,sprint,10.0,Jasmine Montgomery,Texas A&M,TAMU,JR,11.07,0,False,1,False
+100M,W,sprint,11.0,Alicia Burnett,Missouri,MIZZ,SR,11.11,0,False,1,False
+100M,W,sprint,12.0,Kaila Jackson,Georgia,UGA,JR,11.15,0,False,1,False
+100M,W,sprint,13.0,Iyana Gray,TCU,TCU,SR,11.20(11.195),0,False,1,False
+100M,W,sprint,14.0,Camryn Dickson,Texas A&M,TAMU,JR,11.20(11.200),0,False,1,False
+100M,W,sprint,15.0,Jassani Carter,USC,USC,JR,11.22,0,False,1,False
+100M,W,sprint,16.0,Indya Mayberry,TCU,TCU,FR,11.24,0,False,1,False
+100M,W,sprint,17.0,London Tucker,TCU,TCU,FR,11.26,0,False,1,False
+100M,W,sprint,18.0,Kailei Collins,Howard,HOW,SR,11.28,0,False,1,False
+100M,W,sprint,19.0,Reign Redmond,Georgia,UGA,FR,11.30,0,False,1,False
+100M,W,sprint,20.0,Aniyah Kitt,Clemson,CLEM,FR,11.31,0,False,1,False
+100M,W,sprint,21.0,Cynteria James,South Carolina,SCAR,SO,11.39,0,False,1,False
+100M,W,sprint,22.0,Kelly Ufodiama,East Carolina,ECU,FR,11.41,0,False,1,False
+100M,W,sprint,23.0,Jade Brown,Arizona,ARIZ,SO,11.43(11.424),0,False,1,False
+100M,W,sprint,24.0,Joella Lloyd,Florida State,FSU,SR,11.43(11.427),0,False,1,False
+200M,W,sprint,1.0,JaMeesia Ford,South Carolina,SCAR,SO,22.21,10,False,2,True
+200M,W,sprint,2.0,Madison Whyte,USC,USC,SO,22.23,8,False,2,True
+200M,W,sprint,3.0,Dajaz Defrand,USC,USC,JR,22.39,6,False,2,True
+200M,W,sprint,4.0,Leah Bertrand,Ohio State,OHST,SR,22.60,5,False,2,True
+200M,W,sprint,5.0,Jasmine Montgomery,Texas A&M,TAMU,JR,22.61,4,False,2,True
+200M,W,sprint,6.0,Kenondra Davis,Texas,TEX,JR,22.66,3,False,2,True
+200M,W,sprint,7.0,Jayla Jamison,South Carolina,SCAR,SR,22.77,2,False,2,True
+200M,W,sprint,8.0,Gabrielle Matthews,Florida,UF,JR,22.84,1,False,2,True
+200M,W,sprint,9.0,Samirah Moody,USC,USC,SR,22.86,0,False,2,True
+200M,W,sprint,1.0,JaMeesia Ford,South Carolina,SCAR,SO,21.98,0,False,1,False
+200M,W,sprint,2.0,Dajaz Defrand,USC,USC,JR,22.20,0,False,1,False
+200M,W,sprint,3.0,Jasmine Montgomery,Texas A&M,TAMU,JR,22.36,0,False,1,False
+200M,W,sprint,4.0,Madison Whyte,USC,USC,SO,22.44,0,False,1,False
+200M,W,sprint,5.0,Kenondra Davis,Texas,TEX,JR,22.45,0,False,1,False
+200M,W,sprint,6.0,Leah Bertrand,Ohio State,OHST,SR,22.54(22.534),0,False,1,False
+200M,W,sprint,7.0,Jayla Jamison,South Carolina,SCAR,SR,22.54(22.540),0,False,1,False
+200M,W,sprint,8.0,Samirah Moody,USC,USC,SR,22.55,0,False,1,False
+200M,W,sprint,9.0,Gabrielle Matthews,Florida,UF,JR,22.59(22.584),0,False,1,False
+200M,W,sprint,10.0,Tima Godbless,LSU,LSU,SO,22.59(22.588),0,False,1,False
+200M,W,sprint,11.0,Kelly Ufodiama,East Carolina,ECU,FR,22.61,0,False,1,False
+200M,W,sprint,12.0,Tiriah Kelley,Baylor,BAY,JR,22.72,0,False,1,False
+200M,W,sprint,13.0,Indya Mayberry,TCU,TCU,FR,22.76,0,False,1,False
+200M,W,sprint,14.0,Camryn Dickson,Texas A&M,TAMU,JR,22.79,0,False,1,False
+200M,W,sprint,15.0,Iaunia Pointer,Syracuse,SYR,SR,22.89(22.885),0,False,1,False
+200M,W,sprint,16.0,Jassani Carter,USC,USC,JR,22.89(22.889),0,False,1,False
+200M,W,sprint,17.0,Fatouma Conde,Ohio State,OHST,JR,22.91(22.907),0,False,1,False
+200M,W,sprint,18.0,Taylor Snaer,UCLA,UCLA,SO,22.91(22.909),0,False,1,False
+200M,W,sprint,19.0,Aniyah Bigam,LSU,LSU,SO,23.06(23.052),0,False,1,False
+200M,W,sprint,20.0,Precious Nzeakor,Alabama,BAMA,FR,23.06(23.055),0,False,1,False
+200M,W,sprint,21.0,Holly Okuku,Texas,TEX,FR,23.11,0,False,1,False
+200M,W,sprint,22.0,Naomi Johnson,UCLA,UCLA,JR,23.17,0,False,1,False
+200M,W,sprint,23.0,Kya Epps,Cincinnati,CINC,JR,23.23,0,False,1,False
+200M,W,sprint,24.0,Cynteria James,South Carolina,SCAR,SO,23.26,0,False,1,False
+400M,W,sprint,1.0,Aaliyah Butler,Georgia,UGA,JR,49.26,10,False,2,True
+400M,W,sprint,2.0,Dejanea Oakley,Georgia,UGA,JR,49.65,8,False,2,True
+400M,W,sprint,3.0,Rosey Effiong,Arkansas,ARK,SR,50.51,6,False,2,True
+400M,W,sprint,4.0,Ella Onojuvwevwo,LSU,LSU,JR,50.57,5,False,2,True
+400M,W,sprint,5.0,Kaylyn Brown,Arkansas,ARK,SO,51.30,4,False,2,True
+400M,W,sprint,6.0,Rachel Joseph,Iowa State,IAST,JR,51.36,3,False,2,True
+400M,W,sprint,7.0,Sami Oblad,BYU,BYU,SR,51.57,2,False,2,True
+400M,W,sprint,8.0,Kaelyaah Liburd,Florida State,FSU,SO,51.69,1,False,2,True
+400M,W,sprint,9.0,Vimbayi Maisvorewa,Auburn,AUB,SR,51.84,0,False,2,True
+400M,W,sprint,1.0,Aaliyah Butler,Georgia,UGA,JR,50.16,0,False,1,False
+400M,W,sprint,2.0,Dejanea Oakley,Georgia,UGA,JR,50.18,0,False,1,False
+400M,W,sprint,3.0,Ella Onojuvwevwo,LSU,LSU,JR,50.31,0,False,1,False
+400M,W,sprint,4.0,Rosey Effiong,Arkansas,ARK,SR,50.49,0,False,1,False
+400M,W,sprint,5.0,Rachel Joseph,Iowa State,IAST,JR,50.77,0,False,1,False
+400M,W,sprint,6.0,Kaylyn Brown,Arkansas,ARK,SO,50.91,0,False,1,False
+400M,W,sprint,7.0,Vimbayi Maisvorewa,Auburn,AUB,SR,51.19,0,False,1,False
+400M,W,sprint,8.0,Sami Oblad,BYU,BYU,SR,51.20,0,False,1,False
+400M,W,sprint,9.0,Kaelyaah Liburd,Florida State,FSU,SO,51.35,0,False,1,False
+400M,W,sprint,10.0,Zaya Akins,South Carolina,SCAR,SO,51.40(51.393),0,False,1,False
+400M,W,sprint,11.0,Shaquena Foote,San Diego St.,SDSU,JR,51.40(51.399),0,False,1,False
+400M,W,sprint,12.0,Yemi John,USC,USC,JR,51.41,0,False,1,False
+400M,W,sprint,13.0,Javonya Valcourt,Tennessee,TENN,JR,51.65,0,False,1,False
+400M,W,sprint,14.0,Maygan Shaw,Northwestern St.,NWST,SR,51.80,0,False,1,False
+400M,W,sprint,15.0,Jaydan Wood,Texas A&M,TAMU,SR,52.23,0,False,1,False
+400M,W,sprint,16.0,Onyah Onyinye Favour,SE Louisiana,SELA,SO,52.39,0,False,1,False
+400M,W,sprint,17.0,Caitlyn Bobb,Virginia Tech,VT,SR,52.42,0,False,1,False
+400M,W,sprint,18.0,Davenae Fagan,Cincinnati,CINC,SO,52.51,0,False,1,False
+400M,W,sprint,19.0,Aaliyah Pyatt,Arkansas,ARK,SR,52.66,0,False,1,False
+400M,W,sprint,20.0,Sara Reifenrath,South Dakota,SDAK,SR,52.72,0,False,1,False
+400M,W,sprint,21.0,Sanaria Butler,Arkansas,ARK,JR,52.78,0,False,1,False
+400M,W,sprint,22.0,Damaris Mutunga,Iowa,IOWA,FR,52.89,0,False,1,False
+400M,W,sprint,23.0,Charlee Crawford,Rutgers,RUTG,SR,53.09,0,False,1,False
+400M,W,sprint,24.0,Joanne Reid,Arkansas,ARK,SR,53.11,0,False,1,False
+800M,W,mid_distance,1.0,Roisin Willis,Stanford,STAN,JR,1:58.13,10,False,2,True
+800M,W,mid_distance,2.0,Makayla Paige,North Carolina,UNC,JR,1:58.97,8,False,2,True
+800M,W,mid_distance,3.0,Meghan Hunter,BYU,BYU,SR,1:59.03,6,False,2,True
+800M,W,mid_distance,4.0,Michaela Rose,LSU,LSU,SR,1:59.47,5,False,2,True
+800M,W,mid_distance,5.0,Lauren Tolbert,Duke,DUKE,JR,1:59.88,4,False,2,True
+800M,W,mid_distance,6.0,Smilla Kolbe,North Florida,UNF,SR,2:00.37,3,False,2,True
+800M,W,mid_distance,7.0,Laura Pellicoro,Portland,PORT,SR,2:00.84,2,False,2,True
+800M,W,mid_distance,8.0,Veronica Hargrave,Indiana,IU,FR,2:01.00,1,False,2,True
+800M,W,mid_distance,9.0,Victoria Bossong,Harvard,HARV,SR,2:03.86,0,False,2,True
+800M,W,mid_distance,1.0,Michaela Rose,LSU,LSU,SR,1:58.95,0,False,1,False
+800M,W,mid_distance,2.0,Lauren Tolbert,Duke,DUKE,JR,1:59.39,0,False,1,False
+800M,W,mid_distance,3.0,Makayla Paige,North Carolina,UNC,JR,1:59.92,0,False,1,False
+800M,W,mid_distance,4.0,Meghan Hunter,BYU,BYU,SR,1:59.96,0,False,1,False
+800M,W,mid_distance,5.0,Roisin Willis,Stanford,STAN,JR,2:00.33,0,False,1,False
+800M,W,mid_distance,6.0,Smilla Kolbe,North Florida,UNF,SR,2:00.70,0,False,1,False
+800M,W,mid_distance,7.0,Laura Pellicoro,Portland,PORT,SR,2:01.07(2:01.061),0,False,1,False
+800M,W,mid_distance,8.0,Victoria Bossong,Harvard,HARV,SR,2:01.07(2:01.063),0,False,1,False
+800M,W,mid_distance,9.0,Veronica Hargrave,Indiana,IU,FR,2:01.54,0,False,1,False
+800M,W,mid_distance,10.0,Janet Jepkemboi Amimo,Kentucky,UK,FR,2:02.10,0,False,1,False
+800M,W,mid_distance,11.0,Fanny Arendt,Texas Tech,TTU,JR,2:03.13,0,False,1,False
+800M,W,mid_distance,12.0,Sophia Gorriaran,Harvard,HARV,SO,2:03.42,0,False,1,False
+800M,W,mid_distance,13.0,Maeve O'Neill,Providence,PROV,SO,2:03.43,0,False,1,False
+800M,W,mid_distance,14.0,Gladys Chepngetich,Clemson,CLEM,SO,2:03.53,0,False,1,False
+800M,W,mid_distance,15.0,Alli Bookin-Nosbisch,Iowa,IOWA,SR,2:03.78,0,False,1,False
+800M,W,mid_distance,16.0,Aaliyah Moore,Kansas,KU,SR,2:04.18,0,False,1,False
+800M,W,mid_distance,17.0,Emma Kelley,Wisconsin,WISC,SR,2:04.40,0,False,1,False
+800M,W,mid_distance,18.0,Marie Warneke,UCLA,UCLA,FR,2:04.59,0,False,1,False
+800M,W,mid_distance,19.0,Emma Sullivan,Kennesaw State,KENN,SR,2:05.71,0,False,1,False
+800M,W,mid_distance,20.0,Jenna Schwinghamer,Kentucky,UK,SR,2:05.73,0,False,1,False
+800M,W,mid_distance,21.0,Tessa Buswell,BYU,BYU,FR,2:05.94,0,False,1,False
+800M,W,mid_distance,22.0,Kaylie Politza,Oklahoma State,OKST,JR,2:06.87,0,False,1,False
+800M,W,mid_distance,23.0,Makayla Clark,Iowa State,IAST,JR,2:28.86,0,False,1,False
+800M,W,mid_distance,,Sanu Jallow,Arkansas,ARK,JR,DQR: 15.5-2d ⓘ,0,False,1,False
+1500M,W,mid_distance,1.0,Sophie O'Sullivan,Washington,WASH,SR,4:07.94,10,False,2,True
+1500M,W,mid_distance,2.0,Margot Appleton,Virginia,UVA,SR,4:08.99,8,False,2,True
+1500M,W,mid_distance,3.0,Maggi Congdon,Northern Arizona,NAU,SR,4:09.31,6,False,2,True
+1500M,W,mid_distance,4.0,Silan Ayyildiz,Oregon,UO,JR,4:09.75,5,False,2,True
+1500M,W,mid_distance,5.0,Klaudia Kazimierska,Oregon,UO,SR,4:10.42,4,False,2,True
+1500M,W,mid_distance,6.0,Kimberley May,Providence,PROV,SR,4:10.79(4:10.781),3,False,2,True
+1500M,W,mid_distance,7.0,Lindsey Butler,Virginia Tech,VT,SR,4:10.79(4:10.786),2,False,2,True
+1500M,W,mid_distance,8.0,Chloe Foerster,Washington,WASH,JR,4:11.03,1,False,2,True
+1500M,W,mid_distance,9.0,Mena Scatchard,Princeton,PRIN,SR,4:11.04,0,False,2,True
+1500M,W,mid_distance,10.0,Salma Elbadra,South Carolina,SCAR,SO,4:11.20,0,False,2,True
+1500M,W,mid_distance,11.0,Vera Sjoberg,Boston U.,BOSU,JR,4:12.52,0,False,2,True
+1500M,W,mid_distance,12.0,Mia Barnett,Oregon,UO,SR,4:13.43,0,False,2,True
+1500M,W,mid_distance,1.0,Sophie O'Sullivan,Washington,WASH,SR,4:09.39,0,False,1,False
+1500M,W,mid_distance,2.0,Mia Barnett,Oregon,UO,SR,4:09.61,0,False,1,False
+1500M,W,mid_distance,3.0,Klaudia Kazimierska,Oregon,UO,SR,4:09.94,0,False,1,False
+1500M,W,mid_distance,4.0,Lindsey Butler,Virginia Tech,VT,SR,4:10.16,0,False,1,False
+1500M,W,mid_distance,5.0,Mena Scatchard,Princeton,PRIN,SR,4:10.23,0,False,1,False
+1500M,W,mid_distance,6.0,Vera Sjoberg,Boston U.,BOSU,JR,4:10.59,0,False,1,False
+1500M,W,mid_distance,7.0,Chloe Foerster,Washington,WASH,JR,4:10.62,0,False,1,False
+1500M,W,mid_distance,8.0,Maggi Congdon,Northern Arizona,NAU,SR,4:11.04,0,False,1,False
+1500M,W,mid_distance,9.0,Margot Appleton,Virginia,UVA,SR,4:11.64,0,False,1,False
+1500M,W,mid_distance,10.0,Silan Ayyildiz,Oregon,UO,JR,4:11.65,0,False,1,False
+1500M,W,mid_distance,11.0,Silvia Jelelgo,Clemson,CLEM,SO,4:11.66,0,False,1,False
+1500M,W,mid_distance,12.0,Salma Elbadra,South Carolina,SCAR,SO,4:11.67,0,False,1,False
+1500M,W,mid_distance,13.0,Kimberley May,Providence,PROV,SR,4:12.07,0,False,1,False
+1500M,W,mid_distance,14.0,Riley Chamberlain,BYU,BYU,JR,4:12.28,0,False,1,False
+1500M,W,mid_distance,15.0,Carlee Hansen,BYU,BYU,JR,4:12.35,0,False,1,False
+1500M,W,mid_distance,16.0,Amina Maatoug,Washington,WASH,SR,4:12.71,0,False,1,False
+1500M,W,mid_distance,17.0,Bahiya El Arfaoui,Eastern Kentucky,EKU,SO,4:12.87,0,False,1,False
+1500M,W,mid_distance,18.0,Judy Rono,New Mexico,UNM,FR,4:13.35,0,False,1,False
+1500M,W,mid_distance,19.0,Charlotte Tomkinson,Georgetown,GTWN,JR,4:14.03,0,False,1,False
+1500M,W,mid_distance,20.0,Shannon Flockhart,Providence,PROV,SR,4:14.77,0,False,1,False
+1500M,W,mid_distance,21.0,Taryn Parks,North Carolina,UNC,SR,4:15.19,0,False,1,False
+1500M,W,mid_distance,22.0,Kaiya Robertson,Boise State,BOIS,JR,4:15.31,0,False,1,False
+1500M,W,mid_distance,23.0,Allie Zealand,Liberty,LIB,FR,4:15.88,0,False,1,False
+1500M,W,mid_distance,24.0,Berlyn Schutz,Nebraska,NEB,SO,4:16.15,0,False,1,False
+3000SC,W,distance,1.0,Doris Lemngole,Alabama,BAMA,SO,8:58.15,10,False,2,True
+3000SC,W,distance,2.0,Lexy Halladay-Lowry,BYU,BYU,SR,9:08.68,8,False,2,True
+3000SC,W,distance,3.0,Angelina Napoleon,NC State,NCSU,SO,9:16.66,6,False,2,True
+3000SC,W,distance,4.0,Sarah Tait,West Virginia,WVU,SR,9:27.80,5,False,2,True
+3000SC,W,distance,5.0,Debora Cherono,Texas A&M,TAMU,FR,9:32.10,4,False,2,True
+3000SC,W,distance,6.0,Katelyn Stewart-Barnett,Michigan State,MIST,SR,9:33.21,3,False,2,True
+3000SC,W,distance,7.0,Shelby Jensen,Utah State,UTST,SO,9:36.61,2,False,2,True
+3000SC,W,distance,8.0,Leah Jeruto,Oklahoma,OU,FR,9:38.94,1,False,2,True
+3000SC,W,distance,9.0,Taylor Lovell,BYU,BYU,SO,9:39.43,0,False,2,True
+3000SC,W,distance,10.0,Maggie Liebich,Washington,WASH,SR,9:50.77,0,False,2,True
+3000SC,W,distance,11.0,Emily Paupore,Central Michigan,CMU,SR,9:54.94,0,False,2,True
+3000SC,W,distance,12.0,Karrie Baloga,Northern Arizona,NAU,SO,9:57.43,0,False,2,True
+3000SC,W,distance,1.0,Doris Lemngole,Alabama,BAMA,SO,9:26.44,0,False,1,False
+3000SC,W,distance,2.0,Angelina Napoleon,NC State,NCSU,SO,9:36.19,0,False,1,False
+3000SC,W,distance,3.0,Lexy Halladay-Lowry,BYU,BYU,SR,9:36.24,0,False,1,False
+3000SC,W,distance,4.0,Debora Cherono,Texas A&M,TAMU,FR,9:36.95,0,False,1,False
+3000SC,W,distance,5.0,Sarah Tait,West Virginia,WVU,SR,9:37.06,0,False,1,False
+3000SC,W,distance,6.0,Maggie Liebich,Washington,WASH,SR,9:37.40,0,False,1,False
+3000SC,W,distance,7.0,Katelyn Stewart-Barnett,Michigan State,MIST,SR,9:37.81,0,False,1,False
+3000SC,W,distance,8.0,Karrie Baloga,Northern Arizona,NAU,SO,9:37.93,0,False,1,False
+3000SC,W,distance,9.0,Taylor Lovell,BYU,BYU,SO,9:37.97,0,False,1,False
+3000SC,W,distance,10.0,Shelby Jensen,Utah State,UTST,SO,9:38.01,0,False,1,False
+3000SC,W,distance,11.0,Leah Jeruto,Oklahoma,OU,FR,9:39.54,0,False,1,False
+3000SC,W,distance,12.0,Emily Paupore,Central Michigan,CMU,SR,9:43.24,0,False,1,False
+3000SC,W,distance,13.0,Ebba Cronholm,Kansas,KU,FR,9:46.53,0,False,1,False
+3000SC,W,distance,14.0,Sydney Masciarelli,North Carolina,UNC,JR,9:52.08,0,False,1,False
+3000SC,W,distance,15.0,Kennady Fontenot,Texas A&M,TAMU,SO,9:52.75,0,False,1,False
+3000SC,W,distance,16.0,Hanna Ackermann,Boise State,BOIS,SO,9:54.21,0,False,1,False
+3000SC,W,distance,17.0,Brooke Mullins,Florida State,FSU,SR,9:56.80,0,False,1,False
+3000SC,W,distance,18.0,Katja Pattis,Idaho,IDHO,SR,9:57.34,0,False,1,False
+3000SC,W,distance,19.0,Molly Malague,Harvard,HARV,JR,10:03.54,0,False,1,False
+3000SC,W,distance,20.0,Gwenno Goode,La Salle,LASA,SO,10:04.19,0,False,1,False
+3000SC,W,distance,21.0,Sophia McDonnell,New Mexico,UNM,SR,10:04.39,0,False,1,False
+3000SC,W,distance,22.0,Nelly Jemeli,Miss State,MSST,FR,10:04.95,0,False,1,False
+3000SC,W,distance,23.0,Madaline Ullom,Penn State,PSU,SR,10:08.96,0,False,1,False
+3000SC,W,distance,24.0,Layla Roebke,Louisville,LOU,SR,10:14.24,0,False,1,False
+5000M,W,distance,1.0,Pamela Kosgei,New Mexico,UNM,FR,15:33.96,10,False,1,True
+5000M,W,distance,2.0,Vera Sjoberg,Boston U.,BOSU,JR,15:34.77,8,False,1,True
+5000M,W,distance,3.0,Sophia Kennedy,Stanford,STAN,SO,15:35.08,6,False,1,True
+5000M,W,distance,4.0,Marion Jepngetich,New Mexico,UNM,FR,15:35.14,5,False,1,True
+5000M,W,distance,5.0,Grace Hartman,NC State,NCSU,JR,15:35.39,4,False,1,True
+5000M,W,distance,6.0,Paityn Noe,Arkansas,ARK,SO,15:35.81,3,False,1,True
+5000M,W,distance,7.0,Agnes McTighe,Northern Arizona,NAU,JR,15:35.87,2,False,1,True
+5000M,W,distance,8.0,Amina Maatoug,Washington,WASH,SR,15:35.93,1,False,1,True
+5000M,W,distance,9.0,Silvia Jelelgo,Clemson,CLEM,SO,15:36.34,0,False,1,True
+5000M,W,distance,10.0,Alex Millard,Providence,PROV,JR,15:37.22,0,False,1,True
+5000M,W,distance,11.0,Jenna Hutchins,BYU,BYU,JR,15:40.87,0,False,1,True
+5000M,W,distance,12.0,Maelle Porcher,Iowa State,IAST,JR,15:41.76,0,False,1,True
+5000M,W,distance,13.0,Margot Appleton,Virginia,UVA,SR,15:44.76,0,False,1,True
+5000M,W,distance,14.0,Chloe Scrimgeour,Georgetown,GTWN,SR,15:46.18,0,False,1,True
+5000M,W,distance,15.0,Isca Chelangat,Oklahoma State,OKST,FR,15:48.66,0,False,1,True
+5000M,W,distance,16.0,Florence Caron,Penn State,PSU,JR,15:49.72,0,False,1,True
+5000M,W,distance,17.0,Zofia Dudek,Stanford,STAN,JR,15:53.91,0,False,1,True
+5000M,W,distance,18.0,Rachel Forsyth,Michigan State,MIST,FR,15:57.28,0,False,1,True
+5000M,W,distance,19.0,Julia David-Smith,Washington,WASH,JR,15:59.27,0,False,1,True
+5000M,W,distance,20.0,Samantha Bush,NC State,NCSU,SR,16:01.47,0,False,1,True
+5000M,W,distance,21.0,Brenda Jepchirchir,Auburn,AUB,FR,16:01.99,0,False,1,True
+5000M,W,distance,22.0,Ava Mitchell,Northern Arizona,NAU,SO,16:06.32,0,False,1,True
+5000M,W,distance,23.0,Sadie Sigfstead,Villanova,NOVA,JR,16:06.70,0,False,1,True
+5000M,W,distance,24.0,Edna Chelulei,Eastern Kentucky,EKU,FR,16:24.97,0,False,1,True
+10000M,W,distance,1.0,Pamela Kosgei,New Mexico,UNM,FR,31:17.82,10,False,1,True
+10000M,W,distance,2.0,Grace Hartman,NC State,NCSU,JR,31:32.15,8,False,1,True
+10000M,W,distance,3.0,Joy Naukot,West Virginia,WVU,FR,31:34.34,6,False,1,True
+10000M,W,distance,4.0,Paityn Noe,Arkansas,ARK,SO,31:36.91,5,False,1,True
+10000M,W,distance,5.0,Chloe Scrimgeour,Georgetown,GTWN,SR,31:41.68,4,False,1,True
+10000M,W,distance,6.0,Edna Chepkemoi,LSU,LSU,FR,32:10.75,3,False,1,True
+10000M,W,distance,7.0,Rosina Machu,Gonzaga,GONZ,JR,32:15.49,2,False,1,True
+10000M,W,distance,8.0,Brenda Tuwei,Alabama,BAMA,JR,32:20.14,1,False,1,True
+10000M,W,distance,9.0,Ruth White,New Hampshire,UNH,FR,32:20.60,0,False,1,True
+10000M,W,distance,10.0,Sydney Thorvaldson,Arkansas,ARK,SR,32:21.37,0,False,1,True
+10000M,W,distance,11.0,Florence Caron,Penn State,PSU,JR,32:23.71,0,False,1,True
+10000M,W,distance,12.0,Edna Chelulei,Eastern Kentucky,EKU,FR,32:23.94,0,False,1,True
+10000M,W,distance,13.0,Sadie Sigfstead,Villanova,NOVA,JR,32:40.13,0,False,1,True
+10000M,W,distance,14.0,Brenda Jepchirchir,Auburn,AUB,FR,32:41.66,0,False,1,True
+10000M,W,distance,15.0,Ali Weimer,Minnesota,MINN,SO,32:42.31,0,False,1,True
+10000M,W,distance,16.0,Jadyn Keeler,North Dakota,UND,JR,32:59.12,0,False,1,True
+10000M,W,distance,17.0,Jenny Schilling,Virginia,UVA,SR,33:07.58,0,False,1,True
+10000M,W,distance,18.0,Ruth Kimeli,Baylor,BAY,SO,33:10.62,0,False,1,True
+10000M,W,distance,19.0,Morgan Jensen,Utah,UTAH,SR,33:11.05,0,False,1,True
+10000M,W,distance,20.0,Mckaylie Caesar,Utah,UTAH,SR,33:34.36,0,False,1,True
+10000M,W,distance,21.0,Logan Hofstee,Gonzaga,GONZ,FR,34:01.59,0,False,1,True
+10000M,W,distance,22.0,Josphine Mwaura,Oklahoma State,OKST,SO,35:09.22,0,False,1,True
+10000M,W,distance,,Diana Cherotich,Oregon,UO,FR,DNF,0,False,1,True
+10000M,W,distance,,Hilda Olemomoi,Florida,UF,JR,DNS,0,False,1,True
+100MH,W,sprint,1.0,Aaliyah McCormick,Oregon,UO,JR,12.81,10,False,2,True
+100MH,W,sprint,2.0,Jaiya Covington,Texas A&M,TAMU,JR,12.93(12.928),8,False,2,True
+100MH,W,sprint,3.0,Marcia Sey,Howard,HOW,JR,12.93(12.930),6,False,2,True
+100MH,W,sprint,4.0,Ana-Liese Torian,Auburn,AUB,SO,12.95,5,False,2,True
+100MH,W,sprint,5.0,Oneka Wilson,Clemson,CLEM,JR,13.02,4,False,2,True
+100MH,W,sprint,6.0,Janela Spencer,Ohio State,OHST,JR,13.25,3,False,2,True
+100MH,W,sprint,,Yanla Ndjip-Nyemeck,UCLA,UCLA,SR,DNF,0,False,2,True
+100MH,W,sprint,,Akala Garrett,Texas,TEX,SO,DQR: 15.6-2d ⓘ,0,False,2,True
+100MH,W,sprint,,Habiba Harris,Florida,UF,FR,DNS,0,False,2,True
+100MH,W,sprint,1.0,Yanla Ndjip-Nyemeck,UCLA,UCLA,SR,12.71,0,False,1,False
+100MH,W,sprint,2.0,Aaliyah McCormick,Oregon,UO,JR,12.76,0,False,1,False
+100MH,W,sprint,3.0,Habiba Harris,Florida,UF,FR,12.84,0,False,1,False
+100MH,W,sprint,4.0,Jaiya Covington,Texas A&M,TAMU,JR,12.87,0,False,1,False
+100MH,W,sprint,5.0,Ana-Liese Torian,Auburn,AUB,SO,12.88(12.877),0,False,1,False
+100MH,W,sprint,6.0,Marcia Sey,Howard,HOW,JR,12.88(12.879),0,False,1,False
+100MH,W,sprint,7.0,Akala Garrett,Texas,TEX,SO,12.93,0,False,1,False
+100MH,W,sprint,8.0,Oneka Wilson,Clemson,CLEM,JR,12.95(12.944),0,False,1,False
+100MH,W,sprint,9.0,Janela Spencer,Ohio State,OHST,JR,12.95(12.947),0,False,1,False
+100MH,W,sprint,10.0,Marissa Simpson,UTEP,UTEP,SR,12.97,0,False,1,False
+100MH,W,sprint,11.0,Emmi Scales,Kentucky,UK,SO,13.01,0,False,1,False
+100MH,W,sprint,12.0,Adaobi Tabugbo,UCF,UCF,SR,13.08,0,False,1,False
+100MH,W,sprint,13.0,Rachel Mehringer,Indiana State,INST,SO,13.15,0,False,1,False
+100MH,W,sprint,14.0,Destiny Smith,Texas Tech,TTU,SR,13.18,0,False,1,False
+100MH,W,sprint,15.0,Sky Hagan,San Jose St.,SJSU,JR,13.21,0,False,1,False
+100MH,W,sprint,16.0,Celeste Polzonetti,UCLA,UCLA,FR,13.22,0,False,1,False
+100MH,W,sprint,17.0,Camden Bentley,Kentucky,UK,SO,13.32,0,False,1,False
+100MH,W,sprint,18.0,Tonie-Ann Forbes,Texas Tech,TTU,SO,13.37,0,False,1,False
+100MH,W,sprint,19.0,Kiara Smith,Tennessee,TENN,SR,13.45,0,False,1,False
+100MH,W,sprint,20.0,Falon Spearman,Vanderbilt,VAND,JR,13.46,0,False,1,False
+100MH,W,sprint,21.0,Shania Myers,Arkansas,ARK,FR,13.52,0,False,1,False
+100MH,W,sprint,22.0,Amari Kiluvia,TCU,TCU,SO,13.58,0,False,1,False
+100MH,W,sprint,23.0,Simone Ballard,Arkansas,ARK,SO,15.50,0,False,1,False
+100MH,W,sprint,,Myreanna Bebe,Tennessee,TENN,SR,DQR: 15.6-2b ⓘ,0,False,1,False
+400MH,W,sprint,1.0,Savannah Sutherland,Michigan,MICH,SR,52.46,10,False,2,True
+400MH,W,sprint,2.0,Akala Garrett,Texas,TEX,SO,54.66,8,False,2,True
+400MH,W,sprint,3.0,Michelle Smith,Georgia,UGA,FR,55.20,6,False,2,True
+400MH,W,sprint,4.0,Sanaa Hebron,Miami (Fla.),MIAF,SO,55.46,5,False,2,True
+400MH,W,sprint,5.0,Tyra Wilson,Florida State,FSU,SR,55.57,4,False,2,True
+400MH,W,sprint,6.0,Chloe Fair,Harvard,HARV,JR,55.81,3,False,2,True
+400MH,W,sprint,7.0,Amelliah Birdow,TCU,TCU,SO,55.84,2,False,2,True
+400MH,W,sprint,8.0,Allyria McBride,Vanderbilt,VAND,JR,56.20,1,False,2,True
+400MH,W,sprint,9.0,Braelyn Baker,Duke,DUKE,FR,56.54,0,False,2,True
+400MH,W,sprint,1.0,Savannah Sutherland,Michigan,MICH,SR,54.13,0,False,1,False
+400MH,W,sprint,2.0,Akala Garrett,Texas,TEX,SO,55.07,0,False,1,False
+400MH,W,sprint,3.0,Michelle Smith,Georgia,UGA,FR,55.65,0,False,1,False
+400MH,W,sprint,4.0,Sanaa Hebron,Miami (Fla.),MIAF,SO,55.73,0,False,1,False
+400MH,W,sprint,5.0,Chloe Fair,Harvard,HARV,JR,55.91,0,False,1,False
+400MH,W,sprint,6.0,Allyria McBride,Vanderbilt,VAND,JR,56.26,0,False,1,False
+400MH,W,sprint,7.0,Braelyn Baker,Duke,DUKE,FR,56.35,0,False,1,False
+400MH,W,sprint,8.0,Tyra Wilson,Florida State,FSU,SR,56.39,0,False,1,False
+400MH,W,sprint,9.0,Amelliah Birdow,TCU,TCU,SO,56.44(56.432),0,False,1,False
+400MH,W,sprint,10.0,Aniya Woodruff,Howard,HOW,JR,56.44(56.437),0,False,1,False
+400MH,W,sprint,11.0,Jessicka Woods,Miss State,MSST,JR,56.72,0,False,1,False
+400MH,W,sprint,12.0,Natalie Block,Milwaukee,MILW,JR,56.92,0,False,1,False
+400MH,W,sprint,13.0,Safhia Hinds,Kansas State,KSST,JR,57.18,0,False,1,False
+400MH,W,sprint,14.0,Aliya Garozzo,Duke,DUKE,SR,57.37,0,False,1,False
+400MH,W,sprint,15.0,Yasmeen Tinsley,Monmouth,MONM,SR,57.53,0,False,1,False
+400MH,W,sprint,16.0,Macaela Walker,Cincinnati,CINC,FR,57.75,0,False,1,False
+400MH,W,sprint,17.0,Mackenzie Collins,Texas,TEX,FR,58.07,0,False,1,False
+400MH,W,sprint,18.0,Jourdin Edwards,Kansas State,KSST,JR,58.16,0,False,1,False
+400MH,W,sprint,19.0,Jenna James,Oklahoma,OU,SR,58.18,0,False,1,False
+400MH,W,sprint,20.0,LiNay Perry,Northern Arizona,NAU,SR,58.33,0,False,1,False
+400MH,W,sprint,21.0,Loubna Benhadja,UTEP,UTEP,SR,58.41,0,False,1,False
+400MH,W,sprint,22.0,Dyandra Gray,Minnesota,MINN,SR,58.86,0,False,1,False
+400MH,W,sprint,23.0,Tia Williams,TCU,TCU,SO,59.17,0,False,1,False
+400MH,W,sprint,24.0,Calisha Taylor,Baylor,BAY,SR,59.70,0,False,1,False
+4x100M,W,relay,1.0,USC,USC,USC,,42.22,10,True,2,True
+4x100M,W,relay,2.0,SOUTH CAROLINA,South Carolina,SCAR,,42.40,8,True,2,True
+4x100M,W,relay,3.0,TEXAS A&M,Texas A&M,TAMU,,42.89,6,True,2,True
+4x100M,W,relay,4.0,TCU,TCU,TCU,,42.97,5,True,2,True
+4x100M,W,relay,5.0,TEXAS,Texas,TEX,,42.98,4,True,2,True
+4x100M,W,relay,6.0,HOWARD,Howard,HOW,,43.23,3,True,2,True
+4x100M,W,relay,7.0,FLORIDA STATE,Florida State,FSU,,43.30,2,True,2,True
+4x100M,W,relay,8.0,LSU,LSU,LSU,,43.32,1,True,2,True
+4x100M,W,relay,,FLORIDA,Florida,UF,,DNF,0,True,2,True
+4x100M,W,relay,1.0,USC,USC,USC,,42.55,0,True,1,False
+4x100M,W,relay,2.0,SOUTH CAROLINA,South Carolina,SCAR,,42.58,0,True,1,False
+4x100M,W,relay,3.0,TEXAS A&M,Texas A&M,TAMU,,42.92,0,True,1,False
+4x100M,W,relay,4.0,FLORIDA STATE,Florida State,FSU,,42.93,0,True,1,False
+4x100M,W,relay,5.0,TCU,TCU,TCU,,42.97,0,True,1,False
+4x100M,W,relay,6.0,TEXAS,Texas,TEX,,43.01,0,True,1,False
+4x100M,W,relay,7.0,FLORIDA,Florida,UF,,43.06,0,True,1,False
+4x100M,W,relay,8.0,HOWARD,Howard,HOW,,43.08,0,True,1,False
+4x100M,W,relay,9.0,BAYLOR,Baylor,BAY,,43.17,0,True,1,False
+4x100M,W,relay,10.0,LSU,LSU,LSU,,43.30,0,True,1,False
+4x100M,W,relay,11.0,OHIO STATE,Ohio State,OHST,,43.32,0,True,1,False
+4x100M,W,relay,12.0,UCLA,UCLA,UCLA,,43.35,0,True,1,False
+4x100M,W,relay,13.0,TENNESSEE,Tennessee,TENN,,43.36,0,True,1,False
+4x100M,W,relay,14.0,CLEMSON,Clemson,CLEM,,43.39,0,True,1,False
+4x100M,W,relay,15.0,TARLETON STATE,Tarleton State,TARL,,43.74,0,True,1,False
+4x100M,W,relay,16.0,DUKE,Duke,DUKE,,43.77,0,True,1,False
+4x100M,W,relay,17.0,UTAH,Utah,UTAH,,43.86,0,True,1,False
+4x100M,W,relay,18.0,OREGON,Oregon,UO,,43.94,0,True,1,False
+4x100M,W,relay,19.0,STANFORD,Stanford,STAN,,43.98,0,True,1,False
+4x100M,W,relay,20.0,IOWA,Iowa,IOWA,,43.99,0,True,1,False
+4x100M,W,relay,21.0,UCF,UCF,UCF,,44.19,0,True,1,False
+4x100M,W,relay,,GEORGIA,Georgia,UGA,,DQR: 15.9c ⓘ,0,True,1,False
+4x100M,W,relay,,KENTUCKY,Kentucky,UK,,DQR: 15.9c ⓘ,0,True,1,False
+4x100M,W,relay,,ILLINOIS,Illinois,ILL,,DQR: 15.5-2b ⓘ,0,True,1,False
+4x400M,W,relay,1.0,GEORGIA,Georgia,UGA,,3:23.62,10,True,2,True
+4x400M,W,relay,2.0,ARKANSAS,Arkansas,ARK,,3:24.25,8,True,2,True
+4x400M,W,relay,3.0,USC,USC,USC,,3:26.01,6,True,2,True
+4x400M,W,relay,4.0,TEXAS A&M,Texas A&M,TAMU,,3:27.11,5,True,2,True
+4x400M,W,relay,5.0,DUKE,Duke,DUKE,,3:27.40,4,True,2,True
+4x400M,W,relay,6.0,IOWA,Iowa,IOWA,,3:27.42,3,True,2,True
+4x400M,W,relay,7.0,UCLA,UCLA,UCLA,,3:31.14,2,True,2,True
+4x400M,W,relay,8.0,MIAMI (FLA.),Miami (Fla.),MIAF,,3:47.22,1,True,2,True
+4x400M,W,relay,,SOUTH CAROLINA,South Carolina,SCAR,,DNS,0,True,2,True
+4x400M,W,relay,1.0,ARKANSAS,Arkansas,ARK,,3:26.08,0,True,1,False
+4x400M,W,relay,2.0,GEORGIA,Georgia,UGA,,3:26.89,0,True,1,False
+4x400M,W,relay,3.0,USC,USC,USC,,3:27.31,0,True,1,False
+4x400M,W,relay,4.0,IOWA,Iowa,IOWA,,3:27.61,0,True,1,False
+4x400M,W,relay,5.0,SOUTH CAROLINA,South Carolina,SCAR,,3:27.95,0,True,1,False
+4x400M,W,relay,6.0,MIAMI (FLA.),Miami (Fla.),MIAF,,3:28.61,0,True,1,False
+4x400M,W,relay,7.0,DUKE,Duke,DUKE,,3:28.98,0,True,1,False
+4x400M,W,relay,8.0,TEXAS A&M,Texas A&M,TAMU,,3:29.00,0,True,1,False
+4x400M,W,relay,9.0,UCLA,UCLA,UCLA,,3:29.63,0,True,1,False
+4x400M,W,relay,10.0,FLORIDA STATE,Florida State,FSU,,3:30.14,0,True,1,False
+4x400M,W,relay,11.0,AUBURN,Auburn,AUB,,3:30.34,0,True,1,False
+4x400M,W,relay,12.0,LSU,LSU,LSU,,3:30.45,0,True,1,False
+4x400M,W,relay,13.0,CLEMSON,Clemson,CLEM,,3:31.83,0,True,1,False
+4x400M,W,relay,14.0,KENTUCKY,Kentucky,UK,,3:31.95,0,True,1,False
+4x400M,W,relay,15.0,TENNESSEE,Tennessee,TENN,,3:32.03,0,True,1,False
+4x400M,W,relay,16.0,NEW MEXICO,New Mexico,UNM,,3:32.38,0,True,1,False
+4x400M,W,relay,17.0,IOWA STATE,Iowa State,IAST,,3:32.58,0,True,1,False
+4x400M,W,relay,18.0,HARVARD,Harvard,HARV,,3:33.75(3:33.744),0,True,1,False
+4x400M,W,relay,19.0,MICHIGAN,Michigan,MICH,,3:33.75(3:33.748),0,True,1,False
+4x400M,W,relay,20.0,TEXAS TECH,Texas Tech,TTU,,3:35.47,0,True,1,False
+4x400M,W,relay,21.0,MONTANA STATE,Montana State,MTST,,3:36.70,0,True,1,False
+4x400M,W,relay,22.0,TCU,TCU,TCU,,3:37.59,0,True,1,False
+4x400M,W,relay,23.0,ARIZONA,Arizona,ARIZ,,3:37.66,0,True,1,False
+4x400M,W,relay,24.0,BAYLOR,Baylor,BAY,,3:41.87,0,True,1,False
+High Jump,W,jump,1.0,Elena Kulichenko,Georgia,UGA,SR,1.96m6-5,10,False,1,True
+High Jump,W,jump,2.0,Rose Yeboah,Illinois,ILL,SR,1.93m6-4,8,False,1,True
+High Jump,W,jump,3.0,Jenna Rogers,Nebraska,NEB,SR,1.90m6-2¾,6,False,1,True
+High Jump,W,jump,4.0,Alyssa Jones,Stanford,STAN,JR,1.90m6-2¾,5,False,1,True
+High Jump,W,jump,5.0,Temitope Adeshina,Texas Tech,TTU,SO,1.87m6-1½,4,False,1,True
+High Jump,W,jump,6.0,Kristi Perez-Snyman,Missouri,MIZZ,SR,1.87m6-1½,3,False,1,True
+High Jump,W,jump,7.0,Celia Rifaterra,Virginia,UVA,JR,1.84m6-½,2,False,1,True
+High Jump,W,jump,8.0,Valentina Fakrogha,UCLA,UCLA,FR,1.84m6-½,1,False,1,True
+High Jump,W,jump,9.0,Ajia Hughes,Southern Utah,SUU,JR,1.84m6-½,0,False,1,True
+High Jump,W,jump,9.0,Spirit Morgan,N. Carolina A&T,NCAT,JR,1.84m6-½,0,False,1,True
+High Jump,W,jump,11.0,Claudina Diaz,Missouri,MIZZ,SR,1.84m6-½,0,False,1,True
+High Jump,W,jump,12.0,Eva Baldursdottir,Pittsburgh,PITT,JR,1.84m6-½,0,False,1,True
+High Jump,W,jump,13.0,Cheyla Scott,South Carolina,SCAR,JR,1.79m5-10½,0,False,1,True
+High Jump,W,jump,13.0,Miracle Ailes,Alabama,BAMA,SR,1.79m5-10½,0,False,1,True
+High Jump,W,jump,13.0,Diamonasia Taylor,Murray State,MURR,SO,1.79m5-10½,0,False,1,True
+High Jump,W,jump,16.0,Amaya Ugarte,Ohio State,OHST,SR,1.79m5-10½,0,False,1,True
+High Jump,W,jump,16.0,Zharia Taylor,UC Irvine,UCI,JR,1.79m5-10½,0,False,1,True
+High Jump,W,jump,18.0,Maria Arboleda,Iowa,IOWA,FR,1.79m5-10½,0,False,1,True
+High Jump,W,jump,19.0,Sharie Enoe,Kansas State,KSST,SO,1.74m5-8½,0,False,1,True
+High Jump,W,jump,19.0,Kendall Ward,Georgia Tech,GT,SO,1.74m5-8½,0,False,1,True
+High Jump,W,jump,19.0,Carly Tarentino,Virginia,UVA,SR,1.74m5-8½,0,False,1,True
+High Jump,W,jump,19.0,Zahra Amos,Buffalo,BUFF,SR,1.74m5-8½,0,False,1,True
+High Jump,W,jump,23.0,Svenia DeConinck,Kent State,KENT,JR,1.74m5-8½,0,False,1,True
+High Jump,W,jump,23.0,Alice Taylor,Rice,RICE,SO,1.74m5-8½,0,False,1,True
+Pole Vault,W,jump,1.0,Hana Moll,Washington,WASH,SO,4.79m15-8½,10,False,1,True
+Pole Vault,W,jump,2.0,Chloe Timberg,Rutgers,RUTG,SR,4.49m14-8¾,8,False,1,True
+Pole Vault,W,jump,3.0,Amanda Moll,Washington,WASH,SO,4.49m14-8¾,6,False,1,True
+Pole Vault,W,jump,4.0,Erica Ellis,Kansas,KU,SR,4.44m14-6¾,5,False,1,True
+Pole Vault,W,jump,4.0,Anna Willis,South Dakota,SDAK,FR,4.44m14-6¾,5,False,1,True
+Pole Vault,W,jump,6.0,Emily Fitzsimmons,Oregon,UO,JR,4.44m14-6¾,3,False,1,True
+Pole Vault,W,jump,7.0,Gennifer Hirata,South Dakota,SDAK,SR,4.44m14-6¾,2,False,1,True
+Pole Vault,W,jump,8.0,Mia Morello,Illinois,ILL,JR,4.39m14-4¾,1,False,1,True
+Pole Vault,W,jump,8.0,Molly Haywood,Baylor,BAY,SO,4.39m14-4¾,1,False,1,True
+Pole Vault,W,jump,10.0,Sydney Horn,High Point,HPU,SR,4.39m14-4¾,0,False,1,True
+Pole Vault,W,jump,11.0,Johanna Duplantis,LSU,LSU,SR,4.39m14-4¾,0,False,1,True
+Pole Vault,W,jump,12.0,Ashley Callahan,Louisville,LOU,JR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,12.0,Ka'Leila Abrille,UCLA,UCLA,SR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,12.0,Sarah Schmitt,Tennessee,TENN,SR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,12.0,Carly Pujol,Arkansas State,ARST,JR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,16.0,Chiara Sistermann,Virginia Tech,VT,SO,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,17.0,Lilly Nichols,App State,APST,FR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,17.0,Lyndsey Reed,Virginia Tech,VT,SR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,17.0,Julia Fixsen,Virginia Tech,VT,SR,4.24m13-11,0,False,1,True
+Pole Vault,W,jump,20.0,Gemma Tutton,Duke,DUKE,SO,4.09m13-5,0,False,1,True
+Pole Vault,W,jump,20.0,Payton Phillips,Kentucky,UK,SR,4.09m13-5,0,False,1,True
+Pole Vault,W,jump,20.0,Alyssa Quinones-Mixon,Auburn,AUB,JR,4.09m13-5,0,False,1,True
+Pole Vault,W,jump,,Tenly KUHN,Baylor,BAY,SR,NH,0,False,1,True
+Pole Vault,W,jump,,Katerina ADAMIEC,UCLA,UCLA,SR,NH,0,False,1,True
+Long Jump,W,jump,1.0,Synclair Savage,Louisville,LOU,SR,6.72m22-¾,10,False,1,True
+Long Jump,W,jump,2.0,Alyssa Jones,Stanford,STAN,JR,6.70m21-11¾,8,False,1,True
+Long Jump,W,jump,3.0,Alexis Brown,Baylor,BAY,SR,6.63m21-9,6,False,1,True
+Long Jump,W,jump,4.0,Tacoria Humphrey,Illinois,ILL,SR,6.62m21-8¾,5,False,1,True
+Long Jump,W,jump,5.0,Anthaya Charlton,Florida,UF,JR,6.58m21-7¼,4,False,1,True
+Long Jump,W,jump,6.0,Sophia Beckmon,Illinois,ILL,SO,6.49m21-3½,3,False,1,True
+Long Jump,W,jump,7.0,Aaliyah Foster,Texas,TEX,SO,6.47m21-2¾,2,False,1,True
+Long Jump,W,jump,8.0,Prestina Ochonogor,Tarleton State,TARL,FR,6.41m21-½,1,False,1,True
+Long Jump,W,jump,9.0,Mariia Horielova,Alabama,BAMA,SO,6.39m20-11¾,0,False,1,True
+Long Jump,W,jump,10.0,Jenica Bosko,Arizona,ARIZ,SR,6.29m20-7¾,0,False,1,True
+Long Jump,W,jump,11.0,Georgina Scoot,Princeton,PRIN,JR,6.21m20-4½,0,False,1,True
+Long Jump,W,jump,12.0,Janae De Gannes,Baylor,BAY,FR,6.18m20-3½,0,False,1,True
+Long Jump,W,jump,13.0,Marta Amani,Harvard,HARV,SO,6.17m20-3,0,False,1,True
+Long Jump,W,jump,14.0,Sydney Johnson,UCLA,UCLA,SR,6.15m20-2¼,0,False,1,True
+Long Jump,W,jump,15.0,Shalom Olotu,Kansas State,KSST,SR,6.14m20-1¾,0,False,1,True
+Long Jump,W,jump,16.0,Alyssa Banales,Florida,UF,FR,6.10m20-¼,0,False,1,True
+Long Jump,W,jump,17.0,Paige Floriea,Rutgers,RUTG,SR,6.05m19-10¼,0,False,1,True
+Long Jump,W,jump,18.0,Imani Moore,Georgia Southern,GASO,SR,6.02m19-9,0,False,1,True
+Long Jump,W,jump,19.0,Funminiyi Olajide,Arkansas,ARK,SR,6.01m19-8¾,0,False,1,True
+Long Jump,W,jump,20.0,Hailey Coey,Montana State,MTST,JR,6.00m19-8¼,0,False,1,True
+Long Jump,W,jump,21.0,Julia Sue-Kam-Ling,Jacksonville,JACK,JR,5.92m19-5¼,0,False,1,True
+Long Jump,W,jump,22.0,Ella Scally,Miami (Ohio),MIAO,JR,5.92m19-5¼,0,False,1,True
+Long Jump,W,jump,23.0,Mariama Hunt,NC State,NCSU,FR,5.87m19-3¼,0,False,1,True
+Long Jump,W,jump,,Molly Wise,Richmond,RICH,SO,X,0,False,1,True
+Triple Jump,W,jump,1.0,Winny Bii,Texas A&M,TAMU,JR,13.96m45-9¾,10,False,1,True
+Triple Jump,W,jump,2.0,Emilia Sjostrand,San Jose St.,SJSU,SR,13.88m45-6½,8,False,1,True
+Triple Jump,W,jump,3.0,Agur Dwol,Oklahoma,OU,JR,13.77m45-2¼,6,False,1,True
+Triple Jump,W,jump,4.0,Shantae Foreman,Clemson,CLEM,JR,13.72m45-¼,5,False,1,True
+Triple Jump,W,jump,5.0,Victoria Gorlova,Texas Tech,TTU,SR,13.53m44-4¾,4,False,1,True
+Triple Jump,W,jump,6.0,Skylynn Townsend,Georgia,UGA,FR,13.52m44-4¼,3,False,1,True
+Triple Jump,W,jump,7.0,Ashley Moore,Oklahoma,OU,SR,13.30m43-7¾,2,False,1,True
+Triple Jump,W,jump,8.0,Ryann Porter,Oregon,UO,SR,13.22m43-4½,1,False,1,True
+Triple Jump,W,jump,9.0,Asia Phillips,Florida,UF,FR,13.13m43-1,0,False,1,True
+Triple Jump,W,jump,10.0,Tamiah Washington,Texas Tech,TTU,SO,13.06m42-10¼,0,False,1,True
+Triple Jump,W,jump,11.0,Christina Warren,Miami (Fla.),MIAF,SR,13.03m42-9,0,False,1,True
+Triple Jump,W,jump,12.0,Shalom Olotu,Kansas State,KSST,SR,13.02m42-8¾,0,False,1,True
+Triple Jump,W,jump,13.0,Sharvari Parulekar,Louisville,LOU,JR,13.01m42-8¼,0,False,1,True
+Triple Jump,W,jump,14.0,Simone Johnson,San Jose St.,SJSU,SR,13.01m42-8¼,0,False,1,True
+Triple Jump,W,jump,15.0,Kayla Pinkard,Florida State,FSU,JR,12.98m42-7,0,False,1,True
+Triple Jump,W,jump,16.0,Rachela Pace,UTSA,UTSA,SR,12.92m42-4¾,0,False,1,True
+Triple Jump,W,jump,17.0,Cameran Gist,South Carolina,SCAR,FR,12.90m42-4,0,False,1,True
+Triple Jump,W,jump,18.0,Daniela Wamokpego,Iowa,IOWA,SO,12.71m41-8½,0,False,1,True
+Triple Jump,W,jump,19.0,Machaeda Linton,LSU,LSU,JR,12.67m41-7,0,False,1,True
+Triple Jump,W,jump,20.0,Jada Joseph,Brown,BRWN,SR,12.58m41-3¼,0,False,1,True
+Triple Jump,W,jump,21.0,Georgina Scoot,Princeton,PRIN,JR,12.56m41-2½,0,False,1,True
+Triple Jump,W,jump,22.0,Katharina Graman,San Jose St.,SJSU,SO,12.52m41-1,0,False,1,True
+Triple Jump,W,jump,23.0,Olivia Dowd,N. Carolina A&T,NCAT,JR,12.46m40-10½,0,False,1,True
+Triple Jump,W,jump,24.0,Sophie Galloway,Kentucky,UK,JR,12.42m40-9,0,False,1,True
+Shot Put,W,throw,1.0,Mya Lesnar,Colorado State,COST,SR,19.01m62-4½,10,False,1,True
+Shot Put,W,throw,2.0,Abria Smith,Illinois,ILL,SR,18.85m61-10¼,8,False,1,True
+Shot Put,W,throw,3.0,Nina Ndubuisi,Texas,TEX,SO,18.50m60-8½,6,False,1,True
+Shot Put,W,throw,4.0,Jayden Ulrich,Louisville,LOU,SR,18.26m59-11,5,False,1,True
+Shot Put,W,throw,5.0,Ashley Erasmus,USC,USC,FR,17.99m59-¼,4,False,1,True
+Shot Put,W,throw,6.0,Kelsie Murrell-Ross,Georgia,UGA,SR,17.80m58-4¾,3,False,1,True
+Shot Put,W,throw,7.0,MyeJoi Williams,Alabama,BAMA,SR,17.73m58-2,2,False,1,True
+Shot Put,W,throw,8.0,Cierra Jackson,Fresno State,FRES,SR,17.70m58-1,1,False,1,True
+Shot Put,W,throw,9.0,Alida Van Daalen,Florida,UF,JR,17.26m56-7½,0,False,1,True
+Shot Put,W,throw,10.0,Gracelyn Leiseth,Florida,UF,SO,17.23m56-6½,0,False,1,True
+Shot Put,W,throw,11.0,Chrystal Herpin,Texas,TEX,SR,17.19m56-4¾,0,False,1,True
+Shot Put,W,throw,12.0,Akaoma Odeluga,Ole Miss,MISS,SO,17.14m56-2¾,0,False,1,True
+Shot Put,W,throw,13.0,Megan Hague,Auburn,AUB,JR,17.07m56-0,0,False,1,True
+Shot Put,W,throw,14.0,Elizabeth Tapper,Michigan,MICH,SO,16.97m55-8¼,0,False,1,True
+Shot Put,W,throw,15.0,Makayla Hunter,Indiana,IU,JR,16.86m55-3¾,0,False,1,True
+Shot Put,W,throw,16.0,Tapenisa Havea,Arizona,ARIZ,JR,16.67m54-8¼,0,False,1,True
+Shot Put,W,throw,17.0,Kalynn Meyer,Nebraska,NEB,SR,16.66m54-8,0,False,1,True
+Shot Put,W,throw,18.0,Melanie Duron,Texas State,TXST,JR,16.59m54-5¼,0,False,1,True
+Shot Put,W,throw,19.0,Kellyn Kortemeyer,Nebraska,NEB,SO,16.58m54-4¾,0,False,1,True
+Shot Put,W,throw,20.0,Treneese Hamilton,Alabama,BAMA,JR,16.52m54-2½,0,False,1,True
+Shot Put,W,throw,21.0,Abigail Russell,Michigan,MICH,FR,16.38m53-9,0,False,1,True
+Shot Put,W,throw,22.0,Lucija Leko,California,CAL,SO,16.25m53-3¾,0,False,1,True
+Shot Put,W,throw,23.0,Amanda Ngandu-Ntumba,Cincinnati,CINC,SR,16.05m52-8,0,False,1,True
+Shot Put,W,throw,24.0,Gretchen Hoekstre,BYU,BYU,SR,15.88m52-1¼,0,False,1,True
+Discus,W,throw,1.0,Cierra Jackson,Fresno State,FRES,SR,65.82m215-11,10,False,1,True
+Discus,W,throw,2.0,Alida Van Daalen,Florida,UF,JR,64.94m213-1,8,False,1,True
+Discus,W,throw,3.0,Shelby Frank,Texas Tech,TTU,SR,63.37m207-11,6,False,1,True
+Discus,W,throw,4.0,Caisa-Marie Lindfors,California,CAL,SR,62.57m205-3,5,False,1,True
+Discus,W,throw,5.0,Amanda Ngandu-Ntumba,Cincinnati,CINC,SR,60.77m199-4,4,False,1,True
+Discus,W,throw,6.0,Adrienne Adams,Auburn,AUB,SR,60.55m198-8,3,False,1,True
+Discus,W,throw,7.0,Jayden Ulrich,Louisville,LOU,SR,60.25m197-8,2,False,1,True
+Discus,W,throw,8.0,Michaelle Valentin,FIU,FIU,SR,59.67m195-9,1,False,1,True
+Discus,W,throw,9.0,Estel Valeanu,Virginia,UVA,SR,58.22m191-0,0,False,1,True
+Discus,W,throw,10.0,Ines Lopez,Arizona State,AZST,JR,57.36m188-2,0,False,1,True
+Discus,W,throw,11.0,Princesse Hyman,LSU,LSU,FR,56.50m185-4,0,False,1,True
+Discus,W,throw,12.0,Sofia Sluchaninova,Kansas,KU,JR,56.30m184-8,0,False,1,True
+Discus,W,throw,13.0,Zoe Burleson,Texas Tech,TTU,SR,55.83m183-2,0,False,1,True
+Discus,W,throw,14.0,Milina Wepiwe,Harvard,HARV,SO,55.64m182-6,0,False,1,True
+Discus,W,throw,15.0,Jade Whitfield,Louisville,LOU,SR,55.25m181-3,0,False,1,True
+Discus,W,throw,16.0,Donna Douglas,Tennessee,TENN,FR,54.90m180-1,0,False,1,True
+Discus,W,throw,17.0,Tamaiah Koonce,Kansas State,KSST,JR,54.85m179-11,0,False,1,True
+Discus,W,throw,18.0,Krishna Jayasankar Menon,UNLV,UNLV,JR,52.99m173-10,0,False,1,True
+Discus,W,throw,19.0,Jamora Alves,St. John's,SJON,JR,52.60m172-7,0,False,1,True
+Discus,W,throw,20.0,Taylor Kesner,Wisconsin,WISC,JR,52.01m170-7,0,False,1,True
+Discus,W,throw,21.0,Paige Low,Oklahoma,OU,SR,51.53m169-0,0,False,1,True
+Discus,W,throw,22.0,Gretchen Hoekstre,BYU,BYU,SR,50.46m165-7,0,False,1,True
+Discus,W,throw,23.0,Angeludi Asaah,Penn,PENN,JR,50.33m165-1,0,False,1,True
+Discus,W,throw,,Klaire Kovatch,Colorado State,COST,JR,X,0,False,1,True
+Hammer,W,throw,1.0,Stephanie Ratcliffe,Georgia,UGA,SR,71.37m234-2,10,False,1,True
+Hammer,W,throw,2.0,Shelby Frank,Texas Tech,TTU,SR,71.05m233-1,8,False,1,True
+Hammer,W,throw,3.0,Lara Roberts,Texas State,TXST,SO,70.42m231-0,6,False,1,True
+Hammer,W,throw,4.0,Emma Robbins,Oklahoma State,OKST,SR,69.27m227-3,5,False,1,True
+Hammer,W,throw,5.0,Giavonna Meeks,California,CAL,SO,68.94m226-2,4,False,1,True
+Hammer,W,throw,6.0,Gudrun Hallgrimsdottir,VCU,VCU,SR,68.66m225-3,3,False,1,True
+Hammer,W,throw,7.0,Kenna Curry,North Dakota,UND,SR,68.16m223-7,2,False,1,True
+Hammer,W,throw,8.0,Chloe Lindeman,Wisconsin,WISC,SR,67.82m222-6,1,False,1,True
+Hammer,W,throw,9.0,Emilia Kolokotroni,Harvard,HARV,SO,67.82m222-6,0,False,1,True
+Hammer,W,throw,10.0,Valentina Savva,California,CAL,FR,66.84m219-3,0,False,1,True
+Hammer,W,throw,11.0,Mariana Pestana,Virginia Tech,VT,SO,66.41m217-10,0,False,1,True
+Hammer,W,throw,12.0,Monique Hardy,Kansas State,KSST,SR,65.17m213-9,0,False,1,True
+Hammer,W,throw,13.0,Kali Terza,Kennesaw State,KENN,JR,64.98m213-2,0,False,1,True
+Hammer,W,throw,14.0,Annika Kelly,Virginia,UVA,SR,64.87m212-10,0,False,1,True
+Hammer,W,throw,15.0,Chioma Njoku,Maryland,UMD,SR,64.86m212-9,0,False,1,True
+Hammer,W,throw,16.0,Paola Bueno,Liberty,LIB,JR,64.78m212-6,0,False,1,True
+Hammer,W,throw,17.0,Marie Rougetet,Miss State,MSST,FR,64.66m212-2,0,False,1,True
+Hammer,W,throw,18.0,Audrey Jacobs,California,CAL,SO,63.74m209-1,0,False,1,True
+Hammer,W,throw,19.0,Kassidy Gallagher,Oklahoma,OU,SR,63.47m208-3,0,False,1,True
+Hammer,W,throw,20.0,Kennedy Clarke,Oklahoma,OU,SO,63.36m207-10,0,False,1,True
+Hammer,W,throw,21.0,Kajsa Borrman,Colorado State,COST,SO,63.19m207-3,0,False,1,True
+Hammer,W,throw,22.0,Emily Fink,Army West Point,ARMY,SR,62.20m204-1,0,False,1,True
+Hammer,W,throw,23.0,Kate Powers,Kentucky,UK,SO,60.10m197-2,0,False,1,True
+Hammer,W,throw,,Skylar Soli,Ole Miss,MISS,SO,X,0,False,1,True
+Javelin,W,throw,1.0,Valentina Barrios Bornacelli,Missouri,MIZZ,JR,62.00m203-5,10,False,1,True
+Javelin,W,throw,2.0,Manuela Rotundo,Georgia,UGA,FR,60.35m198-0,8,False,1,True
+Javelin,W,throw,3.0,Irene Jepkemboi,TCU,TCU,SO,60.31m197-10,6,False,1,True
+Javelin,W,throw,4.0,Lianna Davidson,Georgia,UGA,SR,59.03m193-8,5,False,1,True
+Javelin,W,throw,5.0,Maddie Harris,Nebraska,NEB,SR,58.36m191-6,4,False,1,True
+Javelin,W,throw,6.0,Jana van Schalkwyk,UCLA,UCLA,SR,57.07m187-3,3,False,1,True
+Javelin,W,throw,7.0,McKyla Van Der Westhuizen,Rice,RICE,JR,56.65m185-10,2,False,1,True
+Javelin,W,throw,8.0,Kelsi Oldroyd,Utah Valley,UVU,SR,56.37m184-11,1,False,1,True
+Javelin,W,throw,9.0,Kate Joyce,North Carolina,UNC,SR,56.03m183-10,0,False,1,True
+Javelin,W,throw,10.0,Shea Greene,Princeton,PRIN,JR,55.64m182-6,0,False,1,True
+Javelin,W,throw,11.0,Lilly Urban,Nevada,NEV,SO,55.27m181-4,0,False,1,True
+Javelin,W,throw,12.0,Evelyn Bliss,Bucknell,BUCK,SO,55.09m180-9,0,False,1,True
+Javelin,W,throw,13.0,Elizabeth Korczak,Iowa,IOWA,JR,53.18m174-6,0,False,1,True
+Javelin,W,throw,14.0,Maria Bienvenu,TCU,TCU,SR,52.87m173-5,0,False,1,True
+Javelin,W,throw,15.0,Eniko Sara,Nebraska,NEB,SR,52.18m171-2,0,False,1,True
+Javelin,W,throw,16.0,Megan Albamonti,Alabama,BAMA,SR,50.91m167-0,0,False,1,True
+Javelin,W,throw,17.0,Emma Yungeberg,Michigan,MICH,JR,50.88m166-11,0,False,1,True
+Javelin,W,throw,18.0,Erin McMeniman,Georgia,UGA,SR,50.11m164-5,0,False,1,True
+Javelin,W,throw,19.0,Arndis Oskarsdottir,FIU,FIU,FR,49.96m163-11,0,False,1,True
+Javelin,W,throw,20.0,Sara Sanders,Oregon State,ORST,SR,48.47m159-0,0,False,1,True
+Javelin,W,throw,21.0,Deisiane Teixeira,Miami (Fla.),MIAF,SR,48.03m157-7,0,False,1,True
+Javelin,W,throw,22.0,Taylor Kesner,Wisconsin,WISC,JR,47.43m155-7,0,False,1,True
+Javelin,W,throw,23.0,Trinity Spooner,LSU,LSU,SO,46.05m151-1,0,False,1,True
+Javelin,W,throw,24.0,Beatriz Mora Herencia,Albany,ALBY,FR,43.83m143-9,0,False,1,True
+Heptathlon,W,multi,1.0,Jadin O'Brien,Notre Dame,ND,SR,13.33,10,False,1,True
+Heptathlon,W,multi,2.0,Alaina Brady,Notre Dame,ND,SR,13.41,8,False,1,True
+Heptathlon,W,multi,3.0,Sofia Cosculluela,Washington,WASH,FR,13.48,6,False,1,True
+Heptathlon,W,multi,4.0,Sofia Iakushina,Texas A&M,TAMU,FR,13.53,5,False,1,True
+Heptathlon,W,multi,5.0,Izzy Goudros,Harvard,HARV,SR,13.61,4,False,1,True
+Heptathlon,W,multi,6.0,Pippi Lotta Enok,Oklahoma,OU,JR,13.65(13.645),3,False,1,True
+Heptathlon,W,multi,7.0,Juliette Laracuente-Huebner,Cincinnati,CINC,SO,13.65(13.646),2,False,1,True
+Heptathlon,W,multi,8.0,Claudine Raud-Gumiel,Long Beach St.,LBST,SR,13.66,1,False,1,True
+Heptathlon,W,multi,9.0,Jalen Elrod,Purdue,PURD,SR,13.72,0,False,1,True
+Heptathlon,W,multi,10.0,Maddie Pitts,Penn State,PSU,JR,13.74,0,False,1,True
+Heptathlon,W,multi,11.0,Melissa Wullschleger,Illinois,ILL,FR,13.75,0,False,1,True
+Heptathlon,W,multi,12.0,Sydney Johnson,UCLA,UCLA,SR,13.79,0,False,1,True
+Heptathlon,W,multi,13.0,Maresa Hense,Connecticut,CONN,FR,13.86,0,False,1,True
+Heptathlon,W,multi,14.0,Shelby Grover,Kent State,KENT,SO,13.90,0,False,1,True
+Heptathlon,W,multi,15.0,Annie Molenhouse,Oklahoma State,OKST,JR,13.94,0,False,1,True
+Heptathlon,W,multi,16.0,Annika Williams,Oregon,UO,SR,13.96,0,False,1,True
+Heptathlon,W,multi,17.0,Kenli Nettles,Ball State,BALL,SR,14.02,0,False,1,True
+Heptathlon,W,multi,18.0,Mia Lien,UTSA,UTSA,FR,14.08,0,False,1,True
+Heptathlon,W,multi,19.0,Ella Spaulding,Fresno State,FRES,SO,14.09,0,False,1,True
+Heptathlon,W,multi,20.0,Katelyn Adel,Alabama,BAMA,FR,14.12,0,False,1,True
+Heptathlon,W,multi,21.0,Lucy Fellows,Louisville,LOU,SO,14.23(14.224),0,False,1,True
+Heptathlon,W,multi,22.0,Destiny Masters,Wichita State,WICH,SR,14.23(14.228),0,False,1,True
+Heptathlon,W,multi,23.0,Lucie Kienast,Illinois,ILL,FR,14.34,0,False,1,True
+Heptathlon,W,multi,24.0,Clare McNamara,Michigan,MICH,SR,14.96,0,False,1,True

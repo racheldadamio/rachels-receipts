@@ -186,18 +186,59 @@ def main():
     for event_id, event_name, gender, rounds, is_relay, category in EVENTS:
         label = f"{gender} {event_name}"
         print(f"  {label:<20}", end=" ")
-        fetched = False
-        for rnd in rounds:
-            url = f"{BASE_URL}{event_id}-{rnd}_compiled.htm"
+
+        if len(rounds) == 1:
+            # Single-round event — scrape as before
+            url = f"{BASE_URL}{event_id}-{rounds[0]}_compiled.htm"
             rows = scrape_page(url, event_name, gender, is_relay, category)
             if rows:
+                for r in rows:
+                    r['round'] = rounds[0]
+                    r['is_final'] = True
                 all_results.extend(rows)
-                print(f"ok  ({len(rows)} rows, round {rnd})")
-                fetched = True
-                break
-            time.sleep(0.2)
-        if not fetched:
-            print("MISSING")
+                print(f"ok ({len(rows)} rows, round {rounds[0]})")
+            else:
+                print("MISSING")
+        else:
+            # Multi-round event: rounds[0] = final, rounds[-1] = prelim
+            final_rnd, prelim_rnd = rounds[0], rounds[-1]
+
+            final_url = f"{BASE_URL}{event_id}-{final_rnd}_compiled.htm"
+            final_rows = scrape_page(final_url, event_name, gender, is_relay, category)
+
+            if final_rows:
+                for r in final_rows:
+                    r['round'] = final_rnd
+                    r['is_final'] = True
+                all_results.extend(final_rows)
+                print(f"final rnd{final_rnd} ({len(final_rows)} rows)", end="")
+
+                time.sleep(0.2)
+                prelim_url = f"{BASE_URL}{event_id}-{prelim_rnd}_compiled.htm"
+                prelim_rows = scrape_page(prelim_url, event_name, gender, is_relay, category)
+                if prelim_rows:
+                    for r in prelim_rows:
+                        r['round'] = prelim_rnd
+                        r['is_final'] = False
+                        r['points'] = 0
+                    all_results.extend(prelim_rows)
+                    print(f" + prelim ({len(prelim_rows)} rows)")
+                else:
+                    print(" (no prelim found)")
+            else:
+                # Fallback: use prelim as the final round
+                time.sleep(0.2)
+                prelim_url = f"{BASE_URL}{event_id}-{prelim_rnd}_compiled.htm"
+                prelim_rows = scrape_page(prelim_url, event_name, gender, is_relay, category)
+                if prelim_rows:
+                    for r in prelim_rows:
+                        r['round'] = prelim_rnd
+                        r['is_final'] = True
+                    all_results.extend(prelim_rows)
+                    print(f"ok rnd{prelim_rnd} ({len(prelim_rows)} rows, used as final)")
+                else:
+                    print("MISSING")
+
         time.sleep(0.4)
 
     df = pd.DataFrame(all_results)
@@ -205,7 +246,8 @@ def main():
     df.to_csv(out, index=False)
     print(f"\nSaved {len(df)} rows to {out}")
 
-    summary = df.groupby(["gender", "event"])["place"].count().rename("n_finishers")
+    summary = (df[df['is_final']].groupby(["gender", "event"])["place"]
+               .count().rename("n_finishers"))
     print(summary.to_string())
 
 
